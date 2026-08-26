@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1674081369830436864",
+    "conversation_id": "2083341534397890593",
+    "created_at": "2026-07-31T23:58:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T00:34:03.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083335411645227428",
+      "2083341534397890593"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2083341534397890593",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "作了一個很長很長的夢中夢\n\n我在夢中夢去了另一個世界\n夢中醒後我知道再也回不去了\n結果夢中睡了在夢中夢回到同一個世界\n很開心\n當時我很深信這個世界的存在\n真正醒來之後我以為自己夢過一樣的情景\n原來只是在夢中重返過\n雖然什麼真實的另一個世界是假的吧？\n但也許是真的呢？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1674081369830436864",
+        "conversation_id": "2083335411645227428",
+        "created_at": "2026-07-31T23:34:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T00:34:03.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083335411645227428",
+          "2083341534397890593"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083335411645227428",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "作了一個很長很長的夢中夢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1674081369830436864",
+        "conversation_id": "2083341534397890593",
+        "created_at": "2026-07-31T23:58:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T00:34:03.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083335411645227428",
+          "2083341534397890593"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083341534397890593",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "作了一個很長很長的夢中夢\n\n我在夢中夢去了另一個世界\n夢中醒後我知道再也回不去了\n結果夢中睡了在夢中夢回到同一個世界\n很開心\n當時我很深信這個世界的存在\n真正醒來之後我以為自己夢過一樣的情景\n原來只是在夢中重返過\n雖然什麼真實的另一個世界是假的吧？\n但也許是真的呢？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-28T15:44:58.000Z",
+        "description": "要升天了呢♱♡‿♡♰(病嬌/地雷~)\n♡抑鬱焦慮♡會自殘🈹od💊喔\n跟我聊天要先看自介噢\n理人 @roki_qnq 前世 @yshidhe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 48,
+                "username": "roki_qnq"
+              },
+              {
+                "end": 69,
+                "start": 61,
+                "username": "yshidhe"
+              }
+            ]
+          }
+        },
+        "id": "1674081369830436864",
+        "location": "在你心中",
+        "name": "ゆうく；已壊掉2.0",
+        "pinned_tweet_id": "2078364102158963012",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065587970690998272/p_gIuBa4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 25,
+          "like_count": 953,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 559
+        },
+        "url": "",
+        "username": "yshidhe3",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1674081369830436864",
+    "conversation_id": "2091499352762290408",
+    "created_at": "2026-08-24T00:48:25.000Z",
+    "display_text_range": [
+      12,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-24T01:48:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091689048729604520"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2052866997155971072",
+          "start": 0,
+          "username": "FreeSerica"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091689048729604520",
+    "in_reply_to_user_id": "2052866997155971072",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091685017818898907",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FreeSerica ！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1674081369830436864",
+        "conversation_id": "2091499352762290408",
+        "created_at": "2026-08-24T00:48:25.000Z",
+        "display_text_range": [
+          12,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T01:48:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091689048729604520"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2052866997155971072",
+              "start": 0,
+              "username": "FreeSerica"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091689048729604520",
+        "in_reply_to_user_id": "2052866997155971072",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091685017818898907",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FreeSerica ！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2052866997155971072",
+        "conversation_id": "2091499352762290408",
+        "created_at": "2026-08-24T00:32:24.000Z",
+        "display_text_range": [
+          10,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T01:32:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091685017818898907"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1674081369830436864",
+              "start": 0,
+              "username": "yshidhe3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091685017818898907",
+        "in_reply_to_user_id": "1674081369830436864",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091499352762290408",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yshidhe3 我，我，我！"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-28T15:44:58.000Z",
+        "description": "要升天了呢(´♡ω♡`)（病嬌/地雷~）\n抑鬱焦慮會o:d/割 喔\n跟我聊天要先看自介噢 \n前世 @yshidhe 不露臉不線下",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 49,
+                "username": "yshidhe"
+              }
+            ]
+          }
+        },
+        "id": "1674081369830436864",
+        "is_identity_verified": false,
+        "location": "在你心中",
+        "most_recent_tweet_id": "2091689048729604520",
+        "name": "ゆうく；已壊掉2.0",
+        "pinned_tweet_id": "2078364102158963012",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1674081369830436864/1781309511",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065587970690998272/p_gIuBa4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 399,
+          "following_count": 30,
+          "like_count": 1724,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 1046
+        },
+        "url": "",
+        "username": "yshidhe3",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-08T21:44:13.000Z",
+        "description": "自由之精神，独立之人格！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/freeserica",
+                "end": 23,
+                "expanded_url": "https://ngl.link/freeserica",
+                "start": 0,
+                "url": "https://t.co/edjWvCKsza"
+              }
+            ]
+          }
+        },
+        "id": "2052866997155971072",
+        "is_identity_verified": false,
+        "location": "Minato-ku, Tokyo",
+        "most_recent_tweet_id": "2091685017818898907",
+        "name": "我缺爱、性压抑请骚扰我🥺",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2052866997155971072/1779920924",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059761398310400000/3gCQkDnn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 129,
+          "following_count": 773,
+          "like_count": 1805,
+          "listed_count": 0,
+          "media_count": 206,
+          "tweet_count": 885
+        },
+        "url": "https://t.co/edjWvCKsza",
+        "username": "FreeSerica",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

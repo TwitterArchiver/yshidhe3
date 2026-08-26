@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1674081369830436864",
+    "conversation_id": "2074504105155047725",
+    "created_at": "2026-07-07T23:13:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T00:13:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074632819230593531"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1403352077061935104",
+          "start": 0,
+          "username": "Ram35784366"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074632819230593531",
+    "in_reply_to_user_id": "1403352077061935104",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074594908770643982",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ram35784366 沒錢買了(T ^ T)不試了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1674081369830436864",
+        "conversation_id": "2074504105155047725",
+        "created_at": "2026-07-07T23:13:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T00:13:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074632819230593531"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1403352077061935104",
+              "start": 0,
+              "username": "Ram35784366"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074632819230593531",
+        "in_reply_to_user_id": "1403352077061935104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074594908770643982",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ram35784366 沒錢買了(T ^ T)不試了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1403352077061935104",
+        "conversation_id": "2074504105155047725",
+        "created_at": "2026-07-07T20:42:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T21:42:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074594908770643982"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1674081369830436864",
+              "start": 0,
+              "username": "yshidhe3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074594908770643982",
+        "in_reply_to_user_id": "1674081369830436864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074504105155047725",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yshidhe3 粉過篩均勻慢撒 每一階段底料都要攪拌均勻 溫度不要太高再試試"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-28T15:44:58.000Z",
+        "description": "要升天了呢♱♡‿♡♰(病嬌/地雷~)\n♡抑鬱焦慮♡會自殘🈹od💊喔\n跟我聊天要先看自介噢\n理人 @roki_qnq 前世 @yshidhe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 48,
+                "username": "roki_qnq"
+              },
+              {
+                "end": 69,
+                "start": 61,
+                "username": "yshidhe"
+              }
+            ]
+          }
+        },
+        "id": "1674081369830436864",
+        "name": "ゆうく；已壊掉(轉生尋回中",
+        "pinned_tweet_id": "2070476815337213953",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065587970690998272/p_gIuBa4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 16,
+          "like_count": 626,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 238
+        },
+        "url": "",
+        "username": "yshidhe3",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-11T14:03:14.000Z",
+        "description": "引導型INFP人格 塵世間一個迷途小書僮 正在前往華府的路上\nsometimes, meet someone, do something, and have some fun. YOLO.",
+        "id": "1403352077061935104",
+        "name": "流星街的金斧頭",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067516181704224768/H3tamckH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 117,
+          "like_count": 15,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 31
+        },
+        "url": "",
+        "username": "Ram35784366",
+        "verified": false
+      }
+    ]
+  }
+}

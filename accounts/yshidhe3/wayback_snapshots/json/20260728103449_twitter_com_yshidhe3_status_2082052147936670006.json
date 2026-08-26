@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1674081369830436864",
+    "conversation_id": "2082014069549375727",
+    "created_at": "2026-07-28T10:34:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T11:34:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082052147936670006"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1896532316853620736",
+          "start": 0,
+          "username": "diao_nan27451"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082052147936670006",
+    "in_reply_to_user_id": "1896532316853620736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082042892269588912",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@diao_nan27451 因為家中沒有"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1674081369830436864",
+        "conversation_id": "2082014069549375727",
+        "created_at": "2026-07-28T10:34:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T11:34:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082052147936670006"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1896532316853620736",
+              "start": 0,
+              "username": "diao_nan27451"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082052147936670006",
+        "in_reply_to_user_id": "1896532316853620736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082042892269588912",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@diao_nan27451 因為家中沒有"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896532316853620736",
+        "conversation_id": "2082014069549375727",
+        "created_at": "2026-07-28T09:58:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T10:58:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082042892269588912"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1674081369830436864",
+              "start": 0,
+              "username": "yshidhe3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082042892269588912",
+        "in_reply_to_user_id": "1674081369830436864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082014069549375727",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yshidhe3 為啥不吃"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-28T15:44:58.000Z",
+        "description": "要升天了呢♱♡‿♡♰(病嬌/地雷~)\n♡抑鬱焦慮♡會自殘🈹od💊喔\n跟我聊天要先看自介噢\n理人 @roki_qnq 前世 @yshidhe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 48,
+                "username": "roki_qnq"
+              },
+              {
+                "end": 69,
+                "start": 61,
+                "username": "yshidhe"
+              }
+            ]
+          }
+        },
+        "id": "1674081369830436864",
+        "location": "距離你0.1m",
+        "name": "ゆうく；已壊掉2.0",
+        "pinned_tweet_id": "2078364102158963012",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065587970690998272/p_gIuBa4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 141,
+          "following_count": 22,
+          "like_count": 889,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 495
+        },
+        "url": "",
+        "username": "yshidhe3",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-03T12:05:23.000Z",
+        "description": "會分享欸片的哲學男人",
+        "id": "1896532316853620736",
+        "name": "石頭男人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905234742079111168/44Ik8fdy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 153,
+          "following_count": 2788,
+          "like_count": 26487,
+          "listed_count": 0,
+          "media_count": 151,
+          "tweet_count": 1126
+        },
+        "url": "",
+        "username": "diao_nan27451",
+        "verified": false,
+        "withheld": {
+          "country_codes": [
+            "ID"
+          ]
+        }
+      }
+    ]
+  }
+}

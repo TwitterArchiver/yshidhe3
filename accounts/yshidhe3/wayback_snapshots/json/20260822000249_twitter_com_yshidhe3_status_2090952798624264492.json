@@ -1,0 +1,121 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1674081369830436864",
+    "conversation_id": "2090952798624264492",
+    "created_at": "2026-08-22T00:02:49.000Z",
+    "display_text_range": [
+      0,
+      147
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T01:02:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2090952798624264492"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2090952798624264492",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "活着是為了什麼？\n活着好痛苦\n我不想考了\n死了不了好了嗎\n所有人都會輕鬆\n好想去死\n死了就所有事情都好了\n我真的好想跳\n為什麼從來沒有人管過我的心理狀態？\n我已經快撐不下去\n還要一次又一次給我壓力\n即使那一刻沒有人給我壓力\n活着本身就是壓力了\n反正早晚都會死\n不如就在我想死的時候死\n會更幸福吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1674081369830436864",
+        "conversation_id": "2090952798624264492",
+        "created_at": "2026-08-22T00:02:49.000Z",
+        "display_text_range": [
+          0,
+          147
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T01:02:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090952798624264492"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2090952798624264492",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "活着是為了什麼？\n活着好痛苦\n我不想考了\n死了不了好了嗎\n所有人都會輕鬆\n好想去死\n死了就所有事情都好了\n我真的好想跳\n為什麼從來沒有人管過我的心理狀態？\n我已經快撐不下去\n還要一次又一次給我壓力\n即使那一刻沒有人給我壓力\n活着本身就是壓力了\n反正早晚都會死\n不如就在我想死的時候死\n會更幸福吧"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-28T15:44:58.000Z",
+        "description": "要升天了呢(´♡ω♡`)（病嬌/地雷~）\n抑鬱焦慮會o:d/割 喔\n跟我聊天要先看自介噢 \n前世 @yshidhe 不露臉不線下",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 49,
+                "username": "yshidhe"
+              }
+            ]
+          }
+        },
+        "id": "1674081369830436864",
+        "is_identity_verified": false,
+        "location": "在你心中",
+        "most_recent_tweet_id": "2090952798624264492",
+        "name": "ゆうく；已壊掉2.0",
+        "pinned_tweet_id": "2078364102158963012",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1674081369830436864/1781309511",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065587970690998272/p_gIuBa4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 384,
+          "following_count": 30,
+          "like_count": 1637,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 995
+        },
+        "url": "",
+        "username": "yshidhe3",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

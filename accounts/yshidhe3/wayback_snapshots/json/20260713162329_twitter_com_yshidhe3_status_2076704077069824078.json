@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1674081369830436864",
+    "conversation_id": "2076666324064031053",
+    "created_at": "2026-07-13T16:23:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T17:23:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076704077069824078"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2076213440448770048",
+          "start": 0,
+          "username": "fongkhalilb1nv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076704077069824078",
+    "in_reply_to_user_id": "2076213440448770048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076681319841501568",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fongkhalilb1nv 世界很好 只是我討厭我自己"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1674081369830436864",
+        "conversation_id": "2076666324064031053",
+        "created_at": "2026-07-13T16:23:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T17:23:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076704077069824078"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2076213440448770048",
+              "start": 0,
+              "username": "fongkhalilb1nv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076704077069824078",
+        "in_reply_to_user_id": "2076213440448770048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076681319841501568",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fongkhalilb1nv 世界很好 只是我討厭我自己"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076213440448770048",
+        "conversation_id": "2076666324064031053",
+        "created_at": "2026-07-13T14:53:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T15:53:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076681319841501568"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1674081369830436864",
+              "start": 0,
+              "username": "yshidhe3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076681319841501568",
+        "in_reply_to_user_id": "1674081369830436864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076666324064031053",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yshidhe3 你到底是不爱世界还是不爱自己"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-28T15:44:58.000Z",
+        "description": "要升天了呢♱♡‿♡♰(病嬌/地雷~)\n♡抑鬱焦慮♡會自殘🈹od💊喔\n跟我聊天要先看自介噢\n理人 @roki_qnq 前世 @yshidhe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 48,
+                "username": "roki_qnq"
+              },
+              {
+                "end": 69,
+                "start": 61,
+                "username": "yshidhe"
+              }
+            ]
+          }
+        },
+        "id": "1674081369830436864",
+        "name": "ゆうく；已壊掉(轉生尋回中",
+        "pinned_tweet_id": "2070476815337213953",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065587970690998272/p_gIuBa4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 16,
+          "like_count": 674,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 279
+        },
+        "url": "",
+        "username": "yshidhe3",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-12T07:54:43.000Z",
+        "description": "trying to be better！",
+        "id": "2076213440448770048",
+        "name": "神秘奇男子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076213953051475969/nfXHadn5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 19,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 22
+        },
+        "url": "",
+        "username": "fongkhalilb1nv",
+        "verified": false
+      }
+    ]
+  }
+}

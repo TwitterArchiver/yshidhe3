@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1674081369830436864",
+    "conversation_id": "2083337327683006862",
+    "created_at": "2026-07-31T23:41:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T00:41:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083337327683006862"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2002873553792966658",
+          "start": 3,
+          "username": "Selenophile080"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083337327683006862",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083034126245142766",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Selenophile080: 所有心理疾病的第一条件就是过度关注【我】，说白了自我意识过剩，尤其越自卑的人越是这样，觉得自己跟别人可不一样了。\n所有心理疾病的第一条件就是过度关注【我】，说白了自我意识过剩，尤其越自卑的人越是这样。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1674081369830436864",
+        "conversation_id": "2083337327683006862",
+        "created_at": "2026-07-31T23:41:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T00:41:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083337327683006862"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2002873553792966658",
+              "start": 3,
+              "username": "Selenophile080"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083337327683006862",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083034126245142766",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Selenophile080: 所有心理疾病的第一条件就是过度关注【我】，说白了自我意识过剩，尤其越自卑的人越是这样，觉得自己跟别人可不一样了。\n所有心理疾病的第一条件就是过度关注【我】，说白了自我意识过剩，尤其越自卑的人越是这样。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002873553792966658",
+        "conversation_id": "2083034126245142766",
+        "created_at": "2026-07-31T03:36:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T04:36:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083034126245142766"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083034126245142766",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 4727,
+          "like_count": 84,
+          "quote_count": 2,
+          "reply_count": 11,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "所有心理疾病的第一条件就是过度关注【我】，说白了自我意识过剩，尤其越自卑的人越是这样，觉得自己跟别人可不一样了。\n所有心理疾病的第一条件就是过度关注【我】，说白了自我意识过剩，尤其越自卑的人越是这样。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-28T15:44:58.000Z",
+        "description": "要升天了呢♱♡‿♡♰(病嬌/地雷~)\n♡抑鬱焦慮♡會自殘🈹od💊喔\n跟我聊天要先看自介噢\n理人 @roki_qnq 前世 @yshidhe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 48,
+                "username": "roki_qnq"
+              },
+              {
+                "end": 69,
+                "start": 61,
+                "username": "yshidhe"
+              }
+            ]
+          }
+        },
+        "id": "1674081369830436864",
+        "location": "在你心中",
+        "name": "ゆうく；已壊掉2.0",
+        "pinned_tweet_id": "2078364102158963012",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065587970690998272/p_gIuBa4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 25,
+          "like_count": 950,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 555
+        },
+        "url": "",
+        "username": "yshidhe3",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-21T22:47:50.000Z",
+        "description": "爱吃🐭💊，我再也不当搞笑女了，互联网没有人懂我的抽象。\n@FrostyStrings讨厌你",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 28,
+                "username": "FrostyStrings"
+              }
+            ]
+          }
+        },
+        "id": "2002873553792966658",
+        "name": "琉璃雨🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2082433161414283570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076592113878441985/fklIDCLm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 416,
+          "following_count": 178,
+          "like_count": 184,
+          "listed_count": 1,
+          "media_count": 81,
+          "tweet_count": 280
+        },
+        "url": "",
+        "username": "Selenophile080",
+        "verified": false
+      }
+    ]
+  }
+}

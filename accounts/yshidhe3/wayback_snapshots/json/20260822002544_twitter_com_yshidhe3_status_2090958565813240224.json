@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2090958555604283392"
+      ]
+    },
+    "author_id": "1674081369830436864",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "2090958565813240224",
+    "created_at": "2026-08-22T00:25:44.000Z",
+    "display_text_range": [
+      0,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T01:25:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2090958565813240224"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/W1yhYut7u7",
+          "end": 42,
+          "expanded_url": "https://x.com/yshidhe3/status/2090958565813240224/photo/1",
+          "media_key": "3_2090958555604283392",
+          "start": 19,
+          "url": "https://t.co/W1yhYut7u7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090958565813240224",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2090958555604283392"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "Twitter關心我了\n昨天也有一封 https://t.co/W1yhYut7u7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2359,
+        "media_key": "3_2090958555604283392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQSTulrbcAA1G60.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090958555604283392"
+          ]
+        },
+        "author_id": "1674081369830436864",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2090958565813240224",
+        "created_at": "2026-08-22T00:25:44.000Z",
+        "display_text_range": [
+          0,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T01:25:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090958565813240224"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/W1yhYut7u7",
+              "end": 42,
+              "expanded_url": "https://x.com/yshidhe3/status/2090958565813240224/photo/1",
+              "media_key": "3_2090958555604283392",
+              "start": 19,
+              "url": "https://t.co/W1yhYut7u7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090958565813240224",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2090958555604283392"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Twitter關心我了\n昨天也有一封 https://t.co/W1yhYut7u7"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-28T15:44:58.000Z",
+        "description": "要升天了呢(´♡ω♡`)（病嬌/地雷~）\n抑鬱焦慮會o:d/割 喔\n跟我聊天要先看自介噢 \n前世 @yshidhe 不露臉不線下",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 49,
+                "username": "yshidhe"
+              }
+            ]
+          }
+        },
+        "id": "1674081369830436864",
+        "is_identity_verified": false,
+        "location": "在你心中",
+        "most_recent_tweet_id": "2090958565813240224",
+        "name": "ゆうく；已壊掉2.0",
+        "pinned_tweet_id": "2078364102158963012",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1674081369830436864/1781309511",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065587970690998272/p_gIuBa4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 384,
+          "following_count": 30,
+          "like_count": 1639,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 997
+        },
+        "url": "",
+        "username": "yshidhe3",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1674081369830436864",
+    "conversation_id": "2080258681719988237",
+    "created_at": "2026-07-23T14:14:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T15:14:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080295577871671430"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1949739605642936320",
+          "start": 0,
+          "username": "linadreaamy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080295577871671430",
+    "in_reply_to_user_id": "1949739605642936320",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080258681719988237",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@linadreaamy are these comments serious???Absolutely wrong"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 724,
+        "media_key": "3_2080258397396451328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN6P_aHWwAAaOsD.jpg",
+        "width": 2172
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1674081369830436864",
+        "conversation_id": "2080258681719988237",
+        "created_at": "2026-07-23T14:14:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T15:14:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080295577871671430"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1949739605642936320",
+              "start": 0,
+              "username": "linadreaamy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080295577871671430",
+        "in_reply_to_user_id": "1949739605642936320",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080258681719988237",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@linadreaamy are these comments serious???Absolutely wrong"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080258397396451328"
+          ]
+        },
+        "author_id": "1949739605642936320",
+        "conversation_id": "2080258681719988237",
+        "created_at": "2026-07-23T11:48:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T12:48:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080258681719988237"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OUP6i7kek9",
+              "end": 65,
+              "expanded_url": "https://x.com/linadreaamy/status/2080258681719988237/photo/1",
+              "media_key": "3_2080258397396451328",
+              "start": 42,
+              "url": "https://t.co/OUP6i7kek9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080258681719988237",
+        "lang": "tr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 251,
+          "impression_count": 9238,
+          "like_count": 366,
+          "quote_count": 4,
+          "reply_count": 301,
+          "retweet_count": 128
+        },
+        "reply_settings": "everyone",
+        "text": "Bunu çözersen, dahisin.\n\nx kaç olabilir ? https://t.co/OUP6i7kek9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-28T15:44:58.000Z",
+        "description": "要升天了呢♱♡‿♡♰(病嬌/地雷~)\n♡抑鬱焦慮♡會自殘🈹od💊喔\n跟我聊天要先看自介噢\n理人 @roki_qnq 前世 @yshidhe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 48,
+                "username": "roki_qnq"
+              },
+              {
+                "end": 69,
+                "start": 61,
+                "username": "yshidhe"
+              }
+            ]
+          }
+        },
+        "id": "1674081369830436864",
+        "name": "ゆうく；已壊掉(轉生尋回中",
+        "pinned_tweet_id": "2078364102158963012",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065587970690998272/p_gIuBa4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 129,
+          "following_count": 17,
+          "like_count": 744,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 346
+        },
+        "url": "",
+        "username": "yshidhe3",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-28T07:52:25.000Z",
+        "description": "Posting positive warm and art and viral content ...",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com",
+                "end": 23,
+                "expanded_url": "http://x.com",
+                "start": 0,
+                "url": "https://t.co/6lNcbAcCSL"
+              }
+            ]
+          }
+        },
+        "id": "1949739605642936320",
+        "location": "İstanbul, Türkiye",
+        "name": "Lina",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068734858407383041/BPPvJ5Rw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34742,
+          "following_count": 0,
+          "like_count": 3675,
+          "listed_count": 32,
+          "media_count": 431,
+          "tweet_count": 659
+        },
+        "url": "https://t.co/6lNcbAcCSL",
+        "username": "linadreaamy",
+        "verified": true
+      }
+    ]
+  }
+}

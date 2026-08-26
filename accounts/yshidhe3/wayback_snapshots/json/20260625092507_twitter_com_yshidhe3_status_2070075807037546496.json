@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070072814640701440"
+      ],
+      "media_source_tweet_id": [
+        "2070072827701829708"
+      ]
+    },
+    "author_id": "1674081369830436864",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2070075807037546496",
+    "created_at": "2026-06-25T09:25:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T10:25:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070075807037546496"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1674081369830436864",
+          "start": 3,
+          "username": "yshidhe3"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/V8d3S1mKXf",
+          "end": 76,
+          "expanded_url": "https://x.com/yshidhe3/status/2070072827701829708/photo/1",
+          "media_key": "3_2070072814640701440",
+          "start": 53,
+          "url": "https://t.co/V8d3S1mKXf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070075807037546496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070072827701829708",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yshidhe3: 3000mg pr+150mg 右美\n這裏的藥都快$40了\n可能要吃藥吃窮了 https://t.co/V8d3S1mKXf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2627,
+        "media_key": "3_2070072814640701440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLpgQdfaIAANLRu.jpg",
+        "width": 2406
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070072814640701440"
+          ],
+          "media_source_tweet_id": [
+            "2070072827701829708"
+          ]
+        },
+        "author_id": "1674081369830436864",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2070075807037546496",
+        "created_at": "2026-06-25T09:25:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T10:25:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070075807037546496"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1674081369830436864",
+              "start": 3,
+              "username": "yshidhe3"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/V8d3S1mKXf",
+              "end": 76,
+              "expanded_url": "https://x.com/yshidhe3/status/2070072827701829708/photo/1",
+              "media_key": "3_2070072814640701440",
+              "start": 53,
+              "url": "https://t.co/V8d3S1mKXf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070075807037546496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070072827701829708",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yshidhe3: 3000mg pr+150mg 右美\n這裏的藥都快$40了\n可能要吃藥吃窮了 https://t.co/V8d3S1mKXf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070072814640701440"
+          ]
+        },
+        "author_id": "1674081369830436864",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2070072827701829708",
+        "created_at": "2026-06-25T09:13:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T10:13:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070072827701829708"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/V8d3S1mKXf",
+              "end": 62,
+              "expanded_url": "https://x.com/yshidhe3/status/2070072827701829708/photo/1",
+              "media_key": "3_2070072814640701440",
+              "start": 39,
+              "url": "https://t.co/V8d3S1mKXf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070072827701829708",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "3000mg pr+150mg 右美\n這裏的藥都快$40了\n可能要吃藥吃窮了 https://t.co/V8d3S1mKXf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-28T15:44:58.000Z",
+        "description": "要升天了呢♱♡‿♡♰(病嬌/地雷~)\n♡抑鬱焦慮♡會自殘🈹od💊喔\n跟我聊天要先看自介噢\n理人 @roki_qnq 前世 @yshidhe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 48,
+                "username": "roki_qnq"
+              },
+              {
+                "end": 69,
+                "start": 61,
+                "username": "yshidhe"
+              }
+            ]
+          }
+        },
+        "id": "1674081369830436864",
+        "name": "ゆうく；已壊掉(轉生尋回中",
+        "pinned_tweet_id": "2065640832426971535",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065587970690998272/p_gIuBa4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 14,
+          "like_count": 513,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 150
+        },
+        "url": "",
+        "username": "yshidhe3",
+        "verified": false
+      }
+    ]
+  }
+}

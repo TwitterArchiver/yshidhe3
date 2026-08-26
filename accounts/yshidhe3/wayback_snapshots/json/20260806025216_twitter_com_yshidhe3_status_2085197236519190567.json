@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1674081369830436864",
+    "conversation_id": "2085021519164674489",
+    "created_at": "2026-08-06T02:52:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T03:52:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085197236519190567"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1885853676503474176",
+          "start": 0,
+          "username": "Eroerosense"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085197236519190567",
+    "in_reply_to_user_id": "1885853676503474176",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085048825383997554",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Eroerosense (*≧ω≦)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1674081369830436864",
+        "conversation_id": "2085021519164674489",
+        "created_at": "2026-08-06T02:52:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T03:52:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085197236519190567"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1885853676503474176",
+              "start": 0,
+              "username": "Eroerosense"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085197236519190567",
+        "in_reply_to_user_id": "1885853676503474176",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085048825383997554",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Eroerosense (*≧ω≦)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1885853676503474176",
+        "conversation_id": "2085021519164674489",
+        "created_at": "2026-08-05T17:02:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T18:02:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085048825383997554"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1674081369830436864",
+              "start": 0,
+              "username": "yshidhe3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085048825383997554",
+        "in_reply_to_user_id": "1674081369830436864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085021519164674489",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yshidhe3 按攒按攒"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-28T15:44:58.000Z",
+        "description": "要升天了呢♱♡‿♡♰(病嬌/地雷~)\n♡抑鬱焦慮♡會自殘🈹od💊喔\n跟我聊天要先看自介噢\n前世 @yshidhe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 48,
+                "username": "yshidhe"
+              }
+            ]
+          }
+        },
+        "id": "1674081369830436864",
+        "location": "在你心中",
+        "name": "ゆうく；已壊掉2.0",
+        "pinned_tweet_id": "2078364102158963012",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065587970690998272/p_gIuBa4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 182,
+          "following_count": 25,
+          "like_count": 1073,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 640
+        },
+        "url": "",
+        "username": "yshidhe3",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-02T00:52:30.000Z",
+        "description": "English/日本語/中国語 Ok\n\n想发什么就发什么，互 FO 欢迎\n\n喜欢分享美好生活，对不起我是现充",
+        "id": "1885853676503474176",
+        "location": "🇺🇸",
+        "name": "鬱鬱鬱鬱鬱鬱鬱鬱鬱",
+        "pinned_tweet_id": "2083198083823783986",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083905097051017216/qRaY3k7T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 49,
+          "like_count": 239,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 997
+        },
+        "url": "",
+        "username": "Eroerosense",
+        "verified": true
+      }
+    ]
+  }
+}

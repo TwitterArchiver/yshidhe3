@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1674081369830436864",
+    "conversation_id": "2071237839766122740",
+    "created_at": "2026-07-01T22:35:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T23:35:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072448936225432060"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1829117318409891840",
+          "start": 0,
+          "username": "justhtgnofake45"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072448936225432060",
+    "in_reply_to_user_id": "1829117318409891840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072329448905424971",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@justhtgnofake45 好欸"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1674081369830436864",
+        "conversation_id": "2071237839766122740",
+        "created_at": "2026-07-01T22:35:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T23:35:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072448936225432060"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1829117318409891840",
+              "start": 0,
+              "username": "justhtgnofake45"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072448936225432060",
+        "in_reply_to_user_id": "1829117318409891840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072329448905424971",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@justhtgnofake45 好欸"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1829117318409891840",
+        "conversation_id": "2071237839766122740",
+        "created_at": "2026-07-01T14:40:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T15:40:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072329448905424971"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1674081369830436864",
+              "start": 0,
+              "username": "yshidhe3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072329448905424971",
+        "in_reply_to_user_id": "1674081369830436864",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071237839766122740",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yshidhe3 吃之🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-28T15:44:58.000Z",
+        "description": "要升天了呢♱♡‿♡♰(病嬌/地雷~)\n♡抑鬱焦慮♡會自殘🈹od💊喔\n跟我聊天要先看自介噢\n理人 @roki_qnq 前世 @yshidhe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 48,
+                "username": "roki_qnq"
+              },
+              {
+                "end": 69,
+                "start": 61,
+                "username": "yshidhe"
+              }
+            ]
+          }
+        },
+        "id": "1674081369830436864",
+        "name": "ゆうく；已壊掉(轉生尋回中",
+        "pinned_tweet_id": "2070476815337213953",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065587970690998272/p_gIuBa4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 16,
+          "like_count": 555,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 188
+        },
+        "url": "",
+        "username": "yshidhe3",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-29T11:22:41.000Z",
+        "description": "神秘流浪oc自设入。。。我想口嗨oc😭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/35467477626418…",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/3546747762641843",
+                "start": 0,
+                "url": "https://t.co/1nX3vJSfUN"
+              }
+            ]
+          }
+        },
+        "id": "1829117318409891840",
+        "location": "who knows",
+        "name": "Xenicacid15129",
+        "pinned_tweet_id": "2033191097204453419",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808121171656704/17bhzNdF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 230,
+          "like_count": 4695,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 977
+        },
+        "url": "https://t.co/1nX3vJSfUN",
+        "username": "justhtgnofake45",
+        "verified": false
+      }
+    ]
+  }
+}

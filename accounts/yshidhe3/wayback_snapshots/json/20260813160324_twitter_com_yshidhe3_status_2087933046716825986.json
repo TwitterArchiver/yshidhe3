@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1674081369830436864",
+    "conversation_id": "2087711516846063912",
+    "created_at": "2026-08-13T16:03:24.000Z",
+    "display_text_range": [
+      13,
+      27
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T17:03:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087933046716825986"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2080669098493833216",
+          "start": 0,
+          "username": "mingli_9966"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087933046716825986",
+    "in_reply_to_user_id": "2080669098493833216",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087835669058187592",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mingli_9966 好(&gt;^ω^&lt;)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1674081369830436864",
+        "conversation_id": "2087711516846063912",
+        "created_at": "2026-08-13T16:03:24.000Z",
+        "display_text_range": [
+          13,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T17:03:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087933046716825986"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2080669098493833216",
+              "start": 0,
+              "username": "mingli_9966"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087933046716825986",
+        "in_reply_to_user_id": "2080669098493833216",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087835669058187592",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mingli_9966 好(&gt;^ω^&lt;)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2080669098493833216",
+        "conversation_id": "2087711516846063912",
+        "created_at": "2026-08-13T09:36:28.000Z",
+        "display_text_range": [
+          10,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T10:36:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087835669058187592"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1674081369830436864",
+              "start": 0,
+              "username": "yshidhe3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087835669058187592",
+        "in_reply_to_user_id": "1674081369830436864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087711516846063912",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yshidhe3 就是騙子來著寶寶，別跟他廢話🚮"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-28T15:44:58.000Z",
+        "description": "要升天了呢♱♡‿♡♰(病嬌/地雷~)\n♡抑鬱焦慮♡會自殘🈹od💊喔\n跟我聊天要先看自介噢\n前世 @yshidhe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 48,
+                "username": "yshidhe"
+              }
+            ]
+          }
+        },
+        "id": "1674081369830436864",
+        "is_identity_verified": false,
+        "location": "在你心中",
+        "most_recent_tweet_id": "2087933046716825986",
+        "name": "ゆうく；已壊掉2.0",
+        "pinned_tweet_id": "2078364102158963012",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1674081369830436864/1781309511",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065587970690998272/p_gIuBa4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 323,
+          "following_count": 33,
+          "like_count": 1399,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 855
+        },
+        "url": "",
+        "username": "yshidhe3",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-24T15:02:26.000Z",
+        "description": "@mingli_0906 👈🏻目前本帳登入不了\n這裡是名璃的二號機",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 0,
+                "username": "mingli_0906"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "furuke.com/Mingli_0906",
+                "end": 23,
+                "expanded_url": "https://www.furuke.com/Mingli_0906",
+                "start": 0,
+                "url": "https://t.co/mBIAEDe9dQ"
+              }
+            ]
+          }
+        },
+        "id": "2080669098493833216",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087836940607594766",
+        "name": "名璃二號機@備用🌸",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2080669098493833216/1786359051",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086767224698892289/025hREP2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 205,
+          "following_count": 21,
+          "like_count": 15,
+          "listed_count": 2,
+          "media_count": 5,
+          "tweet_count": 20
+        },
+        "url": "https://t.co/mBIAEDe9dQ",
+        "username": "mingli_9966",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

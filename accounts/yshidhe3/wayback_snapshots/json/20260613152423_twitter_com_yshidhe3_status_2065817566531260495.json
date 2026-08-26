@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1674081369830436864",
+    "conversation_id": "2065786475044913374",
+    "created_at": "2026-06-13T15:24:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T16:24:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065817566531260495"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1636724001207898118",
+          "start": 0,
+          "username": "s05589625196774"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065817566531260495",
+    "in_reply_to_user_id": "1636724001207898118",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065788346056786366",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@s05589625196774 好欸(&gt;^ω^&lt;)"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 825,
+        "media_key": "3_2065788343787679746",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKsnjbybcAIsfbg.jpg",
+        "width": 985
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1674081369830436864",
+        "conversation_id": "2065786475044913374",
+        "created_at": "2026-06-13T15:24:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T16:24:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065817566531260495"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1636724001207898118",
+              "start": 0,
+              "username": "s05589625196774"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065817566531260495",
+        "in_reply_to_user_id": "1636724001207898118",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065788346056786366",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@s05589625196774 好欸(&gt;^ω^&lt;)"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065788343787679746"
+          ]
+        },
+        "author_id": "1636724001207898118",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2065786475044913374",
+        "created_at": "2026-06-13T13:28:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T14:28:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065788346056786366"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1674081369830436864",
+              "start": 0,
+              "username": "yshidhe3"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6oPtscV05u",
+              "end": 47,
+              "expanded_url": "https://x.com/s05589625196774/status/2065788346056786366/photo/1",
+              "media_key": "3_2065788343787679746",
+              "start": 24,
+              "url": "https://t.co/6oPtscV05u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065788346056786366",
+        "in_reply_to_user_id": "1674081369830436864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065786475044913374",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yshidhe3 加油 順便給妳看到的惡搞圖 https://t.co/6oPtscV05u"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-28T15:44:58.000Z",
+        "description": "要升天了呢♱♡‿♡♰(病嬌/地雷~)\n♡抑鬱焦慮♡會自殘🈹od💊喔\n跟我聊天要先看自介噢\n理人 @roki_qnq",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 48,
+                "username": "roki_qnq"
+              }
+            ]
+          }
+        },
+        "id": "1674081369830436864",
+        "name": "ゆうく；已壊掉(轉生尋回中",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065587970690998272/p_gIuBa4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 8,
+          "like_count": 377,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 39
+        },
+        "username": "yshidhe3",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-17T13:40:08.000Z",
+        "description": "工作原因待機時間\n會想找人聊天\n沒事做會焦躁\n約炮勿擾 我只是個喜歡看喜歡聊天的",
+        "id": "1636724001207898118",
+        "name": "夜狼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1637834827088158723/qjv4DW49_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 669,
+          "like_count": 1117,
+          "listed_count": 0,
+          "media_count": 154,
+          "tweet_count": 1199
+        },
+        "username": "s05589625196774",
+        "verified": false
+      }
+    ]
+  }
+}

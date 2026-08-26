@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1674081369830436864",
+    "conversation_id": "2080993281216070018",
+    "created_at": "2026-07-25T14:40:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T15:40:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081026686314053843"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1381330623567032320",
+          "start": 0,
+          "username": "4DKzHSwGObLCQK0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081026686314053843",
+    "in_reply_to_user_id": "1381330623567032320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081022238409867323",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@4DKzHSwGObLCQK0 我已經懂了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1674081369830436864",
+        "conversation_id": "2080993281216070018",
+        "created_at": "2026-07-25T14:40:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T15:40:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081026686314053843"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1381330623567032320",
+              "start": 0,
+              "username": "4DKzHSwGObLCQK0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081026686314053843",
+        "in_reply_to_user_id": "1381330623567032320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081022238409867323",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@4DKzHSwGObLCQK0 我已經懂了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1381330623567032320",
+        "conversation_id": "2080993281216070018",
+        "created_at": "2026-07-25T14:22:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T15:22:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081022238409867323"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1674081369830436864",
+              "start": 0,
+              "username": "yshidhe3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081022238409867323",
+        "in_reply_to_user_id": "1674081369830436864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080993281216070018",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yshidhe3 要教你嗎"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-28T15:44:58.000Z",
+        "description": "要升天了呢♱♡‿♡♰(病嬌/地雷~)\n♡抑鬱焦慮♡會自殘🈹od💊喔\n跟我聊天要先看自介噢\n理人 @roki_qnq 前世 @yshidhe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 48,
+                "username": "roki_qnq"
+              },
+              {
+                "end": 69,
+                "start": 61,
+                "username": "yshidhe"
+              }
+            ]
+          }
+        },
+        "id": "1674081369830436864",
+        "name": "ゆうく；已壊掉(轉生尋回中",
+        "pinned_tweet_id": "2078364102158963012",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065587970690998272/p_gIuBa4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132,
+          "following_count": 19,
+          "like_count": 791,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 390
+        },
+        "url": "",
+        "username": "yshidhe3",
+        "verified": true
+      },
+      {
+        "created_at": "2021-04-11T19:37:53.000Z",
+        "description": "不多說 總之@18公分\n168",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 6,
+                "username": "18"
+              }
+            ]
+          }
+        },
+        "id": "1381330623567032320",
+        "name": "事實試吃是",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 164,
+          "like_count": 1280,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 82
+        },
+        "url": "",
+        "username": "4DKzHSwGObLCQK0",
+        "verified": false
+      }
+    ]
+  }
+}

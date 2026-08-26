@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1674081369830436864",
+    "conversation_id": "2088174973521441111",
+    "created_at": "2026-08-14T08:04:44.000Z",
+    "display_text_range": [
+      0,
+      35
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T09:04:16.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088174854231236899",
+      "2088174973521441111"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yshidhe3/statu…",
+          "end": 59,
+          "expanded_url": "https://twitter.com/yshidhe3/status/2087497063122846045",
+          "start": 36,
+          "url": "https://t.co/aSSzU3heQ4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088174973521441111",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087497063122846045",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不接新的人了(T ^ T)\n累了累了\n只接收無償贈予\n以後缺錢再開放吧 https://t.co/aSSzU3heQ4"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1674081369830436864",
+        "conversation_id": "2088174854231236899",
+        "created_at": "2026-08-14T08:04:16.000Z",
+        "display_text_range": [
+          0,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T09:04:16.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088174854231236899",
+          "2088174973521441111"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yshidhe3/statu…",
+              "end": 50,
+              "expanded_url": "https://twitter.com/yshidhe3/status/2087497063122846045",
+              "start": 27,
+              "url": "https://t.co/aSSzU3heQ4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088174854231236899",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087497063122846045",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不接新的人了(T ^ T)\n累了累了\n只接收無償贈予 https://t.co/aSSzU3heQ4"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1674081369830436864",
+        "conversation_id": "2088174973521441111",
+        "created_at": "2026-08-14T08:04:44.000Z",
+        "display_text_range": [
+          0,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T09:04:16.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088174854231236899",
+          "2088174973521441111"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yshidhe3/statu…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/yshidhe3/status/2087497063122846045",
+              "start": 36,
+              "url": "https://t.co/aSSzU3heQ4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088174973521441111",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087497063122846045",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不接新的人了(T ^ T)\n累了累了\n只接收無償贈予\n以後缺錢再開放吧 https://t.co/aSSzU3heQ4"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1674081369830436864",
+        "conversation_id": "2087497063122846045",
+        "created_at": "2026-08-12T11:10:58.000Z",
+        "display_text_range": [
+          0,
+          77
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T12:10:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087497063122846045"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yshidhe3/statu…",
+              "end": 101,
+              "expanded_url": "https://twitter.com/yshidhe3/status/2087175184881213567",
+              "start": 78,
+              "url": "https://t.co/okzZGzshC6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087497063122846045",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2594,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087175184881213567",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不要再問我線下了 目前不接受任何線下\n其他可以商量\n\n我會先收錢 再做事\n(啊我聊天又不收錢 等你信我再課也可以啊？\n\n如果聊後不想要\n請交代 別要我等喔 https://t.co/okzZGzshC6"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-28T15:44:58.000Z",
+        "description": "要升天了呢♱♡‿♡♰(病嬌/地雷~)\n♡抑鬱焦慮♡會自殘🈹od💊喔\n跟我聊天要先看自介噢\n前世 @yshidhe\n不露臉 不線下",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 48,
+                "username": "yshidhe"
+              }
+            ]
+          }
+        },
+        "id": "1674081369830436864",
+        "is_identity_verified": false,
+        "location": "在你心中",
+        "most_recent_tweet_id": "2088174973521441111",
+        "name": "ゆうく；已壊掉2.0",
+        "pinned_tweet_id": "2078364102158963012",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1674081369830436864/1781309511",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065587970690998272/p_gIuBa4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 344,
+          "following_count": 33,
+          "like_count": 1408,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 865
+        },
+        "url": "",
+        "username": "yshidhe3",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

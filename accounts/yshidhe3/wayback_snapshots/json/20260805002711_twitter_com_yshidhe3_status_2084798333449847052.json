@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1674081369830436864",
+    "conversation_id": "2083928841350000894",
+    "created_at": "2026-08-05T00:27:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T01:27:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084798333449847052"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1571053181282713605",
+          "start": 0,
+          "username": "Pitt_WaCLinBaBa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084798333449847052",
+    "in_reply_to_user_id": "1571053181282713605",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084680527341314284",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Pitt_WaCLinBaBa Hhhhhh(T ^ T)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1674081369830436864",
+        "conversation_id": "2083928841350000894",
+        "created_at": "2026-08-05T00:27:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T01:27:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084798333449847052"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1571053181282713605",
+              "start": 0,
+              "username": "Pitt_WaCLinBaBa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084798333449847052",
+        "in_reply_to_user_id": "1571053181282713605",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084680527341314284",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Pitt_WaCLinBaBa Hhhhhh(T ^ T)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1571053181282713605",
+        "conversation_id": "2083928841350000894",
+        "created_at": "2026-08-04T16:39:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T17:39:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084680527341314284"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1674081369830436864",
+              "start": 0,
+              "username": "yshidhe3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084680527341314284",
+        "in_reply_to_user_id": "1674081369830436864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084108269938004348",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yshidhe3 直接瘋掉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-28T15:44:58.000Z",
+        "description": "要升天了呢♱♡‿♡♰(病嬌/地雷~)\n♡抑鬱焦慮♡會自殘🈹od💊喔\n跟我聊天要先看自介噢\n理人 @roki_qnq 前世 @yshidhe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 48,
+                "username": "roki_qnq"
+              },
+              {
+                "end": 69,
+                "start": 61,
+                "username": "yshidhe"
+              }
+            ]
+          }
+        },
+        "id": "1674081369830436864",
+        "location": "在你心中",
+        "name": "ゆうく；已壊掉2.0",
+        "pinned_tweet_id": "2078364102158963012",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065587970690998272/p_gIuBa4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 183,
+          "following_count": 25,
+          "like_count": 1036,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 624
+        },
+        "url": "",
+        "username": "yshidhe3",
+        "verified": true
+      },
+      {
+        "created_at": "2022-09-17T08:27:43.000Z",
+        "description": "在七年的愛情中被生吞活剝後徹底丟失了自己\n白話就是暈船仔 / 久違的單身\n純按讚 有留言一定是無言亂語  不想也不打算約\n就是個台北老醜窮普信男子\n把推特當免費寫真在看 看的很開心\n只想好好聊天 好好交朋友 好好認識自己\n詐騙的就不要來浪費彼此時間了",
+        "id": "1571053181282713605",
+        "location": "Taipei City, Taiwan",
+        "name": "P",
+        "pinned_tweet_id": "2083534880592556492",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084366158980096000/ycNXVQOA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 8,
+          "like_count": 851,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 88
+        },
+        "url": "",
+        "username": "Pitt_WaCLinBaBa",
+        "verified": false
+      }
+    ]
+  }
+}

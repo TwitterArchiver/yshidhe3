@@ -1,0 +1,407 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2087711101500932096",
+        "3_2087711101538750464",
+        "3_2087711101521960960"
+      ]
+    },
+    "author_id": "1674081369830436864",
+    "conversation_id": "2087711516846063912",
+    "created_at": "2026-08-13T01:23:08.000Z",
+    "display_text_range": [
+      0,
+      29
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T02:21:31.000Z",
+      "edits_remaining": 3,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2087711112007746043",
+      "2087711418988806399",
+      "2087711516846063912"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/KSco00ZLd2",
+          "end": 53,
+          "expanded_url": "https://x.com/yshidhe3/status/2087711516846063912/photo/1",
+          "media_key": "3_2087711101500932096",
+          "start": 30,
+          "url": "https://t.co/KSco00ZLd2"
+        },
+        {
+          "display_url": "pic.x.com/KSco00ZLd2",
+          "end": 53,
+          "expanded_url": "https://x.com/yshidhe3/status/2087711516846063912/photo/1",
+          "media_key": "3_2087711101538750464",
+          "start": 30,
+          "url": "https://t.co/KSco00ZLd2"
+        },
+        {
+          "display_url": "pic.x.com/KSco00ZLd2",
+          "end": 53,
+          "expanded_url": "https://x.com/yshidhe3/status/2087711516846063912/photo/1",
+          "media_key": "3_2087711101521960960",
+          "start": 30,
+          "url": "https://t.co/KSco00ZLd2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087711516846063912",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2087711101500932096"
+      },
+      {
+        "media_key": "3_2087711101538750464"
+      },
+      {
+        "media_key": "3_2087711101521960960"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "欸 很莫名其妙欸\n傻眼\n怕這怕那就別找啊\n我都寫清楚規矩了 https://t.co/KSco00ZLd2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2393,
+        "media_key": "3_2087711101500932096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPkKL4aaQAAFunl.jpg",
+        "width": 1170
+      },
+      {
+        "height": 2393,
+        "media_key": "3_2087711101538750464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPkKL4jbUAAGBos.jpg",
+        "width": 1170
+      },
+      {
+        "height": 2411,
+        "media_key": "3_2087711101521960960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPkKL4fbIAAUioT.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087711101500932096",
+            "3_2087711101538750464",
+            "3_2087711101521960960"
+          ]
+        },
+        "author_id": "1674081369830436864",
+        "conversation_id": "2087711112007746043",
+        "created_at": "2026-08-13T01:21:31.000Z",
+        "display_text_range": [
+          0,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T02:21:31.000Z",
+          "edits_remaining": 3,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087711112007746043",
+          "2087711418988806399",
+          "2087711516846063912"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bPeOWiiP8K",
+              "end": 35,
+              "expanded_url": "https://x.com/yshidhe3/status/2087711112007746043/photo/1",
+              "media_key": "3_2087711101500932096",
+              "start": 12,
+              "url": "https://t.co/bPeOWiiP8K"
+            },
+            {
+              "display_url": "pic.x.com/bPeOWiiP8K",
+              "end": 35,
+              "expanded_url": "https://x.com/yshidhe3/status/2087711112007746043/photo/1",
+              "media_key": "3_2087711101538750464",
+              "start": 12,
+              "url": "https://t.co/bPeOWiiP8K"
+            },
+            {
+              "display_url": "pic.x.com/bPeOWiiP8K",
+              "end": 35,
+              "expanded_url": "https://x.com/yshidhe3/status/2087711112007746043/photo/1",
+              "media_key": "3_2087711101521960960",
+              "start": 12,
+              "url": "https://t.co/bPeOWiiP8K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087711112007746043",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087711101500932096"
+          },
+          {
+            "media_key": "3_2087711101538750464"
+          },
+          {
+            "media_key": "3_2087711101521960960"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "欸 很莫名其妙欸\n傻眼 https://t.co/bPeOWiiP8K"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087711101500932096",
+            "3_2087711101538750464",
+            "3_2087711101521960960"
+          ]
+        },
+        "author_id": "1674081369830436864",
+        "conversation_id": "2087711418988806399",
+        "created_at": "2026-08-13T01:22:44.000Z",
+        "display_text_range": [
+          0,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T02:21:31.000Z",
+          "edits_remaining": 3,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087711112007746043",
+          "2087711418988806399",
+          "2087711516846063912"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xgF5889hjy",
+              "end": 44,
+              "expanded_url": "https://x.com/yshidhe3/status/2087711418988806399/photo/1",
+              "media_key": "3_2087711101500932096",
+              "start": 21,
+              "url": "https://t.co/xgF5889hjy"
+            },
+            {
+              "display_url": "pic.x.com/xgF5889hjy",
+              "end": 44,
+              "expanded_url": "https://x.com/yshidhe3/status/2087711418988806399/photo/1",
+              "media_key": "3_2087711101538750464",
+              "start": 21,
+              "url": "https://t.co/xgF5889hjy"
+            },
+            {
+              "display_url": "pic.x.com/xgF5889hjy",
+              "end": 44,
+              "expanded_url": "https://x.com/yshidhe3/status/2087711418988806399/photo/1",
+              "media_key": "3_2087711101521960960",
+              "start": 21,
+              "url": "https://t.co/xgF5889hjy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087711418988806399",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087711101500932096"
+          },
+          {
+            "media_key": "3_2087711101538750464"
+          },
+          {
+            "media_key": "3_2087711101521960960"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "欸 很莫名其妙欸\n傻眼\n怕這怕那就別找啊 https://t.co/xgF5889hjy"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087711101500932096",
+            "3_2087711101538750464",
+            "3_2087711101521960960"
+          ]
+        },
+        "author_id": "1674081369830436864",
+        "conversation_id": "2087711516846063912",
+        "created_at": "2026-08-13T01:23:08.000Z",
+        "display_text_range": [
+          0,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T02:21:31.000Z",
+          "edits_remaining": 3,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087711112007746043",
+          "2087711418988806399",
+          "2087711516846063912"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KSco00ZLd2",
+              "end": 53,
+              "expanded_url": "https://x.com/yshidhe3/status/2087711516846063912/photo/1",
+              "media_key": "3_2087711101500932096",
+              "start": 30,
+              "url": "https://t.co/KSco00ZLd2"
+            },
+            {
+              "display_url": "pic.x.com/KSco00ZLd2",
+              "end": 53,
+              "expanded_url": "https://x.com/yshidhe3/status/2087711516846063912/photo/1",
+              "media_key": "3_2087711101538750464",
+              "start": 30,
+              "url": "https://t.co/KSco00ZLd2"
+            },
+            {
+              "display_url": "pic.x.com/KSco00ZLd2",
+              "end": 53,
+              "expanded_url": "https://x.com/yshidhe3/status/2087711516846063912/photo/1",
+              "media_key": "3_2087711101521960960",
+              "start": 30,
+              "url": "https://t.co/KSco00ZLd2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087711516846063912",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087711101500932096"
+          },
+          {
+            "media_key": "3_2087711101538750464"
+          },
+          {
+            "media_key": "3_2087711101521960960"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "欸 很莫名其妙欸\n傻眼\n怕這怕那就別找啊\n我都寫清楚規矩了 https://t.co/KSco00ZLd2"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-28T15:44:58.000Z",
+        "description": "要升天了呢♱♡‿♡♰(病嬌/地雷~)\n♡抑鬱焦慮♡會自殘🈹od💊喔\n跟我聊天要先看自介噢\n前世 @yshidhe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 48,
+                "username": "yshidhe"
+              }
+            ]
+          }
+        },
+        "id": "1674081369830436864",
+        "is_identity_verified": false,
+        "location": "在你心中",
+        "most_recent_tweet_id": "2087711516846063912",
+        "name": "ゆうく；已壊掉2.0",
+        "pinned_tweet_id": "2078364102158963012",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1674081369830436864/1781309511",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065587970690998272/p_gIuBa4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 281,
+          "following_count": 31,
+          "like_count": 1354,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 824
+        },
+        "url": "",
+        "username": "yshidhe3",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

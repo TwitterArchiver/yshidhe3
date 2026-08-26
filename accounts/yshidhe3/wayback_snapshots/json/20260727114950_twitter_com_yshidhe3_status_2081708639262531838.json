@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1674081369830436864",
+    "conversation_id": "2081550198996942920",
+    "created_at": "2026-07-27T11:49:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T12:49:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081708639262531838"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1066186101713395712",
+          "start": 0,
+          "username": "Summer4Night"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081708639262531838",
+    "in_reply_to_user_id": "1066186101713395712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081550198996942920",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Summer4Night 原粉很難吃，上網買吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1674081369830436864",
+        "conversation_id": "2081550198996942920",
+        "created_at": "2026-07-27T11:49:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T12:49:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081708639262531838"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1066186101713395712",
+              "start": 0,
+              "username": "Summer4Night"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081708639262531838",
+        "in_reply_to_user_id": "1066186101713395712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081550198996942920",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Summer4Night 原粉很難吃，上網買吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1066186101713395712",
+        "conversation_id": "2081550198996942920",
+        "created_at": "2026-07-27T01:20:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T02:20:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081550198996942920"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081550198996942920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 305,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "普瑞我的普瑞。没了。不想去医院开好累啊。\n买原粉怎么样。和药剂有什么区别"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-28T15:44:58.000Z",
+        "description": "要升天了呢♱♡‿♡♰(病嬌/地雷~)\n♡抑鬱焦慮♡會自殘🈹od💊喔\n跟我聊天要先看自介噢\n理人 @roki_qnq 前世 @yshidhe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 48,
+                "username": "roki_qnq"
+              },
+              {
+                "end": 69,
+                "start": 61,
+                "username": "yshidhe"
+              }
+            ]
+          }
+        },
+        "id": "1674081369830436864",
+        "name": "ゆうく；已壊掉2.0",
+        "pinned_tweet_id": "2078364102158963012",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065587970690998272/p_gIuBa4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 22,
+          "like_count": 853,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 458
+        },
+        "url": "",
+        "username": "yshidhe3",
+        "verified": false
+      },
+      {
+        "created_at": "2018-11-24T04:25:50.000Z",
+        "description": "只会一个形容词「草」的人型机器人/INFP?/会说些奇怪的呓语/回复我会很开心。骂我也没关系/随便私信，我不太会我聊天，希望不会冒犯你/妈妈→@Yz1am_1226/『请不要问我性别，喊我哥哥姐姐都可以』/ 永远的18↑不要问我具体年龄https://t.co/1fZ4iGKnpb匿名提问箱！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 71,
+                "username": "Yz1am_1226"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/summer8night",
+                "end": 141,
+                "expanded_url": "https://ngl.link/summer8night",
+                "start": 118,
+                "url": "https://t.co/1fZ4iGKnpb"
+              }
+            ]
+          }
+        },
+        "id": "1066186101713395712",
+        "location": "♁不存于世间的天堂♁",
+        "name": "死了的夏夜",
+        "pinned_tweet_id": "1671473524836552704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1455849269106184193/5dOsbHcr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1455,
+          "following_count": 657,
+          "like_count": 32495,
+          "listed_count": 9,
+          "media_count": 621,
+          "tweet_count": 10714
+        },
+        "url": "",
+        "username": "Summer4Night",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1674081369830436864",
+    "conversation_id": "2085526301759185406",
+    "created_at": "2026-08-07T14:30:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T15:30:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085735243991183585"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1792721128705945600",
+          "start": 0,
+          "username": "chn1378877"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085735243991183585",
+    "in_reply_to_user_id": "1792721128705945600",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085526301759185406",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chn1378877 好好看的手"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 35426,
+        "height": 1280,
+        "media_key": "13_2085526062771888128",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2085526062771888128/img/VmoGEx6-1BFisotc.jpg",
+        "public_metrics": {
+          "view_count": 148
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2085526062771888128/vid/avc1/320x568/I1pXH8S1s2a1DnBp.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2085526062771888128/vid/avc1/480x852/M9QNKjMiBNeROqfz.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2085526062771888128/vid/avc1/720x1280/KIGBglSs6AqZ2n_a.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2085526062771888128/pl/s1aMhlSXXtQ0o-jL.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1674081369830436864",
+        "conversation_id": "2085526301759185406",
+        "created_at": "2026-08-07T14:30:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T15:30:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085735243991183585"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1792721128705945600",
+              "start": 0,
+              "username": "chn1378877"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085735243991183585",
+        "in_reply_to_user_id": "1792721128705945600",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085526301759185406",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chn1378877 好好看的手"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2085526062771888128"
+          ]
+        },
+        "author_id": "1792721128705945600",
+        "conversation_id": "2085526301759185406",
+        "created_at": "2026-08-07T00:39:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T01:39:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085526301759185406"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YKmeLJn8O0",
+              "end": 33,
+              "expanded_url": "https://x.com/chn1378877/status/2085526301759185406/video/1",
+              "media_key": "13_2085526062771888128",
+              "start": 10,
+              "url": "https://t.co/YKmeLJn8O0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085526301759185406",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 293,
+          "like_count": 42,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "好玩\n（道具假血） https://t.co/YKmeLJn8O0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-28T15:44:58.000Z",
+        "description": "要升天了呢♱♡‿♡♰(病嬌/地雷~)\n♡抑鬱焦慮♡會自殘🈹od💊喔\n跟我聊天要先看自介噢\n前世 @yshidhe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 48,
+                "username": "yshidhe"
+              }
+            ]
+          }
+        },
+        "id": "1674081369830436864",
+        "location": "在你心中",
+        "name": "ゆうく；已壊掉2.0",
+        "pinned_tweet_id": "2078364102158963012",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065587970690998272/p_gIuBa4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 193,
+          "following_count": 25,
+          "like_count": 1129,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 680
+        },
+        "url": "",
+        "username": "yshidhe3",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-21T00:56:55.000Z",
+        "description": "我只是一个缺爱逼 推特啥都发 喜欢可怜我给我打钱 过得不好别问了",
+        "id": "1792721128705945600",
+        "location": "🚪 88  只回复口令 支付截图",
+        "name": "恋の痛み",
+        "pinned_tweet_id": "2081862337749991896",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085650313378168832/wiMS-8yd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148,
+          "following_count": 151,
+          "like_count": 1262,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 304
+        },
+        "url": "",
+        "username": "chn1378877",
+        "verified": false
+      }
+    ]
+  }
+}

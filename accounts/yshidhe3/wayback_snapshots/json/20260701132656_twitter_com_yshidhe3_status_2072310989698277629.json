@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1674081369830436864",
+    "conversation_id": "2072235621834530923",
+    "created_at": "2026-07-01T13:26:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T14:26:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072310989698277629"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1899082105977462784",
+          "start": 0,
+          "username": "Nullemptyset"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072310989698277629",
+    "in_reply_to_user_id": "1899082105977462784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072235621834530923",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nullemptyset ？？？你在做什麼"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 843,
+        "media_key": "3_2072235619057852416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMIPUPza4AAyHC4.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1674081369830436864",
+        "conversation_id": "2072235621834530923",
+        "created_at": "2026-07-01T13:26:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T14:26:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072310989698277629"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1899082105977462784",
+              "start": 0,
+              "username": "Nullemptyset"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072310989698277629",
+        "in_reply_to_user_id": "1899082105977462784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072235621834530923",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nullemptyset ？？？你在做什麼"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072235619057852416"
+          ]
+        },
+        "author_id": "1899082105977462784",
+        "conversation_id": "2072235621834530923",
+        "created_at": "2026-07-01T08:27:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T09:27:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072235621834530923"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hAikyE1cUU",
+              "end": 28,
+              "expanded_url": "https://x.com/Nullemptyset/status/2072235621834530923/photo/1",
+              "media_key": "3_2072235619057852416",
+              "start": 5,
+              "url": "https://t.co/hAikyE1cUU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072235621834530923",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 946,
+          "like_count": 19,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "指甲剪除 https://t.co/hAikyE1cUU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-28T15:44:58.000Z",
+        "description": "要升天了呢♱♡‿♡♰(病嬌/地雷~)\n♡抑鬱焦慮♡會自殘🈹od💊喔\n跟我聊天要先看自介噢\n理人 @roki_qnq 前世 @yshidhe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 48,
+                "username": "roki_qnq"
+              },
+              {
+                "end": 69,
+                "start": 61,
+                "username": "yshidhe"
+              }
+            ]
+          }
+        },
+        "id": "1674081369830436864",
+        "name": "ゆうく；已壊掉(轉生尋回中",
+        "pinned_tweet_id": "2070476815337213953",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065587970690998272/p_gIuBa4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 16,
+          "like_count": 553,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 185
+        },
+        "url": "",
+        "username": "yshidhe3",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-10T12:57:20.000Z",
+        "description": "＝空集，可称呼为 小空｜ftx｜sh｜od｜不聊黄不鉴证不无差别骂人｜同类互fo｜私信欢迎互动",
+        "id": "1899082105977462784",
+        "location": "虚无",
+        "name": "∅",
+        "pinned_tweet_id": "2071605670533792080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059683378790891520/TFD9Nj43_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 105,
+          "like_count": 434,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 247
+        },
+        "url": "",
+        "username": "Nullemptyset",
+        "verified": false
+      }
+    ]
+  }
+}

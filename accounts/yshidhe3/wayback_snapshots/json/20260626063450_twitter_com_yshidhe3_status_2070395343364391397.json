@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1674081369830436864",
+    "conversation_id": "2070261298886300151",
+    "created_at": "2026-06-26T06:34:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T07:34:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070395343364391397"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2045123363547344897",
+          "start": 0,
+          "username": "yuanjiming"
+        },
+        {
+          "end": 21,
+          "id": "2053009418871357440",
+          "start": 12,
+          "username": "NMD_2012"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070395343364391397",
+    "in_reply_to_user_id": "2045123363547344897",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070382379135602772",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuanjiming @NMD_2012 (*≧ω≦)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1674081369830436864",
+        "conversation_id": "2070261298886300151",
+        "created_at": "2026-06-26T06:34:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T07:34:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070395343364391397"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2045123363547344897",
+              "start": 0,
+              "username": "yuanjiming"
+            },
+            {
+              "end": 21,
+              "id": "2053009418871357440",
+              "start": 12,
+              "username": "NMD_2012"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070395343364391397",
+        "in_reply_to_user_id": "2045123363547344897",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070382379135602772",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuanjiming @NMD_2012 (*≧ω≦)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045123363547344897",
+        "conversation_id": "2070261298886300151",
+        "created_at": "2026-06-26T05:43:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T06:43:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070382379135602772"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1674081369830436864",
+              "start": 0,
+              "username": "yshidhe3"
+            },
+            {
+              "end": 19,
+              "id": "2053009418871357440",
+              "start": 10,
+              "username": "NMD_2012"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070382379135602772",
+        "in_reply_to_user_id": "1674081369830436864",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070375185258283246",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yshidhe3 @NMD_2012 卡哇伊嘞"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-28T15:44:58.000Z",
+        "description": "要升天了呢♱♡‿♡♰(病嬌/地雷~)\n♡抑鬱焦慮♡會自殘🈹od💊喔\n跟我聊天要先看自介噢\n理人 @roki_qnq 前世 @yshidhe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 48,
+                "username": "roki_qnq"
+              },
+              {
+                "end": 69,
+                "start": 61,
+                "username": "yshidhe"
+              }
+            ]
+          }
+        },
+        "id": "1674081369830436864",
+        "name": "ゆうく；已壊掉(轉生尋回中",
+        "pinned_tweet_id": "2065640832426971535",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065587970690998272/p_gIuBa4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 15,
+          "like_count": 527,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 164
+        },
+        "url": "",
+        "username": "yshidhe3",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-17T12:53:23.000Z",
+        "description": "hi，咱是一个来推特上寻找一块聊天的人无论年龄性别你觉得无聊都可以来找我",
+        "id": "2045123363547344897",
+        "location": "America",
+        "name": "何人两相思",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045158981451354112/bU7ybg2x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 24,
+          "like_count": 232,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 175
+        },
+        "url": "",
+        "username": "yuanjiming",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-09T07:10:13.000Z",
+        "description": "我喜欢装深沉但可能不是装的 @MAKINOPEACE梦男👁️  个人主义 自由主义 看成分回fo  喜欢有趣的人 鉴证账号退散 可以关注我的邪恶人格@CNM_2012",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 14,
+                "username": "MAKINOPEACE"
+              },
+              {
+                "end": 83,
+                "start": 74,
+                "username": "CNM_2012"
+              }
+            ]
+          }
+        },
+        "id": "2053009418871357440",
+        "location": "地獄",
+        "name": "孤独症患者",
+        "pinned_tweet_id": "2068199634393252179",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069347776820056064/up6YKXtK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 178,
+          "following_count": 100,
+          "like_count": 4547,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 429
+        },
+        "url": "",
+        "username": "NMD_2012",
+        "verified": false
+      }
+    ]
+  }
+}

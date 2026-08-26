@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1674081369830436864",
+    "conversation_id": "2079578422146449520",
+    "created_at": "2026-07-22T02:00:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T03:00:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079748381103276308"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "3020684281",
+          "start": 0,
+          "username": "LD___3345678"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079748381103276308",
+    "in_reply_to_user_id": "3020684281",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079630352805736662",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LD___3345678 晚安(*≧ω≦)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1674081369830436864",
+        "conversation_id": "2079578422146449520",
+        "created_at": "2026-07-22T02:00:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T03:00:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079748381103276308"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "3020684281",
+              "start": 0,
+              "username": "LD___3345678"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079748381103276308",
+        "in_reply_to_user_id": "3020684281",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079630352805736662",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LD___3345678 晚安(*≧ω≦)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3020684281",
+        "conversation_id": "2079578422146449520",
+        "created_at": "2026-07-21T18:11:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T19:11:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079630352805736662"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1674081369830436864",
+              "start": 0,
+              "username": "yshidhe3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079630352805736662",
+        "in_reply_to_user_id": "1674081369830436864",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079578422146449520",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yshidhe3 晚安"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-28T15:44:58.000Z",
+        "description": "要升天了呢♱♡‿♡♰(病嬌/地雷~)\n♡抑鬱焦慮♡會自殘🈹od💊喔\n跟我聊天要先看自介噢\n理人 @roki_qnq 前世 @yshidhe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 48,
+                "username": "roki_qnq"
+              },
+              {
+                "end": 69,
+                "start": 61,
+                "username": "yshidhe"
+              }
+            ]
+          }
+        },
+        "id": "1674081369830436864",
+        "name": "ゆうく；已壊掉(轉生尋回中",
+        "pinned_tweet_id": "2078364102158963012",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065587970690998272/p_gIuBa4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 17,
+          "like_count": 728,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 328
+        },
+        "url": "",
+        "username": "yshidhe3",
+        "verified": false
+      },
+      {
+        "created_at": "2015-02-15T06:39:56.000Z",
+        "description": "Dom｜",
+        "id": "3020684281",
+        "location": "台灣",
+        "name": "IamLD",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821163659529482242/-8FGNiKK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 301,
+          "following_count": 771,
+          "like_count": 8699,
+          "listed_count": 19,
+          "media_count": 29,
+          "tweet_count": 1678
+        },
+        "url": "",
+        "username": "LD___3345678",
+        "verified": false
+      }
+    ]
+  }
+}

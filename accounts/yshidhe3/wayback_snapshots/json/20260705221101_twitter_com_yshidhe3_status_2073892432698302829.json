@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1674081369830436864",
+    "conversation_id": "2073789609063092611",
+    "created_at": "2026-07-05T22:11:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T23:11:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073892432698302829"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1636724001207898118",
+          "start": 0,
+          "username": "s05589625196774"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073892432698302829",
+    "in_reply_to_user_id": "1636724001207898118",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073791430636789925",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@s05589625196774 對啊對啊(T ^ T)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1674081369830436864",
+        "conversation_id": "2073789609063092611",
+        "created_at": "2026-07-05T22:11:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T23:11:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073892432698302829"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1636724001207898118",
+              "start": 0,
+              "username": "s05589625196774"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073892432698302829",
+        "in_reply_to_user_id": "1636724001207898118",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073791430636789925",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@s05589625196774 對啊對啊(T ^ T)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1636724001207898118",
+        "conversation_id": "2073789609063092611",
+        "created_at": "2026-07-05T15:29:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T16:29:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073791430636789925"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1674081369830436864",
+              "start": 0,
+              "username": "yshidhe3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073791430636789925",
+        "in_reply_to_user_id": "1674081369830436864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073789609063092611",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yshidhe3 學習要間隔...七小時不用吃飯睡覺上廁所還有腦子休息就是了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-28T15:44:58.000Z",
+        "description": "要升天了呢♱♡‿♡♰(病嬌/地雷~)\n♡抑鬱焦慮♡會自殘🈹od💊喔\n跟我聊天要先看自介噢\n理人 @roki_qnq 前世 @yshidhe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 48,
+                "username": "roki_qnq"
+              },
+              {
+                "end": 69,
+                "start": 61,
+                "username": "yshidhe"
+              }
+            ]
+          }
+        },
+        "id": "1674081369830436864",
+        "name": "ゆうく；已壊掉(轉生尋回中",
+        "pinned_tweet_id": "2070476815337213953",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065587970690998272/p_gIuBa4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 16,
+          "like_count": 605,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 221
+        },
+        "url": "",
+        "username": "yshidhe3",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-17T13:40:08.000Z",
+        "description": "工作原因待機時間\n會想找人聊天\n沒事做會焦躁\n約炮勿擾 我只是個喜歡看喜歡聊天的",
+        "id": "1636724001207898118",
+        "name": "夜狼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1637834827088158723/qjv4DW49_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 676,
+          "like_count": 1113,
+          "listed_count": 0,
+          "media_count": 159,
+          "tweet_count": 1209
+        },
+        "url": "",
+        "username": "s05589625196774",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,334 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2086408541573935104",
+        "3_2086408541548736513"
+      ],
+      "media_source_tweet_id": [
+        "2086408551652897214",
+        "2086408551652897214"
+      ]
+    },
+    "author_id": "1674081369830436864",
+    "conversation_id": "2086422079419891842",
+    "created_at": "2026-08-09T11:59:22.000Z",
+    "display_text_range": [
+      0,
+      107
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T12:59:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086422079419891842"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2055629282366697472",
+          "start": 3,
+          "username": "wwwwwsuger"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/dWcHkWavja",
+          "end": 107,
+          "expanded_url": "https://x.com/wwwwwsuger/status/2086408551652897214/photo/1",
+          "media_key": "3_2086408541573935104",
+          "start": 84,
+          "url": "https://t.co/dWcHkWavja"
+        },
+        {
+          "display_url": "pic.x.com/dWcHkWavja",
+          "end": 107,
+          "expanded_url": "https://x.com/wwwwwsuger/status/2086408551652897214/photo/1",
+          "media_key": "3_2086408541548736513",
+          "start": 84,
+          "url": "https://t.co/dWcHkWavja"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086422079419891842",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2086408541573935104"
+      },
+      {
+        "media_key": "3_2086408541548736513"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086408551652897214",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wwwwwsuger: 大家好，這是自介\n07/休學/戒od/情緒病/地雷系\n同類互fo🫶🏻來互轉ㄚ\n未來可能會線下？\n偶爾發日常和自拍\n可以隨便跟我互動聊天 https://t.co/dWcHkWavja"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1426,
+        "media_key": "3_2086408541573935104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPRpg6ja8AAeWE4.jpg",
+        "width": 1149
+      },
+      {
+        "height": 1381,
+        "media_key": "3_2086408541548736513",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPRpg6dacAE0mFl.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086408541573935104",
+            "3_2086408541548736513"
+          ]
+        },
+        "author_id": "2055629282366697472",
+        "conversation_id": "2086408551652897214",
+        "created_at": "2026-08-09T11:05:36.000Z",
+        "display_text_range": [
+          0,
+          67
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T12:05:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086408551652897214"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dWcHkWavja",
+              "end": 91,
+              "expanded_url": "https://x.com/wwwwwsuger/status/2086408551652897214/photo/1",
+              "media_key": "3_2086408541573935104",
+              "start": 68,
+              "url": "https://t.co/dWcHkWavja"
+            },
+            {
+              "display_url": "pic.x.com/dWcHkWavja",
+              "end": 91,
+              "expanded_url": "https://x.com/wwwwwsuger/status/2086408551652897214/photo/1",
+              "media_key": "3_2086408541548736513",
+              "start": 68,
+              "url": "https://t.co/dWcHkWavja"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086408551652897214",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2086408541573935104"
+          },
+          {
+            "media_key": "3_2086408541548736513"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "大家好，這是自介\n07/休學/戒od/情緒病/地雷系\n同類互fo🫶🏻來互轉ㄚ\n未來可能會線下？\n偶爾發日常和自拍\n可以隨便跟我互動聊天 https://t.co/dWcHkWavja"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086408541573935104",
+            "3_2086408541548736513"
+          ],
+          "media_source_tweet_id": [
+            "2086408551652897214",
+            "2086408551652897214"
+          ]
+        },
+        "author_id": "1674081369830436864",
+        "conversation_id": "2086422079419891842",
+        "created_at": "2026-08-09T11:59:22.000Z",
+        "display_text_range": [
+          0,
+          107
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T12:59:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086422079419891842"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2055629282366697472",
+              "start": 3,
+              "username": "wwwwwsuger"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dWcHkWavja",
+              "end": 107,
+              "expanded_url": "https://x.com/wwwwwsuger/status/2086408551652897214/photo/1",
+              "media_key": "3_2086408541573935104",
+              "start": 84,
+              "url": "https://t.co/dWcHkWavja"
+            },
+            {
+              "display_url": "pic.x.com/dWcHkWavja",
+              "end": 107,
+              "expanded_url": "https://x.com/wwwwwsuger/status/2086408551652897214/photo/1",
+              "media_key": "3_2086408541548736513",
+              "start": 84,
+              "url": "https://t.co/dWcHkWavja"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086422079419891842",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2086408541573935104"
+          },
+          {
+            "media_key": "3_2086408541548736513"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086408551652897214",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @wwwwwsuger: 大家好，這是自介\n07/休學/戒od/情緒病/地雷系\n同類互fo🫶🏻來互轉ㄚ\n未來可能會線下？\n偶爾發日常和自拍\n可以隨便跟我互動聊天 https://t.co/dWcHkWavja"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-28T15:44:58.000Z",
+        "description": "要升天了呢♱♡‿♡♰(病嬌/地雷~)\n♡抑鬱焦慮♡會自殘🈹od💊喔\n跟我聊天要先看自介噢\n前世 @yshidhe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 48,
+                "username": "yshidhe"
+              }
+            ]
+          }
+        },
+        "id": "1674081369830436864",
+        "is_identity_verified": false,
+        "location": "在你心中",
+        "most_recent_tweet_id": "2086422079419891842",
+        "name": "ゆうく；已壊掉2.0",
+        "pinned_tweet_id": "2078364102158963012",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1674081369830436864/1781309511",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065587970690998272/p_gIuBa4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 206,
+          "following_count": 26,
+          "like_count": 1197,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 715
+        },
+        "url": "",
+        "username": "yshidhe3",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-16T12:42:40.000Z",
+        "description": "女/07/躁鬱/戒od/割/地雷/台灣/同類互fol🫶🏻",
+        "id": "2055629282366697472",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086408551652897214",
+        "name": "金大",
+        "pinned_tweet_id": "2086407887929413880",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2055629282366697472/1785334889",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082471480819163136/w550orJE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 10,
+          "like_count": 460,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 49
+        },
+        "url": "",
+        "username": "wwwwwsuger",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

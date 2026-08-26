@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1674081369830436864",
+    "conversation_id": "2089299143454007690",
+    "created_at": "2026-08-17T16:03:13.000Z",
+    "display_text_range": [
+      11,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-17T17:03:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089382548485099775"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "859153384539955200",
+          "start": 0,
+          "username": "jun228888"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089382548485099775",
+    "in_reply_to_user_id": "859153384539955200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089348297840644264",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jun228888 對啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1674081369830436864",
+        "conversation_id": "2089299143454007690",
+        "created_at": "2026-08-17T16:03:13.000Z",
+        "display_text_range": [
+          11,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T17:03:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089382548485099775"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "859153384539955200",
+              "start": 0,
+              "username": "jun228888"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089382548485099775",
+        "in_reply_to_user_id": "859153384539955200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089348297840644264",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jun228888 對啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "859153384539955200",
+        "conversation_id": "2089299143454007690",
+        "created_at": "2026-08-17T13:47:07.000Z",
+        "display_text_range": [
+          10,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T14:47:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089348297840644264"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1674081369830436864",
+              "start": 0,
+              "username": "yshidhe3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089348297840644264",
+        "in_reply_to_user_id": "1674081369830436864",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089299143454007690",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yshidhe3 談感情成本太多了🙂‍↕️"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-28T15:44:58.000Z",
+        "description": "要升天了呢♱♡‿♡♰(病嬌/地雷~)\n♡抑鬱焦慮♡會自殘🈹od💊喔\n跟我聊天要先看自介噢\n前世 @yshidhe\n不露臉 不線下",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 48,
+                "username": "yshidhe"
+              }
+            ]
+          }
+        },
+        "id": "1674081369830436864",
+        "is_identity_verified": false,
+        "location": "在你心中",
+        "most_recent_tweet_id": "2089382548485099775",
+        "name": "ゆうく；已壊掉2.0",
+        "pinned_tweet_id": "2078364102158963012",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1674081369830436864/1781309511",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065587970690998272/p_gIuBa4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 374,
+          "following_count": 32,
+          "like_count": 1509,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 946
+        },
+        "url": "",
+        "username": "yshidhe3",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-05-01T21:11:43.000Z",
+        "description": "台中勤美｜直男一條\n佛系經營｜ENTP\n\n熱心注人，私訊附照\n互相尊重，保持禮貌",
+        "id": "859153384539955200",
+        "is_identity_verified": false,
+        "location": "Taichung City, Taiwan",
+        "most_recent_tweet_id": "2089377256452026691",
+        "name": "李尋歡",
+        "pinned_tweet_id": "2079088273809678765",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/859153384539955200/1783987004",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087556958069063680/ufhIXwBf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148,
+          "following_count": 835,
+          "like_count": 3175,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 697
+        },
+        "url": "",
+        "username": "jun228888",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

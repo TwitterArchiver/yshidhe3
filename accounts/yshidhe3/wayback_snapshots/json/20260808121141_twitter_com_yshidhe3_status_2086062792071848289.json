@@ -1,0 +1,146 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2086062778545274880"
+      ]
+    },
+    "author_id": "1674081369830436864",
+    "conversation_id": "2086062792071848289",
+    "created_at": "2026-08-08T12:11:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-08T13:11:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2086062792071848289"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/PxzV3sYOfd",
+          "end": 54,
+          "expanded_url": "https://x.com/yshidhe3/status/2086062792071848289/photo/1",
+          "media_key": "3_2086062778545274880",
+          "start": 31,
+          "url": "https://t.co/PxzV3sYOfd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086062792071848289",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我好崩潰\n不要再舉報我了\nit's just make up https://t.co/PxzV3sYOfd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1408,
+        "media_key": "3_2086062778545274880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPMvC25bAAA0RxU.jpg",
+        "width": 2348
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086062778545274880"
+          ]
+        },
+        "author_id": "1674081369830436864",
+        "conversation_id": "2086062792071848289",
+        "created_at": "2026-08-08T12:11:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-08T13:11:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086062792071848289"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PxzV3sYOfd",
+              "end": 54,
+              "expanded_url": "https://x.com/yshidhe3/status/2086062792071848289/photo/1",
+              "media_key": "3_2086062778545274880",
+              "start": 31,
+              "url": "https://t.co/PxzV3sYOfd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086062792071848289",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我好崩潰\n不要再舉報我了\nit's just make up https://t.co/PxzV3sYOfd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-28T15:44:58.000Z",
+        "description": "要升天了呢♱♡‿♡♰(病嬌/地雷~)\n♡抑鬱焦慮♡會自殘🈹od💊喔\n跟我聊天要先看自介噢\n前世 @yshidhe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 48,
+                "username": "yshidhe"
+              }
+            ]
+          }
+        },
+        "id": "1674081369830436864",
+        "location": "在你心中",
+        "name": "ゆうく；已壊掉2.0",
+        "pinned_tweet_id": "2078364102158963012",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065587970690998272/p_gIuBa4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 195,
+          "following_count": 25,
+          "like_count": 1144,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 690
+        },
+        "url": "",
+        "username": "yshidhe3",
+        "verified": true
+      }
+    ]
+  }
+}

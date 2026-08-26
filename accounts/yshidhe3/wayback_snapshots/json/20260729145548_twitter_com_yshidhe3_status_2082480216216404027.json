@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1674081369830436864",
+    "conversation_id": "2082480216216404027",
+    "created_at": "2026-07-29T14:55:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T15:55:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082480216216404027"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2055629282366697472",
+          "start": 3,
+          "username": "wwwwwsuger"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082480216216404027",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082476266264080568",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wwwwwsuger: 大家好我是一名地雷女，今天誕生在這個X上\n如果從現在開始關注我，未來你便是我的老粉了\n我會慢慢地在這裏透露關於我的事情\n希望在痛苦之中治愈大家吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1674081369830436864",
+        "conversation_id": "2082480216216404027",
+        "created_at": "2026-07-29T14:55:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T15:55:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082480216216404027"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2055629282366697472",
+              "start": 3,
+              "username": "wwwwwsuger"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082480216216404027",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082476266264080568",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @wwwwwsuger: 大家好我是一名地雷女，今天誕生在這個X上\n如果從現在開始關注我，未來你便是我的老粉了\n我會慢慢地在這裏透露關於我的事情\n希望在痛苦之中治愈大家吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055629282366697472",
+        "conversation_id": "2082476266264080568",
+        "created_at": "2026-07-29T14:40:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T15:40:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082476266264080568"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082476266264080568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "大家好我是一名地雷女，今天誕生在這個X上\n如果從現在開始關注我，未來你便是我的老粉了\n我會慢慢地在這裏透露關於我的事情\n希望在痛苦之中治愈大家吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-28T15:44:58.000Z",
+        "description": "要升天了呢♱♡‿♡♰(病嬌/地雷~)\n♡抑鬱焦慮♡會自殘🈹od💊喔\n跟我聊天要先看自介噢\n理人 @roki_qnq 前世 @yshidhe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 48,
+                "username": "roki_qnq"
+              },
+              {
+                "end": 69,
+                "start": 61,
+                "username": "yshidhe"
+              }
+            ]
+          }
+        },
+        "id": "1674081369830436864",
+        "location": "在你心中",
+        "name": "ゆうく；已壊掉2.0",
+        "pinned_tweet_id": "2078364102158963012",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065587970690998272/p_gIuBa4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 151,
+          "following_count": 22,
+          "like_count": 929,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 538
+        },
+        "url": "",
+        "username": "yshidhe3",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-16T12:42:40.000Z",
+        "description": "女/19/躁鬱/焦慮/od/割/地雷",
+        "id": "2055629282366697472",
+        "name": "金大",
+        "pinned_tweet_id": "2064247065849545035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082471480819163136/w550orJE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 1,
+          "like_count": 363,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 5
+        },
+        "url": "",
+        "username": "wwwwwsuger",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1674081369830436864",
+    "conversation_id": "2089438923663798633",
+    "created_at": "2026-08-18T10:05:53.000Z",
+    "display_text_range": [
+      15,
+      28
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T11:05:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089655012431638960"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1277135438302441472",
+          "start": 0,
+          "username": "TakahashiYua9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089655012431638960",
+    "in_reply_to_user_id": "1277135438302441472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089438923663798633",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TakahashiYua9 用清潔劑洗還是能夠洗掉的啦"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2089438891824779264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP8tmg8aEAAr561.jpg",
+        "width": 3072
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2089438907553435648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP8tnbiaUAAdITT.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1674081369830436864",
+        "conversation_id": "2089438923663798633",
+        "created_at": "2026-08-18T10:05:53.000Z",
+        "display_text_range": [
+          15,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T11:05:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089655012431638960"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1277135438302441472",
+              "start": 0,
+              "username": "TakahashiYua9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089655012431638960",
+        "in_reply_to_user_id": "1277135438302441472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089438923663798633",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TakahashiYua9 用清潔劑洗還是能夠洗掉的啦"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089438891824779264",
+            "3_2089438907553435648"
+          ]
+        },
+        "author_id": "1277135438302441472",
+        "conversation_id": "2089438923663798633",
+        "created_at": "2026-08-17T19:47:13.000Z",
+        "display_text_range": [
+          0,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T20:47:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089438923663798633"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yyVrPZoWNU",
+              "end": 42,
+              "expanded_url": "https://x.com/TakahashiYua9/status/2089438923663798633/photo/1",
+              "media_key": "3_2089438891824779264",
+              "start": 19,
+              "url": "https://t.co/yyVrPZoWNU"
+            },
+            {
+              "display_url": "pic.x.com/yyVrPZoWNU",
+              "end": 42,
+              "expanded_url": "https://x.com/TakahashiYua9/status/2089438923663798633/photo/1",
+              "media_key": "3_2089438907553435648",
+              "start": 19,
+              "url": "https://t.co/yyVrPZoWNU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089438923663798633",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089438891824779264"
+          },
+          {
+            "media_key": "3_2089438907553435648"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1254,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "ok啊也是来上月经了啊（假血浆道具） https://t.co/yyVrPZoWNU"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-28T15:44:58.000Z",
+        "description": "要升天了呢♱♡‿♡♰(病嬌/地雷~)\n♡抑鬱焦慮♡會自殘🈹od💊喔\n跟我聊天要先看自介噢\n前世 @yshidhe\n不露臉 不線下",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 48,
+                "username": "yshidhe"
+              }
+            ]
+          }
+        },
+        "id": "1674081369830436864",
+        "is_identity_verified": false,
+        "location": "在你心中",
+        "most_recent_tweet_id": "2089655012431638960",
+        "name": "ゆうく；已壊掉2.0",
+        "pinned_tweet_id": "2078364102158963012",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1674081369830436864/1781309511",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065587970690998272/p_gIuBa4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 380,
+          "following_count": 32,
+          "like_count": 1518,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 951
+        },
+        "url": "",
+        "username": "yshidhe3",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-06-28T07:03:25.000Z",
+        "description": "🏩🚗偶尔🛁/暂无担当",
+        "id": "1277135438302441472",
+        "is_identity_verified": false,
+        "location": "歌舞伎",
+        "most_recent_tweet_id": "2089653904950825201",
+        "name": "あちや🌸🍋",
+        "pinned_tweet_id": "2089124002510024823",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1277135438302441472/1785782898",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084351551519535104/AZPLGMx__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 390,
+          "following_count": 364,
+          "like_count": 2465,
+          "listed_count": 4,
+          "media_count": 41,
+          "tweet_count": 458
+        },
+        "url": "",
+        "username": "TakahashiYua9",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

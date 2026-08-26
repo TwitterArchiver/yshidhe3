@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1674081369830436864",
+    "conversation_id": "2090553441076510745",
+    "created_at": "2026-08-21T03:01:35.000Z",
+    "display_text_range": [
+      17,
+      28
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T04:01:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090635398276100488"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2076835323036696576",
+          "start": 0,
+          "username": "cutebloodymess_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090635398276100488",
+    "in_reply_to_user_id": "2076835323036696576",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090553441076510745",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cutebloodymess_ wtf is that"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12444,
+        "height": 1280,
+        "media_key": "13_2090553392783331328",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2090553392783331328/img/zngX6fxyyWyUCE9v.jpg",
+        "public_metrics": {
+          "view_count": 62427
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090553392783331328/vid/avc1/320x690/NEvoEFUZ2AfGkdEp.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090553392783331328/vid/avc1/480x1036/e-IW8bwSL3f34FT8.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090553392783331328/vid/avc1/592x1280/XYRFVmalGGx-b3U6.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2090553392783331328/pl/aL6w1AhQUTVltpbB.m3u8?v=cfc"
+          }
+        ],
+        "width": 592
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1674081369830436864",
+        "conversation_id": "2090553441076510745",
+        "created_at": "2026-08-21T03:01:35.000Z",
+        "display_text_range": [
+          17,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T04:01:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090635398276100488"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2076835323036696576",
+              "start": 0,
+              "username": "cutebloodymess_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090635398276100488",
+        "in_reply_to_user_id": "2076835323036696576",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090553441076510745",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cutebloodymess_ wtf is that"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2090553392783331328"
+          ]
+        },
+        "author_id": "2076835323036696576",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+              "id": "1557696505548394496",
+              "name": "Beauty, Cosmetic & Personal Care Business"
+            }
+          }
+        ],
+        "conversation_id": "2090553441076510745",
+        "created_at": "2026-08-20T21:35:55.000Z",
+        "display_text_range": [
+          0,
+          212
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T22:35:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090553441076510745"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UHlOJ1N4mJ",
+              "end": 236,
+              "expanded_url": "https://x.com/cutebloodymess_/status/2090553441076510745/video/1",
+              "media_key": "13_2090553392783331328",
+              "start": 213,
+              "url": "https://t.co/UHlOJ1N4mJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090553441076510745",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2090553392783331328"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1133,
+          "impression_count": 60194,
+          "like_count": 4504,
+          "quote_count": 39,
+          "reply_count": 117,
+          "retweet_count": 588
+        },
+        "reply_settings": "everyone",
+        "text": "(This is fake, it's makeup and all tools present in this video are makeup products, this is for educational purpose and spreading awareness T~T)\n\nshtwt beanstwt styrotwt goretwt shrtwt laffytaffytwt sh gore beans https://t.co/UHlOJ1N4mJ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-28T15:44:58.000Z",
+        "description": "要升天了呢(´♡ω♡`)（病嬌/地雷~）\n抑鬱焦慮會o:d/割 喔\n跟我聊天要先看自介噢 \n前世 @yshidhe 不露臉不線下",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 49,
+                "username": "yshidhe"
+              }
+            ]
+          }
+        },
+        "id": "1674081369830436864",
+        "is_identity_verified": false,
+        "location": "在你心中",
+        "most_recent_tweet_id": "2090635398276100488",
+        "name": "ゆうく；已壊掉2.0",
+        "pinned_tweet_id": "2078364102158963012",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1674081369830436864/1781309511",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065587970690998272/p_gIuBa4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 383,
+          "following_count": 30,
+          "like_count": 1596,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 982
+        },
+        "url": "",
+        "username": "yshidhe3",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T01:05:47.000Z",
+        "description": "cutspo :3\nreposts! not my photos! \n⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️",
+        "id": "2076835323036696576",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090553441076510745",
+        "name": "🐾",
+        "pinned_tweet_id": "2086530793388589398",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076835323036696576/1786895134",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088802278316617728/K89wOM02_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 280,
+          "following_count": 131,
+          "like_count": 130,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 4
+        },
+        "url": "",
+        "username": "cutebloodymess_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

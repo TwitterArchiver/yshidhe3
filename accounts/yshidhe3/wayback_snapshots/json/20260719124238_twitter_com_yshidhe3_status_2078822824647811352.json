@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1674081369830436864",
+    "conversation_id": "2078715618778595604",
+    "created_at": "2026-07-19T12:42:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T13:42:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078822824647811352"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2061773740195921920",
+          "start": 0,
+          "username": "guoxmvs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078822824647811352",
+    "in_reply_to_user_id": "2061773740195921920",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078715618778595604",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@guoxmvs 自己合成也可以的吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1674081369830436864",
+        "conversation_id": "2078715618778595604",
+        "created_at": "2026-07-19T12:42:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T13:42:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078822824647811352"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2061773740195921920",
+              "start": 0,
+              "username": "guoxmvs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078822824647811352",
+        "in_reply_to_user_id": "2061773740195921920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078715618778595604",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@guoxmvs 自己合成也可以的吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061773740195921920",
+        "conversation_id": "2078715618778595604",
+        "created_at": "2026-07-19T05:36:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T06:36:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078715618778595604"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078715618778595604",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1040,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们都是怎么买到亚硝酸钠的？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-28T15:44:58.000Z",
+        "description": "要升天了呢♱♡‿♡♰(病嬌/地雷~)\n♡抑鬱焦慮♡會自殘🈹od💊喔\n跟我聊天要先看自介噢\n理人 @roki_qnq 前世 @yshidhe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 48,
+                "username": "roki_qnq"
+              },
+              {
+                "end": 69,
+                "start": 61,
+                "username": "yshidhe"
+              }
+            ]
+          }
+        },
+        "id": "1674081369830436864",
+        "name": "ゆうく；已壊掉(轉生尋回中",
+        "pinned_tweet_id": "2078364102158963012",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065587970690998272/p_gIuBa4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 16,
+          "like_count": 717,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 316
+        },
+        "url": "",
+        "username": "yshidhe3",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-02T11:36:27.000Z",
+        "description": "11.08.30出厂/自杀未遂两次（烧炭，氦气＋碳酸钡）/休学中/mtf/已炸柜/家暴党\n\n毅然决然，奔赴死亡",
+        "id": "2061773740195921920",
+        "location": "时间的尽头",
+        "name": "噪声🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062093862416617472/R6as1JuS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 155,
+          "following_count": 123,
+          "like_count": 859,
+          "listed_count": 2,
+          "media_count": 14,
+          "tweet_count": 122
+        },
+        "url": "",
+        "username": "guoxmvs",
+        "verified": false
+      }
+    ]
+  }
+}

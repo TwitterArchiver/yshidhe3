@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066049743416123392"
+      ],
+      "media_source_tweet_id": [
+        "2066049754870812741"
+      ]
+    },
+    "author_id": "1674081369830436864",
+    "conversation_id": "2066092619231584525",
+    "created_at": "2026-06-14T09:37:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T10:37:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066092619231584525"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 35,
+          "start": 32,
+          "tag": "od"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1674081369830436864",
+          "start": 3,
+          "username": "yshidhe3"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qshIWJFjso",
+          "end": 59,
+          "expanded_url": "https://x.com/yshidhe3/status/2066049754870812741/photo/1",
+          "media_key": "3_2066049743416123392",
+          "start": 36,
+          "url": "https://t.co/qshIWJFjso"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066092619231584525",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066049754870812741",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yshidhe3: 第一次o pr\n1200mg 8t\n#od https://t.co/qshIWJFjso"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2171,
+        "media_key": "3_2066049743416123392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKwVS5Sa4AAVWhA.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066049743416123392"
+          ],
+          "media_source_tweet_id": [
+            "2066049754870812741"
+          ]
+        },
+        "author_id": "1674081369830436864",
+        "conversation_id": "2066092619231584525",
+        "created_at": "2026-06-14T09:37:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T10:37:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066092619231584525"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 35,
+              "start": 32,
+              "tag": "od"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1674081369830436864",
+              "start": 3,
+              "username": "yshidhe3"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qshIWJFjso",
+              "end": 59,
+              "expanded_url": "https://x.com/yshidhe3/status/2066049754870812741/photo/1",
+              "media_key": "3_2066049743416123392",
+              "start": 36,
+              "url": "https://t.co/qshIWJFjso"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066092619231584525",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066049754870812741",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yshidhe3: 第一次o pr\n1200mg 8t\n#od https://t.co/qshIWJFjso"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066049743416123392"
+          ]
+        },
+        "author_id": "1674081369830436864",
+        "conversation_id": "2066049754870812741",
+        "created_at": "2026-06-14T06:47:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T07:47:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066049754870812741"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 21,
+              "start": 18,
+              "tag": "od"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qshIWJFjso",
+              "end": 45,
+              "expanded_url": "https://x.com/yshidhe3/status/2066049754870812741/photo/1",
+              "media_key": "3_2066049743416123392",
+              "start": 22,
+              "url": "https://t.co/qshIWJFjso"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066049754870812741",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 56,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "第一次o pr\n1200mg 8t\n#od https://t.co/qshIWJFjso"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-28T15:44:58.000Z",
+        "description": "要升天了呢♱♡‿♡♰(病嬌/地雷~)\n♡抑鬱焦慮♡會自殘🈹od💊喔\n跟我聊天要先看自介噢\n理人 @roki_qnq 前世 @yshidhe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 48,
+                "username": "roki_qnq"
+              },
+              {
+                "end": 69,
+                "start": 61,
+                "username": "yshidhe"
+              }
+            ]
+          }
+        },
+        "id": "1674081369830436864",
+        "name": "ゆうく；已壊掉(轉生尋回中",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065587970690998272/p_gIuBa4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 13,
+          "like_count": 385,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 47
+        },
+        "username": "yshidhe3",
+        "verified": false
+      }
+    ]
+  }
+}

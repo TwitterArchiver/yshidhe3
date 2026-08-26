@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2076320505091760128",
+        "3_2076320505104343040"
+      ]
+    },
+    "author_id": "1674081369830436864",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2076320522691043618",
+    "created_at": "2026-07-12T14:59:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T15:59:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076320522691043618"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/xjzkP7VXyq",
+          "end": 42,
+          "expanded_url": "https://x.com/yshidhe3/status/2076320522691043618/photo/1",
+          "media_key": "3_2076320505091760128",
+          "start": 19,
+          "url": "https://t.co/xjzkP7VXyq"
+        },
+        {
+          "display_url": "pic.x.com/xjzkP7VXyq",
+          "end": 42,
+          "expanded_url": "https://x.com/yshidhe3/status/2076320522691043618/photo/1",
+          "media_key": "3_2076320505104343040",
+          "start": 19,
+          "url": "https://t.co/xjzkP7VXyq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076320522691043618",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "在異環買採票day 2\n盈虧：+3萬 https://t.co/xjzkP7VXyq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1170,
+        "media_key": "3_2076320505091760128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNCSf6HaoAAB6Ph.jpg",
+        "width": 2532
+      },
+      {
+        "height": 1170,
+        "media_key": "3_2076320505104343040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNCSf6KaoAAmM_z.jpg",
+        "width": 2532
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076320505091760128",
+            "3_2076320505104343040"
+          ]
+        },
+        "author_id": "1674081369830436864",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2076320522691043618",
+        "created_at": "2026-07-12T14:59:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T15:59:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076320522691043618"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xjzkP7VXyq",
+              "end": 42,
+              "expanded_url": "https://x.com/yshidhe3/status/2076320522691043618/photo/1",
+              "media_key": "3_2076320505091760128",
+              "start": 19,
+              "url": "https://t.co/xjzkP7VXyq"
+            },
+            {
+              "display_url": "pic.x.com/xjzkP7VXyq",
+              "end": 42,
+              "expanded_url": "https://x.com/yshidhe3/status/2076320522691043618/photo/1",
+              "media_key": "3_2076320505104343040",
+              "start": 19,
+              "url": "https://t.co/xjzkP7VXyq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076320522691043618",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在異環買採票day 2\n盈虧：+3萬 https://t.co/xjzkP7VXyq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-28T15:44:58.000Z",
+        "description": "要升天了呢♱♡‿♡♰(病嬌/地雷~)\n♡抑鬱焦慮♡會自殘🈹od💊喔\n跟我聊天要先看自介噢\n理人 @roki_qnq 前世 @yshidhe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 48,
+                "username": "roki_qnq"
+              },
+              {
+                "end": 69,
+                "start": 61,
+                "username": "yshidhe"
+              }
+            ]
+          }
+        },
+        "id": "1674081369830436864",
+        "name": "ゆうく；已壊掉(轉生尋回中",
+        "pinned_tweet_id": "2070476815337213953",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065587970690998272/p_gIuBa4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110,
+          "following_count": 16,
+          "like_count": 663,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 271
+        },
+        "url": "",
+        "username": "yshidhe3",
+        "verified": false
+      }
+    ]
+  }
+}

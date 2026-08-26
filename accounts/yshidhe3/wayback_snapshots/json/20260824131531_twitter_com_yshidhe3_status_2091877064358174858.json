@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1674081369830436864",
+    "conversation_id": "2091678686995193946",
+    "created_at": "2026-08-24T13:15:31.000Z",
+    "display_text_range": [
+      13,
+      41
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-24T14:15:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091877064358174858"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1638486350860279809",
+          "start": 0,
+          "username": "mashengwang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091877064358174858",
+    "in_reply_to_user_id": "1638486350860279809",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091872440632905777",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mashengwang 我也試過同一個夢夢見兩次 也試過同一個夢在同一天連續兩次"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1674081369830436864",
+        "conversation_id": "2091678686995193946",
+        "created_at": "2026-08-24T13:15:31.000Z",
+        "display_text_range": [
+          13,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T14:15:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091877064358174858"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1638486350860279809",
+              "start": 0,
+              "username": "mashengwang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091877064358174858",
+        "in_reply_to_user_id": "1638486350860279809",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091872440632905777",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mashengwang 我也試過同一個夢夢見兩次 也試過同一個夢在同一天連續兩次"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1638486350860279809",
+        "conversation_id": "2091678686995193946",
+        "created_at": "2026-08-24T12:57:09.000Z",
+        "display_text_range": [
+          10,
+          59
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T13:57:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091872440632905777"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1674081369830436864",
+              "start": 0,
+              "username": "yshidhe3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091872440632905777",
+        "in_reply_to_user_id": "1674081369830436864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091856412238581876",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yshidhe3 那我好一點，他大致的劇情流程會有印象\n或是隔了幾年突然又夢到一樣的內容，但有做出跟上次不一樣的選擇"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-28T15:44:58.000Z",
+        "description": "要升天了呢(´♡ω♡`)（病嬌/地雷~）\n抑鬱焦慮會o:d/割 喔\n跟我聊天要先看自介噢 \n前世 @yshidhe 不露臉不線下",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 49,
+                "username": "yshidhe"
+              }
+            ]
+          }
+        },
+        "id": "1674081369830436864",
+        "is_identity_verified": false,
+        "location": "在你心中",
+        "most_recent_tweet_id": "2091877064358174858",
+        "name": "ゆうく；已壊掉2.0",
+        "pinned_tweet_id": "2078364102158963012",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1674081369830436864/1781309511",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065587970690998272/p_gIuBa4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 403,
+          "following_count": 30,
+          "like_count": 1761,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 1071
+        },
+        "url": "",
+        "username": "yshidhe3",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-03-22T10:23:01.000Z",
+        "description": "閱讀文字並欣賞圖片。                                                     別人の人生を観察で、楽しみだ。",
+        "id": "1638486350860279809",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091872440632905777",
+        "name": "望",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1638486350860279809/1708796023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761444468035883008/mjblq5jB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 111,
+          "like_count": 670,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 78
+        },
+        "url": "",
+        "username": "mashengwang",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

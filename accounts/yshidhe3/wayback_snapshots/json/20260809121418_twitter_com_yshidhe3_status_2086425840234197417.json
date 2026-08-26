@@ -1,0 +1,346 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1674081369830436864",
+    "conversation_id": "2086425840234197417",
+    "created_at": "2026-08-09T12:14:18.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T13:14:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086425840234197417"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 136,
+          "start": 132,
+          "tag": "门槛妹"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1987074621280260096",
+          "start": 3,
+          "username": "LillaVirts23519"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086425840234197417",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084058122688336041",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LillaVirts23519: 置顶🔝\n这里00 可以叫我冬冬/零零/00\n🚪52/88/128/188/288/520 线下只接纯绿\n09｜自伤｜od｜重焦重抑\n163/42\n家里不给钱不管饭遂....\n互转互fo大欢迎！\n感谢每个给我打钱入门槛的🥺\n#门槛妹 #门…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2084058119127306240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOwP0UnaEAAQxf6.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2084058119181877248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOwP0U0awAAUrhh.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1037,
+        "media_key": "3_2084058115025297408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOwP0FVaYAAgCdc.jpg",
+        "width": 1037
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1674081369830436864",
+        "conversation_id": "2086425840234197417",
+        "created_at": "2026-08-09T12:14:18.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T13:14:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086425840234197417"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 136,
+              "start": 132,
+              "tag": "门槛妹"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1987074621280260096",
+              "start": 3,
+              "username": "LillaVirts23519"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086425840234197417",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084058122688336041",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LillaVirts23519: 置顶🔝\n这里00 可以叫我冬冬/零零/00\n🚪52/88/128/188/288/520 线下只接纯绿\n09｜自伤｜od｜重焦重抑\n163/42\n家里不给钱不管饭遂....\n互转互fo大欢迎！\n感谢每个给我打钱入门槛的🥺\n#门槛妹 #门…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084058119127306240",
+            "3_2084058119181877248",
+            "3_2084058115025297408"
+          ]
+        },
+        "author_id": "1987074621280260096",
+        "conversation_id": "2084058122688336041",
+        "created_at": "2026-08-02T23:25:51.000Z",
+        "display_text_range": [
+          0,
+          153
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-03T00:25:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084058122688336041"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 115,
+              "start": 111,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 119,
+              "start": 116,
+              "tag": "门槛"
+            },
+            {
+              "end": 124,
+              "start": 120,
+              "tag": "门槛哥"
+            },
+            {
+              "end": 130,
+              "start": 125,
+              "tag": "电子女友"
+            },
+            {
+              "end": 135,
+              "start": 131,
+              "tag": "地雷系"
+            },
+            {
+              "end": 140,
+              "start": 136,
+              "tag": "地雷妹"
+            },
+            {
+              "end": 144,
+              "start": 141,
+              "tag": "女高"
+            },
+            {
+              "end": 149,
+              "start": 145,
+              "tag": "门槛姐"
+            },
+            {
+              "end": 153,
+              "start": 150,
+              "tag": "反差"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pqcqz0nEdk",
+              "end": 177,
+              "expanded_url": "https://x.com/LillaVirts23519/status/2084058122688336041/photo/1",
+              "media_key": "3_2084058119127306240",
+              "start": 154,
+              "url": "https://t.co/pqcqz0nEdk"
+            },
+            {
+              "display_url": "pic.x.com/pqcqz0nEdk",
+              "end": 177,
+              "expanded_url": "https://x.com/LillaVirts23519/status/2084058122688336041/photo/1",
+              "media_key": "3_2084058119181877248",
+              "start": 154,
+              "url": "https://t.co/pqcqz0nEdk"
+            },
+            {
+              "display_url": "pic.x.com/pqcqz0nEdk",
+              "end": 177,
+              "expanded_url": "https://x.com/LillaVirts23519/status/2084058122688336041/photo/1",
+              "media_key": "3_2084058115025297408",
+              "start": 154,
+              "url": "https://t.co/pqcqz0nEdk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084058122688336041",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2084058119127306240"
+          },
+          {
+            "media_key": "3_2084058119181877248"
+          },
+          {
+            "media_key": "3_2084058115025297408"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2511,
+          "like_count": 14,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "置顶🔝\n这里00 可以叫我冬冬/零零/00\n🚪52/88/128/188/288/520 线下只接纯绿\n09｜自伤｜od｜重焦重抑\n163/42\n家里不给钱不管饭遂....\n互转互fo大欢迎！\n感谢每个给我打钱入门槛的🥺\n#门槛妹 #门槛 #门槛哥 #电子女友 #地雷系 #地雷妹 #女高 #门槛姐 #反差 https://t.co/pqcqz0nEdk"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-28T15:44:58.000Z",
+        "description": "要升天了呢♱♡‿♡♰(病嬌/地雷~)\n♡抑鬱焦慮♡會自殘🈹od💊喔\n跟我聊天要先看自介噢\n前世 @yshidhe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 48,
+                "username": "yshidhe"
+              }
+            ]
+          }
+        },
+        "id": "1674081369830436864",
+        "is_identity_verified": false,
+        "location": "在你心中",
+        "most_recent_tweet_id": "2086425840234197417",
+        "name": "ゆうく；已壊掉2.0",
+        "pinned_tweet_id": "2078364102158963012",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1674081369830436864/1781309511",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065587970690998272/p_gIuBa4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 206,
+          "following_count": 26,
+          "like_count": 1198,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 716
+        },
+        "url": "",
+        "username": "yshidhe3",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-08T08:28:03.000Z",
+        "description": "问题咨询5r/个",
+        "id": "1987074621280260096",
+        "is_identity_verified": false,
+        "location": "你心里",
+        "most_recent_tweet_id": "2086316295533015524",
+        "name": "00",
+        "pinned_tweet_id": "2084058122688336041",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1987074621280260096/1771010896",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005048584614674438/-sd0bBmV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 340,
+          "following_count": 477,
+          "like_count": 13863,
+          "listed_count": 0,
+          "media_count": 252,
+          "tweet_count": 3647
+        },
+        "url": "",
+        "username": "LillaVirts23519",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

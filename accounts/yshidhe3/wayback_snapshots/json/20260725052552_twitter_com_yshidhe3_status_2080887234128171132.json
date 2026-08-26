@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1674081369830436864",
+    "conversation_id": "2080696624402014678",
+    "created_at": "2026-07-25T05:25:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T06:25:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080887234128171132"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1914990478925443072",
+          "start": 0,
+          "username": "ninis07QaQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080887234128171132",
+    "in_reply_to_user_id": "1914990478925443072",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080696624402014678",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ninis07QaQ 這也可以封..."
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2080696613765304320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOAei9TW0AAO5AI.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1674081369830436864",
+        "conversation_id": "2080696624402014678",
+        "created_at": "2026-07-25T05:25:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T06:25:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080887234128171132"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1914990478925443072",
+              "start": 0,
+              "username": "ninis07QaQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080887234128171132",
+        "in_reply_to_user_id": "1914990478925443072",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080696624402014678",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ninis07QaQ 這也可以封..."
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080696613765304320"
+          ]
+        },
+        "author_id": "1914990478925443072",
+        "conversation_id": "2080696624402014678",
+        "created_at": "2026-07-24T16:48:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T17:48:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080696624402014678"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mR3DvTY3eX",
+              "end": 33,
+              "expanded_url": "https://x.com/ninis07QaQ/status/2080696624402014678/photo/1",
+              "media_key": "3_2080696613765304320",
+              "start": 10,
+              "url": "https://t.co/mR3DvTY3eX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080696624402014678",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 91,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我只是谢谢你们.. https://t.co/mR3DvTY3eX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-28T15:44:58.000Z",
+        "description": "要升天了呢♱♡‿♡♰(病嬌/地雷~)\n♡抑鬱焦慮♡會自殘🈹od💊喔\n跟我聊天要先看自介噢\n理人 @roki_qnq 前世 @yshidhe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 48,
+                "username": "roki_qnq"
+              },
+              {
+                "end": 69,
+                "start": 61,
+                "username": "yshidhe"
+              }
+            ]
+          }
+        },
+        "id": "1674081369830436864",
+        "name": "ゆうく；已壊掉(轉生尋回中",
+        "pinned_tweet_id": "2078364102158963012",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065587970690998272/p_gIuBa4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132,
+          "following_count": 19,
+          "like_count": 774,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 374
+        },
+        "url": "",
+        "username": "yshidhe3",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-23T10:31:35.000Z",
+        "description": "你们好这是ninis的3.0版本 -🇺🇸 07 entp ｜od｜自伤｜焦虑｜双向 ｜解离 ｜病み垢｜💬中文⭕️/English⭕️/日本語⭕️ 我是一个很好的小女孩我没惹你们任何人 最好的龟🫰🏻 @yuuuziiijianggg喜欢和小女孩交朋友",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 99,
+                "username": "yuuuziiijianggg"
+              }
+            ]
+          }
+        },
+        "id": "1914990478925443072",
+        "location": "🚪78/128",
+        "name": "妮妮斯3.0🩸",
+        "pinned_tweet_id": "2052468180527071692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914990877711482880/nIrCzmL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 500,
+          "following_count": 74,
+          "like_count": 1458,
+          "listed_count": 0,
+          "media_count": 214,
+          "tweet_count": 1011
+        },
+        "url": "",
+        "username": "ninis07QaQ",
+        "verified": false
+      }
+    ]
+  }
+}

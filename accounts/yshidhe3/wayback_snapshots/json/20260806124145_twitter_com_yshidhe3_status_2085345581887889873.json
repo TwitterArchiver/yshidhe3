@@ -1,0 +1,146 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2085345556726235136"
+      ]
+    },
+    "author_id": "1674081369830436864",
+    "conversation_id": "2085345581887889873",
+    "created_at": "2026-08-06T12:41:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T13:41:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085345581887889873"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/z6lvdrhuGU",
+          "end": 51,
+          "expanded_url": "https://x.com/yshidhe3/status/2085345581887889873/photo/1",
+          "media_key": "3_2085345556726235136",
+          "start": 28,
+          "url": "https://t.co/z6lvdrhuGU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085345581887889873",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "it's just makeup\n要數數嗎？\n我的腳腳 https://t.co/z6lvdrhuGU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3736,
+        "media_key": "3_2085345556726235136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPCivDabQAAi9jw.jpg",
+        "width": 1907
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085345556726235136"
+          ]
+        },
+        "author_id": "1674081369830436864",
+        "conversation_id": "2085345581887889873",
+        "created_at": "2026-08-06T12:41:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T13:41:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085345581887889873"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/z6lvdrhuGU",
+              "end": 51,
+              "expanded_url": "https://x.com/yshidhe3/status/2085345581887889873/photo/1",
+              "media_key": "3_2085345556726235136",
+              "start": 28,
+              "url": "https://t.co/z6lvdrhuGU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085345581887889873",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "it's just makeup\n要數數嗎？\n我的腳腳 https://t.co/z6lvdrhuGU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-28T15:44:58.000Z",
+        "description": "要升天了呢♱♡‿♡♰(病嬌/地雷~)\n♡抑鬱焦慮♡會自殘🈹od💊喔\n跟我聊天要先看自介噢\n前世 @yshidhe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 48,
+                "username": "yshidhe"
+              }
+            ]
+          }
+        },
+        "id": "1674081369830436864",
+        "location": "在你心中",
+        "name": "ゆうく；已壊掉2.0",
+        "pinned_tweet_id": "2078364102158963012",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065587970690998272/p_gIuBa4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 185,
+          "following_count": 25,
+          "like_count": 1083,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 650
+        },
+        "url": "",
+        "username": "yshidhe3",
+        "verified": true
+      }
+    ]
+  }
+}

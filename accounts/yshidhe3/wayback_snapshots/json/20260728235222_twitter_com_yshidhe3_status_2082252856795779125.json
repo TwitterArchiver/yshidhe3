@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1674081369830436864",
+    "conversation_id": "2082147771789050192",
+    "created_at": "2026-07-28T23:52:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T00:52:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082252856795779125"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2045123363547344897",
+          "start": 0,
+          "username": "yuanjiming"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082252856795779125",
+    "in_reply_to_user_id": "2045123363547344897",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082152663463108761",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuanjiming 睡了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1674081369830436864",
+        "conversation_id": "2082147771789050192",
+        "created_at": "2026-07-28T23:52:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T00:52:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082252856795779125"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2045123363547344897",
+              "start": 0,
+              "username": "yuanjiming"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082252856795779125",
+        "in_reply_to_user_id": "2045123363547344897",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082152663463108761",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuanjiming 睡了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045123363547344897",
+        "conversation_id": "2082147771789050192",
+        "created_at": "2026-07-28T17:14:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T18:14:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082152663463108761"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1674081369830436864",
+              "start": 0,
+              "username": "yshidhe3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082152663463108761",
+        "in_reply_to_user_id": "1674081369830436864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082147771789050192",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yshidhe3 我去还没睡吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-28T15:44:58.000Z",
+        "description": "要升天了呢♱♡‿♡♰(病嬌/地雷~)\n♡抑鬱焦慮♡會自殘🈹od💊喔\n跟我聊天要先看自介噢\n理人 @roki_qnq 前世 @yshidhe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 48,
+                "username": "roki_qnq"
+              },
+              {
+                "end": 69,
+                "start": 61,
+                "username": "yshidhe"
+              }
+            ]
+          }
+        },
+        "id": "1674081369830436864",
+        "location": "距離你0.1m",
+        "name": "ゆうく；已壊掉2.0",
+        "pinned_tweet_id": "2078364102158963012",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065587970690998272/p_gIuBa4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 22,
+          "like_count": 902,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 511
+        },
+        "url": "",
+        "username": "yshidhe3",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-17T12:53:23.000Z",
+        "description": "hi，咱是一个来推特上寻找一块聊天的人无论年龄性别你觉得无聊都可以来找我",
+        "id": "2045123363547344897",
+        "location": "America",
+        "name": "何人两相思",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045158981451354112/bU7ybg2x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 26,
+          "like_count": 304,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 207
+        },
+        "url": "",
+        "username": "yuanjiming",
+        "verified": false
+      }
+    ]
+  }
+}

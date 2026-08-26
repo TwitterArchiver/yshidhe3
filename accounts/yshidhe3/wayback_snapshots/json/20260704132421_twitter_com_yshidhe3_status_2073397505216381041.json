@@ -1,0 +1,443 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1674081369830436864",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10029382357",
+          "name": "YouTube"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10029382357",
+          "name": "YouTube"
+        }
+      }
+    ],
+    "conversation_id": "2073397505216381041",
+    "created_at": "2026-07-04T13:24:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T14:24:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073397505216381041"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2778838711",
+          "start": 3,
+          "username": "inabakumori"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/P",
+          "end": 139,
+          "start": 125,
+          "url": "https://t.co/P"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073397505216381041",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6870
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073256048929148966",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @inabakumori: 『ラグトレイン』\nYouTubeにて一億再生到達しました！！\n本当にありがとうございます！！\n100M views on ‘Lagtrain’!! Thank you so much for listening!! https://t.co/P…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2160,
+        "media_key": "3_2073254418913595392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMWt6NBakAAyvWn.png",
+        "width": 3840
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1674081369830436864",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          }
+        ],
+        "conversation_id": "2073397505216381041",
+        "created_at": "2026-07-04T13:24:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T14:24:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073397505216381041"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2778838711",
+              "start": 3,
+              "username": "inabakumori"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/P",
+              "end": 139,
+              "start": 125,
+              "url": "https://t.co/P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073397505216381041",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6870
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073256048929148966",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @inabakumori: 『ラグトレイン』\nYouTubeにて一億再生到達しました！！\n本当にありがとうございます！！\n100M views on ‘Lagtrain’!! Thank you so much for listening!! https://t.co/P…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073254418913595392"
+          ]
+        },
+        "author_id": "2778838711",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          }
+        ],
+        "conversation_id": "2073256048929148966",
+        "created_at": "2026-07-04T04:02:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T05:02:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073256048929148966"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Pvs9pAkQHa",
+              "end": 131,
+              "expanded_url": "https://x.com/inabakumori/status/2073256048929148966/photo/1",
+              "media_key": "3_2073254418913595392",
+              "start": 108,
+              "url": "https://t.co/Pvs9pAkQHa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073256048929148966",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1122,
+          "impression_count": 631966,
+          "like_count": 34680,
+          "quote_count": 284,
+          "reply_count": 172,
+          "retweet_count": 6874
+        },
+        "reply_settings": "everyone",
+        "text": "『ラグトレイン』\nYouTubeにて一億再生到達しました！！\n本当にありがとうございます！！\n100M views on ‘Lagtrain’!! Thank you so much for listening!! https://t.co/Pvs9pAkQHa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-28T15:44:58.000Z",
+        "description": "要升天了呢♱♡‿♡♰(病嬌/地雷~)\n♡抑鬱焦慮♡會自殘🈹od💊喔\n跟我聊天要先看自介噢\n理人 @roki_qnq 前世 @yshidhe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 48,
+                "username": "roki_qnq"
+              },
+              {
+                "end": 69,
+                "start": 61,
+                "username": "yshidhe"
+              }
+            ]
+          }
+        },
+        "id": "1674081369830436864",
+        "name": "ゆうく；已壊掉(轉生尋回中",
+        "pinned_tweet_id": "2070476815337213953",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065587970690998272/p_gIuBa4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 16,
+          "like_count": 575,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 201
+        },
+        "url": "",
+        "username": "yshidhe3",
+        "verified": false
+      },
+      {
+        "created_at": "2014-08-29T17:18:25.000Z",
+        "description": "ボカロ音楽 / niconico https://t.co/zHylIzAOcb / YouTube https://t.co/Bwu3Rn5NNl / Listen https://t.co/7bhPzrJDwH",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "nicovideo.jp/mylist/54974850",
+                "end": 40,
+                "expanded_url": "https://www.nicovideo.jp/mylist/54974850",
+                "start": 17,
+                "url": "https://t.co/zHylIzAOcb"
+              },
+              {
+                "display_url": "youtube.com/@inabakumori",
+                "end": 74,
+                "expanded_url": "https://www.youtube.com/@inabakumori",
+                "start": 51,
+                "url": "https://t.co/Bwu3Rn5NNl"
+              },
+              {
+                "display_url": "lnk.to/inabakumori",
+                "end": 107,
+                "expanded_url": "http://lnk.to/inabakumori",
+                "start": 84,
+                "url": "https://t.co/7bhPzrJDwH"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "inabakumori.lnk.to/info",
+                "end": 23,
+                "expanded_url": "https://inabakumori.lnk.to/info",
+                "start": 0,
+                "url": "https://t.co/BNOHVPM6He"
+              }
+            ]
+          }
+        },
+        "id": "2778838711",
+        "name": "稲葉曇",
+        "pinned_tweet_id": "2030584308444934222",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1456197874325553152/yZm2O9p2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 235069,
+          "following_count": 195,
+          "like_count": 4474,
+          "listed_count": 798,
+          "media_count": 443,
+          "tweet_count": 4145
+        },
+        "url": "https://t.co/BNOHVPM6He",
+        "username": "inabakumori",
+        "verified": false
+      }
+    ]
+  }
+}

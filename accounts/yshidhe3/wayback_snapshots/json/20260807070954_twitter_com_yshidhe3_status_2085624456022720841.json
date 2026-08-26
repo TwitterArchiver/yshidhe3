@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1674081369830436864",
+    "conversation_id": "2085610099889115618",
+    "created_at": "2026-08-07T07:09:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T08:09:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085624456022720841"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1550593157876060160",
+          "start": 0,
+          "username": "Fumi_uowou_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085624456022720841",
+    "in_reply_to_user_id": "1550593157876060160",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085610099889115618",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Fumi_uowou_ 好可愛( ´▽｀)"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2085610081090183168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPGTUZdaoAAhTcO.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2085610081060847616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPGTUZWbAAApPt9.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1674081369830436864",
+        "conversation_id": "2085610099889115618",
+        "created_at": "2026-08-07T07:09:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T08:09:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085624456022720841"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1550593157876060160",
+              "start": 0,
+              "username": "Fumi_uowou_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085624456022720841",
+        "in_reply_to_user_id": "1550593157876060160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085610099889115618",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Fumi_uowou_ 好可愛( ´▽｀)"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085610081090183168",
+            "3_2085610081060847616"
+          ]
+        },
+        "author_id": "1550593157876060160",
+        "conversation_id": "2085610099889115618",
+        "created_at": "2026-08-07T06:12:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T07:12:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085610099889115618"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ub7MO7CofT",
+              "end": 45,
+              "expanded_url": "https://x.com/Fumi_uowou_/status/2085610099889115618/photo/1",
+              "media_key": "3_2085610081090183168",
+              "start": 22,
+              "url": "https://t.co/Ub7MO7CofT"
+            },
+            {
+              "display_url": "pic.x.com/Ub7MO7CofT",
+              "end": 45,
+              "expanded_url": "https://x.com/Fumi_uowou_/status/2085610099889115618/photo/1",
+              "media_key": "3_2085610081060847616",
+              "start": 22,
+              "url": "https://t.co/Ub7MO7CofT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085610099889115618",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 122,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "第一張圖是努力經營\n第二張圖是本性逐漸露出 https://t.co/Ub7MO7CofT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-28T15:44:58.000Z",
+        "description": "要升天了呢♱♡‿♡♰(病嬌/地雷~)\n♡抑鬱焦慮♡會自殘🈹od💊喔\n跟我聊天要先看自介噢\n前世 @yshidhe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 48,
+                "username": "yshidhe"
+              }
+            ]
+          }
+        },
+        "id": "1674081369830436864",
+        "location": "在你心中",
+        "name": "ゆうく；已壊掉2.0",
+        "pinned_tweet_id": "2078364102158963012",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065587970690998272/p_gIuBa4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 191,
+          "following_count": 25,
+          "like_count": 1118,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 673
+        },
+        "url": "",
+        "username": "yshidhe3",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-22T21:26:53.000Z",
+        "description": "病み垢暴言｜地雷系｜永遠の16歳 ｜社不\n和社會對立",
+        "id": "1550593157876060160",
+        "location": "地獄",
+        "name": "ふみわんちゃん🦭🌧️",
+        "pinned_tweet_id": "2020858399106248987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990852953499185154/HwgnW6Z__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1634,
+          "following_count": 141,
+          "like_count": 20994,
+          "listed_count": 5,
+          "media_count": 317,
+          "tweet_count": 2892
+        },
+        "url": "",
+        "username": "Fumi_uowou_",
+        "verified": false
+      }
+    ]
+  }
+}
