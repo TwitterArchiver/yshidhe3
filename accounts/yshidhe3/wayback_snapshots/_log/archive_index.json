@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-08-26T18:22:42",
+  "last_updated": "2026-08-26T18:23:24",
   "html": {
     "https://web.archive.org/web/20260613021129if_/https://twitter.com/yshidhe3/status/2065618025118896417": {
       "status": "done",
@@ -5664,13 +5664,13 @@
       "last_updated": "2026-08-26T17:25:50"
     },
     "https://video.twimg.com/amplify_video/2069060334242168832/vid/avc1/1280x720/573ZOeB7KlRQzhDO.mp4": {
-      "status": "failed",
+      "status": "failed_all",
       "referenced_by": [
         "20260622141025_twitter_com_yshidhe3_status_2069060441557639332.json"
       ],
-      "last_updated": "2026-08-26T18:17:13",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260622141025/https://video.twimg.com/amplify_video/2069060334242168832/vid/avc1/1280x720/573ZOeB7KlRQzhDO.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbc0b27a780>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-26T18:23:18",
+      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260622141025/https://video.twimg.com/amplify_video/2069060334242168832/vid/avc1/1280x720/573ZOeB7KlRQzhDO.mp4",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/2070929261377224704/vid/avc1/720x1280/bksJQ9-A5WzcO6Eq.mp4?tag=14": {
       "status": "done",
@@ -5698,9 +5698,9 @@
       "referenced_by": [
         "20260821030135_twitter_com_yshidhe3_status_2090635398276100488.json"
       ],
-      "last_updated": "2026-08-26T17:25:59",
+      "last_updated": "2026-08-26T18:23:24",
       "last_reason": "HTTPError: 403 Client Error: Forbidden for url: https://web.archive.org/web/20260824134842/https://video.twimg.com/amplify_video/2090553392783331328/vid/avc1/592x1280/XYRFVmalGGx-b3U6.mp4",
-      "miss_count": 1
+      "miss_count": 2
     },
     "https://video.twimg.com/amplify_video/2091792908672524288/vid/avc1/720x1280/3CDOucZXICJvMGAl.mp4": {
       "status": "done",
@@ -10151,7 +10151,7 @@
       "last_updated": "2026-08-26T17:26:50"
     },
     "20260622141025_twitter_com_yshidhe3_status_2069060441557639332.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [
@@ -10161,7 +10161,7 @@
           "https://pbs.twimg.com/profile_images/2065587970690998272/p_gIuBa4_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-26T18:17:03",
+      "last_updated": "2026-08-26T18:23:19",
       "miss_count": 2
     },
     "20260622150357_twitter_com_yshidhe3_status_2069073912902861050.json": {
