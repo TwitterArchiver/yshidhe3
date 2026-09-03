@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1674081369830436864",
+    "conversation_id": "2093302457925525664",
+    "created_at": "2026-08-28T23:12:06.000Z",
+    "display_text_range": [
+      11,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-29T00:12:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093476747513888951"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2042966135490965504",
+          "start": 0,
+          "username": "monesy233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093476747513888951",
+    "in_reply_to_user_id": "2042966135490965504",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093309881365254410",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@monesy233 對啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1674081369830436864",
+        "conversation_id": "2093302457925525664",
+        "created_at": "2026-08-28T23:12:06.000Z",
+        "display_text_range": [
+          11,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T00:12:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093476747513888951"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2042966135490965504",
+              "start": 0,
+              "username": "monesy233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093476747513888951",
+        "in_reply_to_user_id": "2042966135490965504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093309881365254410",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@monesy233 對啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042966135490965504",
+        "conversation_id": "2093302457925525664",
+        "created_at": "2026-08-28T12:09:02.000Z",
+        "display_text_range": [
+          10,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T13:09:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093309881365254410"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1674081369830436864",
+              "start": 0,
+              "username": "yshidhe3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093309881365254410",
+        "in_reply_to_user_id": "1674081369830436864",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093302457925525664",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yshidhe3 你真吃了？？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-28T15:44:58.000Z",
+        "description": "要升天了呢(´♡ω♡`)（病嬌/地雷~）\n抑鬱焦慮會o:d/割 喔\n跟我聊天要先看自介噢 \n前世 @yshidhe 不露臉\n不接任何",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 49,
+                "username": "yshidhe"
+              }
+            ]
+          }
+        },
+        "id": "1674081369830436864",
+        "is_identity_verified": false,
+        "location": "在你心中",
+        "most_recent_tweet_id": "2093476747513888951",
+        "name": "ゆうく；已壊掉2.0",
+        "pinned_tweet_id": "2078364102158963012",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1674081369830436864/1787708588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065587970690998272/p_gIuBa4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 473,
+          "following_count": 33,
+          "like_count": 1874,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 1168
+        },
+        "url": "",
+        "username": "yshidhe3",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-11T14:01:11.000Z",
+        "description": "\"生有涯 艺无涯\" 同类可互fo 注册日期:08 1106\n对一切事物充满好奇与同情\n叫我小mo就好 ☺️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/monesy26445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/monesy26445",
+                "start": 0,
+                "url": "https://t.co/THDSbOiCPr"
+              }
+            ]
+          }
+        },
+        "id": "2042966135490965504",
+        "is_identity_verified": false,
+        "location": "荒漠迷城",
+        "most_recent_tweet_id": "2093358130805817408",
+        "name": "认真做mONESY～",
+        "pinned_tweet_id": "2092762825601212696",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2042966135490965504/1779798968",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082124815729876992/2pqk7ID6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 167,
+          "like_count": 3723,
+          "listed_count": 0,
+          "media_count": 173,
+          "tweet_count": 964
+        },
+        "url": "https://t.co/THDSbOiCPr",
+        "username": "monesy233",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

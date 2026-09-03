@@ -1,0 +1,461 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1674081369830436864",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1585790663575994368",
+          "name": "Magical girl"
+        }
+      }
+    ],
+    "conversation_id": "2092158223608623493",
+    "created_at": "2026-08-25T07:52:45.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T08:52:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092158223608623493"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "487008998",
+          "start": 3,
+          "username": "nobuyasuyoki2"
+        },
+        {
+          "end": 61,
+          "id": "2067599818109984768",
+          "start": 51,
+          "username": "woapmpble"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092158223608623493",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 25
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089318873170694576",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nobuyasuyoki2: yuki由纪 07年 entp 地雷系女子\n恋爱中的女孩💕\n妻子@woapmpble的小狗\n低浮上，墙内外割席，两边都认识我的人请不要在墙内提及🤫\n发言内容包括但不限于：R18，精神病大爆发，自拍，涂鸦画作\n喜欢我欢迎互fo互转——魔法少女…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2089318591414099969",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP7AMG_bYAEf_0w.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1036,
+        "media_key": "3_2089318758779375616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP7AV2ea0AAeXk4.jpg",
+        "width": 973
+      },
+      {
+        "height": 1037,
+        "media_key": "3_2089318809261998080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP7AYyiagAAowwD.jpg",
+        "width": 1037
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1674081369830436864",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1585790663575994368",
+              "name": "Magical girl"
+            }
+          }
+        ],
+        "conversation_id": "2092158223608623493",
+        "created_at": "2026-08-25T07:52:45.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T08:52:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092158223608623493"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "487008998",
+              "start": 3,
+              "username": "nobuyasuyoki2"
+            },
+            {
+              "end": 61,
+              "id": "2067599818109984768",
+              "start": 51,
+              "username": "woapmpble"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092158223608623493",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 25
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089318873170694576",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nobuyasuyoki2: yuki由纪 07年 entp 地雷系女子\n恋爱中的女孩💕\n妻子@woapmpble的小狗\n低浮上，墙内外割席，两边都认识我的人请不要在墙内提及🤫\n发言内容包括但不限于：R18，精神病大爆发，自拍，涂鸦画作\n喜欢我欢迎互fo互转——魔法少女…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089318591414099969",
+            "3_2089318758779375616",
+            "3_2089318809261998080"
+          ]
+        },
+        "author_id": "487008998",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1585790663575994368",
+              "name": "Magical girl"
+            }
+          }
+        ],
+        "conversation_id": "2089318873170694576",
+        "created_at": "2026-08-17T11:50:11.000Z",
+        "display_text_range": [
+          0,
+          133
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T12:50:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089318873170694576"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 42,
+              "id": "2067599818109984768",
+              "start": 32,
+              "username": "woapmpble"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/s5PNiQgjhD",
+              "end": 157,
+              "expanded_url": "https://x.com/nobuyasuyoki2/status/2089318873170694576/photo/1",
+              "media_key": "3_2089318591414099969",
+              "start": 134,
+              "url": "https://t.co/s5PNiQgjhD"
+            },
+            {
+              "display_url": "pic.x.com/s5PNiQgjhD",
+              "end": 157,
+              "expanded_url": "https://x.com/nobuyasuyoki2/status/2089318873170694576/photo/1",
+              "media_key": "3_2089318758779375616",
+              "start": 134,
+              "url": "https://t.co/s5PNiQgjhD"
+            },
+            {
+              "display_url": "pic.x.com/s5PNiQgjhD",
+              "end": 157,
+              "expanded_url": "https://x.com/nobuyasuyoki2/status/2089318873170694576/photo/1",
+              "media_key": "3_2089318809261998080",
+              "start": 134,
+              "url": "https://t.co/s5PNiQgjhD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089318873170694576",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089318591414099969"
+          },
+          {
+            "media_key": "3_2089318758779375616"
+          },
+          {
+            "media_key": "3_2089318809261998080"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 4684,
+          "like_count": 81,
+          "quote_count": 0,
+          "reply_count": 23,
+          "retweet_count": 25
+        },
+        "reply_settings": "everyone",
+        "text": "yuki由纪 07年 entp 地雷系女子\n恋爱中的女孩💕\n妻子@woapmpble的小狗\n低浮上，墙内外割席，两边都认识我的人请不要在墙内提及🤫\n发言内容包括但不限于：R18，精神病大爆发，自拍，涂鸦画作\n喜欢我欢迎互fo互转——魔法少女会尽己所能地带给大家爱！！ https://t.co/s5PNiQgjhD"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-28T15:44:58.000Z",
+        "description": "要升天了呢(´♡ω♡`)（病嬌/地雷~）\n抑鬱焦慮會o:d/割 喔\n跟我聊天要先看自介噢 \n前世 @yshidhe 不露臉不線下",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 49,
+                "username": "yshidhe"
+              }
+            ]
+          }
+        },
+        "id": "1674081369830436864",
+        "is_identity_verified": false,
+        "location": "在你心中",
+        "most_recent_tweet_id": "2092158223608623493",
+        "name": "ゆうく；已壊掉2.0",
+        "pinned_tweet_id": "2078364102158963012",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1674081369830436864/1781309511",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065587970690998272/p_gIuBa4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 410,
+          "following_count": 30,
+          "like_count": 1786,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 1084
+        },
+        "url": "",
+        "username": "yshidhe3",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2012-02-08T22:24:27.000Z",
+        "description": "地雷女｜osdd人格分裂｜躁郁｜好友位25\n妻子@woapmpble的小狗\n喜欢yuki欢迎互转互fo——💕\n魔法少女会尽己所能地带给你爱！！！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 24,
+                "username": "woapmpble"
+              }
+            ]
+          }
+        },
+        "id": "487008998",
+        "is_identity_verified": false,
+        "location": "乌托邦",
+        "most_recent_tweet_id": "2092098801121268059",
+        "name": "yuki由纪·3世",
+        "pinned_tweet_id": "2089318873170694576",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/487008998/1786967069",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089317413003427840/BK2mq5KD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 179,
+          "following_count": 175,
+          "like_count": 42,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 72
+        },
+        "url": "",
+        "username": "nobuyasuyoki2",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-18T13:33:02.000Z",
+        "description": "一般路过/重抑中焦/od/最爱妻子\n@nobuyasuyuki",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 18,
+                "username": "nobuyasuyuki"
+              }
+            ]
+          }
+        },
+        "id": "2067599818109984768",
+        "is_identity_verified": false,
+        "location": "子宫",
+        "most_recent_tweet_id": "2090746888949739782",
+        "name": "Womb",
+        "pinned_tweet_id": "2083171559217520791",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2067599818109984768/1781840508",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080924732661362689/UAkMAXtH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 171,
+          "following_count": 204,
+          "like_count": 4862,
+          "listed_count": 1,
+          "media_count": 41,
+          "tweet_count": 581
+        },
+        "url": "",
+        "username": "woapmpble",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

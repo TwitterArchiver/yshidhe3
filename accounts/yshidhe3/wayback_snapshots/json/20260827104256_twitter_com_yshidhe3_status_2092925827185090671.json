@@ -1,0 +1,407 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2092924728059342848"
+      ]
+    },
+    "author_id": "1674081369830436864",
+    "conversation_id": "2092925827185090671",
+    "created_at": "2026-08-27T10:42:56.000Z",
+    "display_text_range": [
+      0,
+      73
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T11:36:06.000Z",
+      "edits_remaining": 1,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2092924106580820022",
+      "2092924736594690426",
+      "2092924953863819691",
+      "2092925758239084574",
+      "2092925827185090671"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/7LtCcWYWOX",
+          "end": 97,
+          "expanded_url": "https://x.com/yshidhe3/status/2092925827185090671/photo/1",
+          "media_key": "3_2092924728059342848",
+          "start": 74,
+          "url": "https://t.co/7LtCcWYWOX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092925827185090671",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2092924728059342848"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "1095mg dxm吃了會怎樣\n好像會死...\n有人告訴我是否真的會嗎\n如果不會我還能爬起來上學嗎？\n吃的時候身體又會有什麼反應\n求轉發解答！！！ https://t.co/7LtCcWYWOX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1268,
+        "media_key": "3_2092924728059342848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQuP842bsAA_6OA.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1674081369830436864",
+        "conversation_id": "2092924106580820022",
+        "created_at": "2026-08-27T10:36:06.000Z",
+        "display_text_range": [
+          0,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T11:36:06.000Z",
+          "edits_remaining": 1,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092924106580820022",
+          "2092924736594690426",
+          "2092924953863819691",
+          "2092925758239084574",
+          "2092925827185090671"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2092924106580820022",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "1095mg dxm吃了會怎樣"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092924728059342848"
+          ]
+        },
+        "author_id": "1674081369830436864",
+        "conversation_id": "2092924736594690426",
+        "created_at": "2026-08-27T10:38:36.000Z",
+        "display_text_range": [
+          0,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T11:36:06.000Z",
+          "edits_remaining": 1,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092924106580820022",
+          "2092924736594690426",
+          "2092924953863819691",
+          "2092925758239084574",
+          "2092925827185090671"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oCnxVz2V2P",
+              "end": 47,
+              "expanded_url": "https://x.com/yshidhe3/status/2092924736594690426/photo/1",
+              "media_key": "3_2092924728059342848",
+              "start": 24,
+              "url": "https://t.co/oCnxVz2V2P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092924736594690426",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092924728059342848"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "1095mg dxm吃了會怎樣\n好像會死... https://t.co/oCnxVz2V2P"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092924728059342848"
+          ]
+        },
+        "author_id": "1674081369830436864",
+        "conversation_id": "2092924953863819691",
+        "created_at": "2026-08-27T10:39:28.000Z",
+        "display_text_range": [
+          0,
+          56
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T11:36:06.000Z",
+          "edits_remaining": 1,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092924106580820022",
+          "2092924736594690426",
+          "2092924953863819691",
+          "2092925758239084574",
+          "2092925827185090671"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QLI6m1IVv9",
+              "end": 80,
+              "expanded_url": "https://x.com/yshidhe3/status/2092924953863819691/photo/1",
+              "media_key": "3_2092924728059342848",
+              "start": 57,
+              "url": "https://t.co/QLI6m1IVv9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092924953863819691",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092924728059342848"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "1095mg dxm吃了會怎樣\n好像會死...\n有人告訴我是否真的會嗎\n如果不會我還能爬起來上學嗎\n求解答！！！ https://t.co/QLI6m1IVv9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092924728059342848"
+          ]
+        },
+        "author_id": "1674081369830436864",
+        "conversation_id": "2092925758239084574",
+        "created_at": "2026-08-27T10:42:40.000Z",
+        "display_text_range": [
+          0,
+          71
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T11:36:06.000Z",
+          "edits_remaining": 1,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092924106580820022",
+          "2092924736594690426",
+          "2092924953863819691",
+          "2092925758239084574",
+          "2092925827185090671"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MiOu2c1MkW",
+              "end": 95,
+              "expanded_url": "https://x.com/yshidhe3/status/2092925758239084574/photo/1",
+              "media_key": "3_2092924728059342848",
+              "start": 72,
+              "url": "https://t.co/MiOu2c1MkW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092925758239084574",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092924728059342848"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "1095mg dxm吃了會怎樣\n好像會死...\n有人告訴我是否真的會嗎\n如果不會我還能爬起來上學嗎？\n吃的時候身體又會有什麼反應\n求解答！！！ https://t.co/MiOu2c1MkW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092924728059342848"
+          ]
+        },
+        "author_id": "1674081369830436864",
+        "conversation_id": "2092925827185090671",
+        "created_at": "2026-08-27T10:42:56.000Z",
+        "display_text_range": [
+          0,
+          73
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T11:36:06.000Z",
+          "edits_remaining": 1,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092924106580820022",
+          "2092924736594690426",
+          "2092924953863819691",
+          "2092925758239084574",
+          "2092925827185090671"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7LtCcWYWOX",
+              "end": 97,
+              "expanded_url": "https://x.com/yshidhe3/status/2092925827185090671/photo/1",
+              "media_key": "3_2092924728059342848",
+              "start": 74,
+              "url": "https://t.co/7LtCcWYWOX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092925827185090671",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092924728059342848"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "1095mg dxm吃了會怎樣\n好像會死...\n有人告訴我是否真的會嗎\n如果不會我還能爬起來上學嗎？\n吃的時候身體又會有什麼反應\n求轉發解答！！！ https://t.co/7LtCcWYWOX"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-28T15:44:58.000Z",
+        "description": "要升天了呢(´♡ω♡`)（病嬌/地雷~）\n抑鬱焦慮會o:d/割 喔\n跟我聊天要先看自介噢 \n前世 @yshidhe 不露臉\n不接任何",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 49,
+                "username": "yshidhe"
+              }
+            ]
+          }
+        },
+        "id": "1674081369830436864",
+        "is_identity_verified": false,
+        "location": "在你心中",
+        "most_recent_tweet_id": "2092925827185090671",
+        "name": "ゆうく；已壊掉2.0",
+        "pinned_tweet_id": "2078364102158963012",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1674081369830436864/1787708588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065587970690998272/p_gIuBa4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 428,
+          "following_count": 33,
+          "like_count": 1827,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 1128
+        },
+        "url": "",
+        "username": "yshidhe3",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

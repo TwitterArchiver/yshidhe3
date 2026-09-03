@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1674081369830436864",
+    "conversation_id": "2094245682974720069",
+    "created_at": "2026-08-31T02:22:09.000Z",
+    "display_text_range": [
+      17,
+      34
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T03:22:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094249352684503161"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1491744554403303429",
+          "start": 0,
+          "username": "ShinoAyatsuki49"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094249352684503161",
+    "in_reply_to_user_id": "1491744554403303429",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094246316390113622",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ShinoAyatsuki49 Hhhh真的！超有問題( ´▽｀)"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 967,
+        "media_key": "3_2094246313772863489",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRBB7TSaUAEhwuL.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1674081369830436864",
+        "conversation_id": "2094245682974720069",
+        "created_at": "2026-08-31T02:22:09.000Z",
+        "display_text_range": [
+          17,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T03:22:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094249352684503161"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1491744554403303429",
+              "start": 0,
+              "username": "ShinoAyatsuki49"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094249352684503161",
+        "in_reply_to_user_id": "1491744554403303429",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094246316390113622",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ShinoAyatsuki49 Hhhh真的！超有問題( ´▽｀)"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094246313772863489"
+          ]
+        },
+        "author_id": "1491744554403303429",
+        "conversation_id": "2094245682974720069",
+        "created_at": "2026-08-31T02:10:05.000Z",
+        "display_text_range": [
+          10,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T03:10:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094246316390113622"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1674081369830436864",
+              "start": 0,
+              "username": "yshidhe3"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IZK7XdHWPX",
+              "end": 38,
+              "expanded_url": "https://x.com/ShinoAyatsuki49/status/2094246316390113622/photo/1",
+              "media_key": "3_2094246313772863489",
+              "start": 15,
+              "url": "https://t.co/IZK7XdHWPX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094246316390113622",
+        "in_reply_to_user_id": "1674081369830436864",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2094246313772863489"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094245682974720069",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yshidhe3 （指你爸 https://t.co/IZK7XdHWPX"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-28T15:44:58.000Z",
+        "description": "要升天了呢(´♡ω♡`)（病嬌/地雷~）\n抑鬱焦慮會/割 喔\n跟我聊天要先看自介噢 \n前世 @yshidhe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 46,
+                "username": "yshidhe"
+              }
+            ]
+          }
+        },
+        "id": "1674081369830436864",
+        "is_identity_verified": false,
+        "location": "在你心中",
+        "most_recent_tweet_id": "2094249352684503161",
+        "name": "ゆうく；已壊掉2.0",
+        "pinned_tweet_id": "2093620803019604117",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1674081369830436864/1787708588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065587970690998272/p_gIuBa4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 489,
+          "following_count": 35,
+          "like_count": 2035,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 1264
+        },
+        "url": "",
+        "username": "yshidhe3",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-02-10T12:03:36.000Z",
+        "description": "一個玩音遊精神狀態良好的大學牲（？）\n我要狂玩音遊啦（？\n錢包越來越扁，學校的土好像越來越香了欸（#",
+        "id": "1491744554403303429",
+        "is_identity_verified": false,
+        "location": "Changhua County, Taiwan",
+        "most_recent_tweet_id": "2094246316390113622",
+        "name": "神野綾月 Ayatsuki",
+        "pinned_tweet_id": "1741984736996962683",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1491744554403303429/1713324898",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927209268043739136/EIRV2vE3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 93,
+          "like_count": 733,
+          "listed_count": 1,
+          "media_count": 419,
+          "tweet_count": 1120
+        },
+        "url": "",
+        "username": "ShinoAyatsuki49",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

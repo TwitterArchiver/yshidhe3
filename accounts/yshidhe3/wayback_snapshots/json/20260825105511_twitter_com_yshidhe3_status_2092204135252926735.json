@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1674081369830436864",
+    "conversation_id": "2092151843203981710",
+    "created_at": "2026-08-25T10:55:11.000Z",
+    "display_text_range": [
+      9,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T11:55:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092204135252926735"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "724897677910114304",
+          "start": 0,
+          "username": "siu_hou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092204135252926735",
+    "in_reply_to_user_id": "724897677910114304",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092192756974370845",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@siu_hou (*≧ω≦)thx"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1674081369830436864",
+        "conversation_id": "2092151843203981710",
+        "created_at": "2026-08-25T10:55:11.000Z",
+        "display_text_range": [
+          9,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T11:55:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092204135252926735"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "724897677910114304",
+              "start": 0,
+              "username": "siu_hou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092204135252926735",
+        "in_reply_to_user_id": "724897677910114304",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092192756974370845",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@siu_hou (*≧ω≦)thx"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "724897677910114304",
+        "conversation_id": "2092151843203981710",
+        "created_at": "2026-08-25T10:09:58.000Z",
+        "display_text_range": [
+          10,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T11:09:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092192756974370845"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1674081369830436864",
+              "start": 0,
+              "username": "yshidhe3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092192756974370845",
+        "in_reply_to_user_id": "1674081369830436864",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092151843203981710",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yshidhe3 Hello，always Stay with you 呀"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-28T15:44:58.000Z",
+        "description": "要升天了呢(´♡ω♡`)（病嬌/地雷~）\n抑鬱焦慮會o:d/割 喔\n跟我聊天要先看自介噢 \n前世 @yshidhe 不露臉不線下",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 49,
+                "username": "yshidhe"
+              }
+            ]
+          }
+        },
+        "id": "1674081369830436864",
+        "is_identity_verified": false,
+        "location": "在你心中",
+        "most_recent_tweet_id": "2092204135252926735",
+        "name": "ゆうく；已壊掉2.0",
+        "pinned_tweet_id": "2078364102158963012",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1674081369830436864/1781309511",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065587970690998272/p_gIuBa4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 410,
+          "following_count": 33,
+          "like_count": 1791,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 1091
+        },
+        "url": "",
+        "username": "yshidhe3",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2016-04-26T09:47:29.000Z",
+        "description": "",
+        "id": "724897677910114304",
+        "is_identity_verified": false,
+        "location": "香港天水圍",
+        "most_recent_tweet_id": "2092192756974370845",
+        "name": "天樂",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/724897677910114304/1533892058",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1027843886914318336/IP1YGs_G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 301,
+          "like_count": 116,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 121
+        },
+        "url": "",
+        "username": "siu_hou",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

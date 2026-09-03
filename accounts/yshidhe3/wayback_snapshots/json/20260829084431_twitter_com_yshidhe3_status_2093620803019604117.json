@@ -1,0 +1,411 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2093613936558178304",
+        "3_2093613936570720258",
+        "3_2093613936981716992"
+      ]
+    },
+    "author_id": "1674081369830436864",
+    "conversation_id": "2093620803019604117",
+    "created_at": "2026-08-29T08:44:31.000Z",
+    "display_text_range": [
+      0,
+      134
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-29T09:17:20.000Z",
+      "edits_remaining": 3,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2093613960549581131",
+      "2093616204598616156",
+      "2093620803019604117"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/BmX4PLS9Pj",
+          "end": 158,
+          "expanded_url": "https://x.com/yshidhe3/status/2093620803019604117/photo/1",
+          "media_key": "3_2093613936558178304",
+          "start": 135,
+          "url": "https://t.co/BmX4PLS9Pj"
+        },
+        {
+          "display_url": "pic.x.com/BmX4PLS9Pj",
+          "end": 158,
+          "expanded_url": "https://x.com/yshidhe3/status/2093620803019604117/photo/1",
+          "media_key": "3_2093613936570720258",
+          "start": 135,
+          "url": "https://t.co/BmX4PLS9Pj"
+        },
+        {
+          "display_url": "pic.x.com/BmX4PLS9Pj",
+          "end": 158,
+          "expanded_url": "https://x.com/yshidhe3/status/2093620803019604117/photo/1",
+          "media_key": "3_2093613936981716992",
+          "start": 135,
+          "url": "https://t.co/BmX4PLS9Pj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093620803019604117",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2093613936558178304"
+      },
+      {
+        "media_key": "3_2093613936570720258"
+      },
+      {
+        "media_key": "3_2093613936981716992"
+      }
+    ],
+    "note_tweet": {
+      "entities": {},
+      "text": "這是我簡短的18年人生\n只是作純粹的分享\n因為我似乎也沒有怎樣說過自己的事情呢\n文字看起來很短，已經有太多連我自己也忘記的事情\n但我相信也沒有什麼人願意看下去\n其實我自己也沒有什麼耐心繼續寫下，可能會看得很混亂，也可能會交代得不清楚\n\n小時候老師跟我說\n我總是帶着刺的\n老師叫我學會放下身上的刺\n我嘗試了，但那些刺都在針對着我\n\n你們知道嗎？\n我的人生就像下國際象棋一樣\n我手握着王每一步都是被迫走子\n因為我不走那一個絕路，我就會馬上被將殺\n在必被將死的局面中，卻堅持走了很多沒有意義的路\n在明知必死的情況下，早就該投降了不是嗎"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "這是我簡短的18年人生\n只是作純粹的分享\n因為我似乎也沒有怎樣說過自己的事情呢\n文字看起來很短，已經有太多連我自己也忘記的事情\n但我相信也沒有什麼人願意看下去\n其實我自己也沒有什麼耐心繼續寫下，可能會看得很混亂，也可能會交代得不清楚\n\n小時候老師跟我說\n我總是帶着刺的 https://t.co/BmX4PLS9Pj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1941,
+        "media_key": "3_2093613936558178304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ4CyGlbgAAaz8l.jpg",
+        "width": 1142
+      },
+      {
+        "height": 1962,
+        "media_key": "3_2093613936570720258",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ4CyGoa4AIF-mw.jpg",
+        "width": 1170
+      },
+      {
+        "height": 2010,
+        "media_key": "3_2093613936981716992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ4CyIKaMAAtQ2P.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093613936558178304",
+            "3_2093613936570720258",
+            "3_2093613936981716992"
+          ]
+        },
+        "author_id": "1674081369830436864",
+        "conversation_id": "2093613960549581131",
+        "created_at": "2026-08-29T08:17:20.000Z",
+        "display_text_range": [
+          0,
+          138
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T09:17:20.000Z",
+          "edits_remaining": 3,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093613960549581131",
+          "2093616204598616156",
+          "2093620803019604117"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aRfaBzHMbE",
+              "end": 162,
+              "expanded_url": "https://x.com/yshidhe3/status/2093613960549581131/photo/1",
+              "media_key": "3_2093613936558178304",
+              "start": 139,
+              "url": "https://t.co/aRfaBzHMbE"
+            },
+            {
+              "display_url": "pic.x.com/aRfaBzHMbE",
+              "end": 162,
+              "expanded_url": "https://x.com/yshidhe3/status/2093613960549581131/photo/1",
+              "media_key": "3_2093613936570720258",
+              "start": 139,
+              "url": "https://t.co/aRfaBzHMbE"
+            },
+            {
+              "display_url": "pic.x.com/aRfaBzHMbE",
+              "end": 162,
+              "expanded_url": "https://x.com/yshidhe3/status/2093613960549581131/photo/1",
+              "media_key": "3_2093613936981716992",
+              "start": 139,
+              "url": "https://t.co/aRfaBzHMbE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093613960549581131",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2093613936558178304"
+          },
+          {
+            "media_key": "3_2093613936570720258"
+          },
+          {
+            "media_key": "3_2093613936981716992"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "這是我簡短的18年人生\n只是作純粹的分享\n因為我似乎也沒有怎樣說過自己的事情呢\n文字看起來很短，已經有太多連我自己也忘記的事情\n但我相信也沒有什麼人願意看下去\n其實我自己也沒有什麼耐心繼續寫下，可能會看得很混亂，也可能會交代得不清楚\n\n你們知道嗎？\n我的人生就像下國際象棋一樣\n我手握着王每一步都是被迫走子\n因為我不走那一個絕路，我就會馬上被將殺\n在必被將死的局面中，卻堅持走了很多沒有意義的路"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "這是我簡短的18年人生\n只是作純粹的分享\n因為我似乎也沒有怎樣說過自己的事情呢\n文字看起來很短，已經有太多連我自己也忘記的事情\n但我相信也沒有什麼人願意看下去\n其實我自己也沒有什麼耐心繼續寫下，可能會看得很混亂，也可能會交代得不清楚\n\n你們知道嗎？\n我的人生就像下國際象棋一樣 https://t.co/aRfaBzHMbE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093613936558178304",
+            "3_2093613936570720258",
+            "3_2093613936981716992"
+          ]
+        },
+        "author_id": "1674081369830436864",
+        "conversation_id": "2093616204598616156",
+        "created_at": "2026-08-29T08:26:15.000Z",
+        "display_text_range": [
+          0,
+          138
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T09:17:20.000Z",
+          "edits_remaining": 3,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093613960549581131",
+          "2093616204598616156",
+          "2093620803019604117"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SYwxYYYXuC",
+              "end": 162,
+              "expanded_url": "https://x.com/yshidhe3/status/2093616204598616156/photo/1",
+              "media_key": "3_2093613936558178304",
+              "start": 139,
+              "url": "https://t.co/SYwxYYYXuC"
+            },
+            {
+              "display_url": "pic.x.com/SYwxYYYXuC",
+              "end": 162,
+              "expanded_url": "https://x.com/yshidhe3/status/2093616204598616156/photo/1",
+              "media_key": "3_2093613936570720258",
+              "start": 139,
+              "url": "https://t.co/SYwxYYYXuC"
+            },
+            {
+              "display_url": "pic.x.com/SYwxYYYXuC",
+              "end": 162,
+              "expanded_url": "https://x.com/yshidhe3/status/2093616204598616156/photo/1",
+              "media_key": "3_2093613936981716992",
+              "start": 139,
+              "url": "https://t.co/SYwxYYYXuC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093616204598616156",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2093613936558178304"
+          },
+          {
+            "media_key": "3_2093613936570720258"
+          },
+          {
+            "media_key": "3_2093613936981716992"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "這是我簡短的18年人生\n只是作純粹的分享\n因為我似乎也沒有怎樣說過自己的事情呢\n文字看起來很短，已經有太多連我自己也忘記的事情\n但我相信也沒有什麼人願意看下去\n其實我自己也沒有什麼耐心繼續寫下，可能會看得很混亂，也可能會交代得不清楚\n\n你們知道嗎？\n我的人生就像下國際象棋一樣\n我手握着王每一步都是被迫走子\n因為我不走那一個絕路，我就會馬上被將殺\n在必被將死的局面中，卻堅持走了很多沒有意義的路\n在明知必死的情況下，早就該投降了不是嗎"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 67,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "這是我簡短的18年人生\n只是作純粹的分享\n因為我似乎也沒有怎樣說過自己的事情呢\n文字看起來很短，已經有太多連我自己也忘記的事情\n但我相信也沒有什麼人願意看下去\n其實我自己也沒有什麼耐心繼續寫下，可能會看得很混亂，也可能會交代得不清楚\n\n你們知道嗎？\n我的人生就像下國際象棋一樣 https://t.co/SYwxYYYXuC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093613936558178304",
+            "3_2093613936570720258",
+            "3_2093613936981716992"
+          ]
+        },
+        "author_id": "1674081369830436864",
+        "conversation_id": "2093620803019604117",
+        "created_at": "2026-08-29T08:44:31.000Z",
+        "display_text_range": [
+          0,
+          134
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T09:17:20.000Z",
+          "edits_remaining": 3,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093613960549581131",
+          "2093616204598616156",
+          "2093620803019604117"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BmX4PLS9Pj",
+              "end": 158,
+              "expanded_url": "https://x.com/yshidhe3/status/2093620803019604117/photo/1",
+              "media_key": "3_2093613936558178304",
+              "start": 135,
+              "url": "https://t.co/BmX4PLS9Pj"
+            },
+            {
+              "display_url": "pic.x.com/BmX4PLS9Pj",
+              "end": 158,
+              "expanded_url": "https://x.com/yshidhe3/status/2093620803019604117/photo/1",
+              "media_key": "3_2093613936570720258",
+              "start": 135,
+              "url": "https://t.co/BmX4PLS9Pj"
+            },
+            {
+              "display_url": "pic.x.com/BmX4PLS9Pj",
+              "end": 158,
+              "expanded_url": "https://x.com/yshidhe3/status/2093620803019604117/photo/1",
+              "media_key": "3_2093613936981716992",
+              "start": 135,
+              "url": "https://t.co/BmX4PLS9Pj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093620803019604117",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2093613936558178304"
+          },
+          {
+            "media_key": "3_2093613936570720258"
+          },
+          {
+            "media_key": "3_2093613936981716992"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "這是我簡短的18年人生\n只是作純粹的分享\n因為我似乎也沒有怎樣說過自己的事情呢\n文字看起來很短，已經有太多連我自己也忘記的事情\n但我相信也沒有什麼人願意看下去\n其實我自己也沒有什麼耐心繼續寫下，可能會看得很混亂，也可能會交代得不清楚\n\n小時候老師跟我說\n我總是帶着刺的\n老師叫我學會放下身上的刺\n我嘗試了，但那些刺都在針對着我\n\n你們知道嗎？\n我的人生就像下國際象棋一樣\n我手握着王每一步都是被迫走子\n因為我不走那一個絕路，我就會馬上被將殺\n在必被將死的局面中，卻堅持走了很多沒有意義的路\n在明知必死的情況下，早就該投降了不是嗎"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "這是我簡短的18年人生\n只是作純粹的分享\n因為我似乎也沒有怎樣說過自己的事情呢\n文字看起來很短，已經有太多連我自己也忘記的事情\n但我相信也沒有什麼人願意看下去\n其實我自己也沒有什麼耐心繼續寫下，可能會看得很混亂，也可能會交代得不清楚\n\n小時候老師跟我說\n我總是帶着刺的 https://t.co/BmX4PLS9Pj"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-28T15:44:58.000Z",
+        "description": "要升天了呢(´♡ω♡`)（病嬌/地雷~）\n抑鬱焦慮會/割 喔\n跟我聊天要先看自介噢 \n前世 @yshidhe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 46,
+                "username": "yshidhe"
+              }
+            ]
+          }
+        },
+        "id": "1674081369830436864",
+        "is_identity_verified": false,
+        "location": "在你心中",
+        "most_recent_tweet_id": "2093620803019604117",
+        "name": "ゆうく；已壊掉2.0",
+        "pinned_tweet_id": "2078364102158963012",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1674081369830436864/1787708588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065587970690998272/p_gIuBa4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 476,
+          "following_count": 35,
+          "like_count": 1937,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 1198
+        },
+        "url": "",
+        "username": "yshidhe3",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

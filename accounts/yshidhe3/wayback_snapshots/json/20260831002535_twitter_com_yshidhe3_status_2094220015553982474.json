@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1674081369830436864",
+    "conversation_id": "2094220015553982474",
+    "created_at": "2026-08-31T00:25:35.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T01:25:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094220015553982474"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2063545023812243456",
+          "start": 3,
+          "username": "AgonyTwT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094220015553982474",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094122880690979001",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AgonyTwT: =小伤 重生转世 不要再炸我号了\n脾气很好 不要欺负我 我是极度玻璃心T…T\n极度缺钱 请多多投喂我宠爱我吧( ᵒ̴̶̷̥́ ^ ᵒ̴̶̷̣̥̀ )\n入门默认守护小伤一辈子 宠爱小伤一辈子\n欢迎女孩子找我互fo互转՞･∞･՞ https://t.co…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2094122867684499456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ_RpyxbYAAs9BS.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1651,
+        "media_key": "3_2094122867676098560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ_RpyvbMAAdWM-.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1674081369830436864",
+        "conversation_id": "2094220015553982474",
+        "created_at": "2026-08-31T00:25:35.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T01:25:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094220015553982474"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2063545023812243456",
+              "start": 3,
+              "username": "AgonyTwT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094220015553982474",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094122880690979001",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AgonyTwT: =小伤 重生转世 不要再炸我号了\n脾气很好 不要欺负我 我是极度玻璃心T…T\n极度缺钱 请多多投喂我宠爱我吧( ᵒ̴̶̷̥́ ^ ᵒ̴̶̷̣̥̀ )\n入门默认守护小伤一辈子 宠爱小伤一辈子\n欢迎女孩子找我互fo互转՞･∞･՞ https://t.co…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094122867684499456",
+            "3_2094122867676098560"
+          ]
+        },
+        "author_id": "2063545023812243456",
+        "conversation_id": "2094122880690979001",
+        "created_at": "2026-08-30T17:59:36.000Z",
+        "display_text_range": [
+          0,
+          112
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T18:59:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094122880690979001"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4MVD4dLGCW",
+              "end": 136,
+              "expanded_url": "https://x.com/AgonyTwT/status/2094122880690979001/photo/1",
+              "media_key": "3_2094122867684499456",
+              "start": 113,
+              "url": "https://t.co/4MVD4dLGCW"
+            },
+            {
+              "display_url": "pic.x.com/4MVD4dLGCW",
+              "end": 136,
+              "expanded_url": "https://x.com/AgonyTwT/status/2094122880690979001/photo/1",
+              "media_key": "3_2094122867676098560",
+              "start": 113,
+              "url": "https://t.co/4MVD4dLGCW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094122880690979001",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2094122867684499456"
+          },
+          {
+            "media_key": "3_2094122867676098560"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 109,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "=小伤 重生转世 不要再炸我号了\n脾气很好 不要欺负我 我是极度玻璃心T…T\n极度缺钱 请多多投喂我宠爱我吧( ᵒ̴̶̷̥́ ^ ᵒ̴̶̷̣̥̀ )\n入门默认守护小伤一辈子 宠爱小伤一辈子\n欢迎女孩子找我互fo互转՞･∞･՞ https://t.co/4MVD4dLGCW"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-28T15:44:58.000Z",
+        "description": "要升天了呢(´♡ω♡`)（病嬌/地雷~）\n抑鬱焦慮會/割 喔\n跟我聊天要先看自介噢 \n前世 @yshidhe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 46,
+                "username": "yshidhe"
+              }
+            ]
+          }
+        },
+        "id": "1674081369830436864",
+        "is_identity_verified": false,
+        "location": "在你心中",
+        "most_recent_tweet_id": "2094220015553982474",
+        "name": "ゆうく；已壊掉2.0",
+        "pinned_tweet_id": "2093620803019604117",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1674081369830436864/1787708588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065587970690998272/p_gIuBa4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 488,
+          "following_count": 35,
+          "like_count": 2030,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 1261
+        },
+        "url": "",
+        "username": "yshidhe3",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-07T08:56:59.000Z",
+        "description": "愿有最终归去 防炸号互转三天取消",
+        "id": "2063545023812243456",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094155190614335831",
+        "name": "人很穷很焦虑不要欺负我",
+        "pinned_tweet_id": "2094122880690979001",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2063545023812243456/1780822900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090396310134546432/xYSp_pG9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 217,
+          "following_count": 22,
+          "like_count": 95,
+          "listed_count": 2,
+          "media_count": 19,
+          "tweet_count": 140
+        },
+        "url": "",
+        "username": "AgonyTwT",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

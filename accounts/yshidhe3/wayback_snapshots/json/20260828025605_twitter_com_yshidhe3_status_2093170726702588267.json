@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1674081369830436864",
+    "conversation_id": "2092936255386624261",
+    "created_at": "2026-08-28T02:56:05.000Z",
+    "display_text_range": [
+      11,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-28T03:56:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093170726702588267"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1681958517022793728",
+          "start": 0,
+          "username": "Ninaouo24"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093170726702588267",
+    "in_reply_to_user_id": "1681958517022793728",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093137446225760723",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ninaouo24 右美"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1674081369830436864",
+        "conversation_id": "2092936255386624261",
+        "created_at": "2026-08-28T02:56:05.000Z",
+        "display_text_range": [
+          11,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T03:56:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093170726702588267"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1681958517022793728",
+              "start": 0,
+              "username": "Ninaouo24"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093170726702588267",
+        "in_reply_to_user_id": "1681958517022793728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093137446225760723",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ninaouo24 右美"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1681958517022793728",
+        "conversation_id": "2092936255386624261",
+        "created_at": "2026-08-28T00:43:50.000Z",
+        "display_text_range": [
+          10,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T01:43:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093137446225760723"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1674081369830436864",
+              "start": 0,
+              "username": "yshidhe3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093137446225760723",
+        "in_reply_to_user_id": "1674081369830436864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092936255386624261",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yshidhe3 没见过的药物哎，这个是什么药物。。？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-28T15:44:58.000Z",
+        "description": "要升天了呢(´♡ω♡`)（病嬌/地雷~）\n抑鬱焦慮會o:d/割 喔\n跟我聊天要先看自介噢 \n前世 @yshidhe 不露臉\n不接任何",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 49,
+                "username": "yshidhe"
+              }
+            ]
+          }
+        },
+        "id": "1674081369830436864",
+        "is_identity_verified": false,
+        "location": "在你心中",
+        "most_recent_tweet_id": "2093170726702588267",
+        "name": "ゆうく；已壊掉2.0",
+        "pinned_tweet_id": "2078364102158963012",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1674081369830436864/1787708588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065587970690998272/p_gIuBa4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 466,
+          "following_count": 34,
+          "like_count": 1848,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 1149
+        },
+        "url": "",
+        "username": "yshidhe3",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-07-20T09:25:46.000Z",
+        "description": "你好，我是澪雾/赤骸！\n想了解我请看我的置顶自介。\n双相治疗中，🔪/🥃（戒o）\n性别认同：enby和无性恋\n我社恐，没事请尽量不DM\n请在我评论区聊天，谢谢你",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/ewUYh7l",
+                "end": 23,
+                "expanded_url": "https://b23.tv/ewUYh7l",
+                "start": 0,
+                "url": "https://t.co/GdnK3PoKgN"
+              }
+            ]
+          }
+        },
+        "id": "1681958517022793728",
+        "is_identity_verified": false,
+        "location": "播撒爱的世界",
+        "most_recent_tweet_id": "2093140877447442708",
+        "name": "我们没有明天",
+        "pinned_tweet_id": "2077745880091013426",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1681958517022793728/1783752795",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091954024706916353/jgJaQ1SU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 223,
+          "like_count": 409,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 1554
+        },
+        "url": "https://t.co/GdnK3PoKgN",
+        "username": "Ninaouo24",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

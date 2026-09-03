@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1674081369830436864",
+    "conversation_id": "2093620803019604117",
+    "created_at": "2026-08-29T09:17:39.000Z",
+    "display_text_range": [
+      13,
+      36
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-29T10:17:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093629141308547325"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1638486350860279809",
+          "start": 0,
+          "username": "mashengwang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093629141308547325",
+    "in_reply_to_user_id": "1638486350860279809",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093624238125338926",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mashengwang 我無法離開 我也不想離開，也不知道未來能怎麼辦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1674081369830436864",
+        "conversation_id": "2093620803019604117",
+        "created_at": "2026-08-29T09:17:39.000Z",
+        "display_text_range": [
+          13,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T10:17:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093629141308547325"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1638486350860279809",
+              "start": 0,
+              "username": "mashengwang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093629141308547325",
+        "in_reply_to_user_id": "1638486350860279809",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093624238125338926",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mashengwang 我無法離開 我也不想離開，也不知道未來能怎麼辦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1638486350860279809",
+        "conversation_id": "2093620803019604117",
+        "created_at": "2026-08-29T08:58:10.000Z",
+        "display_text_range": [
+          10,
+          144
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T09:58:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093624238125338926"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1674081369830436864",
+              "start": 0,
+              "username": "yshidhe3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093624238125338926",
+        "in_reply_to_user_id": "1638486350860279809",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093623200563470500",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yshidhe3 但我還是想讓妳知道，妳真的很棒，能夠承受這麼多的惡意，還沒有選擇去傷害任何人。\n也許妳真的累了.疲倦了.想放棄了，也不會有人有那個責任去責怪妳，妳已經承受那麼多本不該是妳該去面對的問題。\n但我還是希望能看見妳繼續成長，離開這個環境，並在屬於妳的地方，綻放屬於妳的人生。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-28T15:44:58.000Z",
+        "description": "要升天了呢(´♡ω♡`)（病嬌/地雷~）\n抑鬱焦慮會/割 喔\n跟我聊天要先看自介噢 \n前世 @yshidhe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 46,
+                "username": "yshidhe"
+              }
+            ]
+          }
+        },
+        "id": "1674081369830436864",
+        "is_identity_verified": false,
+        "location": "在你心中",
+        "most_recent_tweet_id": "2093629141308547325",
+        "name": "ゆうく；已壊掉2.0",
+        "pinned_tweet_id": "2078364102158963012",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1674081369830436864/1787708588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065587970690998272/p_gIuBa4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 476,
+          "following_count": 35,
+          "like_count": 1937,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 1199
+        },
+        "url": "",
+        "username": "yshidhe3",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-03-22T10:23:01.000Z",
+        "description": "閱讀文字並欣賞圖片。                                                     別人の人生を観察で、楽しみだ。",
+        "id": "1638486350860279809",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093624238125338926",
+        "name": "望",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1638486350860279809/1708796023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761444468035883008/mjblq5jB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 94,
+          "like_count": 712,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 90
+        },
+        "url": "",
+        "username": "mashengwang",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

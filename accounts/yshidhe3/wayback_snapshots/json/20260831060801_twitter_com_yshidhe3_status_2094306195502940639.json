@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2094291543607902208"
+      ]
+    },
+    "author_id": "1674081369830436864",
+    "conversation_id": "2094306195502940639",
+    "created_at": "2026-08-31T06:08:01.000Z",
+    "display_text_range": [
+      0,
+      95
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T06:09:52.000Z",
+      "edits_remaining": 3,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2094291558552277313",
+      "2094296811687354770",
+      "2094306195502940639"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/vxholtQgas",
+          "end": 119,
+          "expanded_url": "https://x.com/yshidhe3/status/2094306195502940639/photo/1",
+          "media_key": "3_2094291543607902208",
+          "start": 96,
+          "url": "https://t.co/vxholtQgas"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094306195502940639",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2094291543607902208"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "沒有一個好用...\n比較差的用一兩天就已經不行了\n比較好的也已經鈍了\n有什麼耐用又好控制的推介嗎\n\n有人知道同款的修眉刀哪裏有得買嗎？\n想買這一種\n\n有打算買新的修眉刀片\n但好像不太好存放？ https://t.co/vxholtQgas"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2094291543607902208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRBrEBjagAA_WOp.jpg",
+        "width": 2304
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094291543607902208"
+          ]
+        },
+        "author_id": "1674081369830436864",
+        "conversation_id": "2094291558552277313",
+        "created_at": "2026-08-31T05:09:52.000Z",
+        "display_text_range": [
+          0,
+          48
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T06:09:52.000Z",
+          "edits_remaining": 3,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094291558552277313",
+          "2094296811687354770",
+          "2094306195502940639"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MptvFA5a2i",
+              "end": 72,
+              "expanded_url": "https://x.com/yshidhe3/status/2094291558552277313/photo/1",
+              "media_key": "3_2094291543607902208",
+              "start": 49,
+              "url": "https://t.co/MptvFA5a2i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094291558552277313",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2094291543607902208"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 56,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "沒有一個好用...\n比較差的用一兩天就已經不行了\n比較好的也已經鈍了\n有什麼耐用又好控制的推介嗎 https://t.co/MptvFA5a2i"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094291543607902208"
+          ]
+        },
+        "author_id": "1674081369830436864",
+        "conversation_id": "2094296811687354770",
+        "created_at": "2026-08-31T05:30:44.000Z",
+        "display_text_range": [
+          0,
+          70
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T06:09:52.000Z",
+          "edits_remaining": 3,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094291558552277313",
+          "2094296811687354770",
+          "2094306195502940639"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LEqwbWArx7",
+              "end": 94,
+              "expanded_url": "https://x.com/yshidhe3/status/2094296811687354770/photo/1",
+              "media_key": "3_2094291543607902208",
+              "start": 71,
+              "url": "https://t.co/LEqwbWArx7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094296811687354770",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2094291543607902208"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 52,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "沒有一個好用...\n比較差的用一兩天就已經不行了\n比較好的也已經鈍了\n有什麼耐用又好控制的推介嗎\n\n有打算買新的修眉刀片\n但好像不太好存放？ https://t.co/LEqwbWArx7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094291543607902208"
+          ]
+        },
+        "author_id": "1674081369830436864",
+        "conversation_id": "2094306195502940639",
+        "created_at": "2026-08-31T06:08:01.000Z",
+        "display_text_range": [
+          0,
+          95
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T06:09:52.000Z",
+          "edits_remaining": 3,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094291558552277313",
+          "2094296811687354770",
+          "2094306195502940639"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vxholtQgas",
+              "end": 119,
+              "expanded_url": "https://x.com/yshidhe3/status/2094306195502940639/photo/1",
+              "media_key": "3_2094291543607902208",
+              "start": 96,
+              "url": "https://t.co/vxholtQgas"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094306195502940639",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2094291543607902208"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "沒有一個好用...\n比較差的用一兩天就已經不行了\n比較好的也已經鈍了\n有什麼耐用又好控制的推介嗎\n\n有人知道同款的修眉刀哪裏有得買嗎？\n想買這一種\n\n有打算買新的修眉刀片\n但好像不太好存放？ https://t.co/vxholtQgas"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-28T15:44:58.000Z",
+        "description": "要升天了呢(´♡ω♡`)（病嬌/地雷~）\n抑鬱焦慮會/割 喔\n跟我聊天要先看自介噢 \n前世 @yshidhe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 46,
+                "username": "yshidhe"
+              }
+            ]
+          }
+        },
+        "id": "1674081369830436864",
+        "is_identity_verified": false,
+        "location": "在你心中",
+        "most_recent_tweet_id": "2094306195502940639",
+        "name": "ゆうく；已壊掉2.0",
+        "pinned_tweet_id": "2093620803019604117",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1674081369830436864/1787708588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065587970690998272/p_gIuBa4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 490,
+          "following_count": 35,
+          "like_count": 2048,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 1277
+        },
+        "url": "",
+        "username": "yshidhe3",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

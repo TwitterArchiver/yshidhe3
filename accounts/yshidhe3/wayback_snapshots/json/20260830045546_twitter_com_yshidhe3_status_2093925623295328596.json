@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1674081369830436864",
+    "conversation_id": "2093925623295328596",
+    "created_at": "2026-08-30T04:55:46.000Z",
+    "display_text_range": [
+      0,
+      113
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-30T05:49:23.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2093924018852434093",
+      "2093925623295328596"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2093925623295328596",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我突然又懂了\n他早就不那麼愛我了\n他只是為了我能focus他\n只是那次之後他覺得我做不到了\n所以才走\n\n我偶爾感覺到他也沒有很愛我\n這已經代表全部了吧\n這就是事實啊\n\n他明知道我不懂\n卻不作解釋\n只是秋後算賬\n\n我該相信什麼？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1674081369830436864",
+        "conversation_id": "2093924018852434093",
+        "created_at": "2026-08-30T04:49:23.000Z",
+        "display_text_range": [
+          0,
+          91
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T05:49:23.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093924018852434093",
+          "2093925623295328596"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2093924018852434093",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我突然又懂了\n他早就不那麼愛我了\n他只是為了我能focus他\n只是那次之後他覺得我做不到了\n所以才走\n\n我偶爾感覺到他也沒有很愛我\n這已經代表全部了吧\n這就是事實啊\n\n我該相信什麼？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1674081369830436864",
+        "conversation_id": "2093925623295328596",
+        "created_at": "2026-08-30T04:55:46.000Z",
+        "display_text_range": [
+          0,
+          113
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T05:49:23.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093924018852434093",
+          "2093925623295328596"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2093925623295328596",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我突然又懂了\n他早就不那麼愛我了\n他只是為了我能focus他\n只是那次之後他覺得我做不到了\n所以才走\n\n我偶爾感覺到他也沒有很愛我\n這已經代表全部了吧\n這就是事實啊\n\n他明知道我不懂\n卻不作解釋\n只是秋後算賬\n\n我該相信什麼？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-28T15:44:58.000Z",
+        "description": "要升天了呢(´♡ω♡`)（病嬌/地雷~）\n抑鬱焦慮會/割 喔\n跟我聊天要先看自介噢 \n前世 @yshidhe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 46,
+                "username": "yshidhe"
+              }
+            ]
+          }
+        },
+        "id": "1674081369830436864",
+        "is_identity_verified": false,
+        "location": "在你心中",
+        "most_recent_tweet_id": "2093925623295328596",
+        "name": "ゆうく；已壊掉2.0",
+        "pinned_tweet_id": "2093620803019604117",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1674081369830436864/1787708588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065587970690998272/p_gIuBa4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 490,
+          "following_count": 35,
+          "like_count": 2001,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 1236
+        },
+        "url": "",
+        "username": "yshidhe3",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
