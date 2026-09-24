@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1674081369830436864",
+    "conversation_id": "2095473816495685939",
+    "created_at": "2026-09-03T11:35:37.000Z",
+    "display_text_range": [
+      12,
+      24
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-03T12:35:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095475800019804654"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2092785051805392896",
+          "start": 0,
+          "username": "KiraraH1px"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095475800019804654",
+    "in_reply_to_user_id": "2092785051805392896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095475256781930508",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KiraraH1px 我對他第一印象不是這樣？"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2095475256781930508].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2095475256781930508",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "2095475256781930508"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1674081369830436864",
+        "conversation_id": "2095473816495685939",
+        "created_at": "2026-09-03T11:35:37.000Z",
+        "display_text_range": [
+          12,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T12:35:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095475800019804654"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2092785051805392896",
+              "start": 0,
+              "username": "KiraraH1px"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095475800019804654",
+        "in_reply_to_user_id": "2092785051805392896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095475256781930508",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KiraraH1px 我對他第一印象不是這樣？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-28T15:44:58.000Z",
+        "description": "要升天了呢(´♡ω♡`)（病嬌/地雷~）\n抑鬱焦慮會/割 喔\n跟我聊天要先看自介噢 \n前世 @yshidhe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 46,
+                "username": "yshidhe"
+              }
+            ]
+          }
+        },
+        "id": "1674081369830436864",
+        "is_identity_verified": false,
+        "location": "在你心中",
+        "most_recent_tweet_id": "2095475800019804654",
+        "name": "ゆうく；已壊掉2.0",
+        "pinned_tweet_id": "2094754303491850311",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1674081369830436864/1787708588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065587970690998272/p_gIuBa4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 526,
+          "following_count": 38,
+          "like_count": 2282,
+          "listed_count": 0,
+          "media_count": 82,
+          "tweet_count": 1460
+        },
+        "url": "",
+        "username": "yshidhe3",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-27T01:25:00.000Z",
+        "description": "我已經看見  一出悲劇正上演",
+        "id": "2092785051805392896",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094055106199306391",
+        "name": "Kirara H",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2092785051805392896/1788219025",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092785704002793472/cTRn_wiQ_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 176,
+          "following_count": 17,
+          "like_count": 94,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 129
+        },
+        "url": "",
+        "username": "KiraraH1px",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

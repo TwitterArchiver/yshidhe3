@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1674081369830436864",
+    "conversation_id": "2097294613031899548",
+    "created_at": "2026-09-08T12:54:38.000Z",
+    "display_text_range": [
+      10,
+      40
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T13:54:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097307623431557549"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1562383316942483458",
+          "start": 0,
+          "username": "chxuyng2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097307623431557549",
+    "in_reply_to_user_id": "1562383316942483458",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097305245458317588",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chxuyng2 我本來已經很努力想自己好了( ´▽｀)但現實總令我覺得痛苦吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1674081369830436864",
+        "conversation_id": "2097294613031899548",
+        "created_at": "2026-09-08T12:54:38.000Z",
+        "display_text_range": [
+          10,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T13:54:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097307623431557549"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1562383316942483458",
+              "start": 0,
+              "username": "chxuyng2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097307623431557549",
+        "in_reply_to_user_id": "1562383316942483458",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097305245458317588",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chxuyng2 我本來已經很努力想自己好了( ´▽｀)但現實總令我覺得痛苦吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1562383316942483458",
+        "conversation_id": "2097294613031899548",
+        "created_at": "2026-09-08T12:45:11.000Z",
+        "display_text_range": [
+          10,
+          61
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T13:45:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097305245458317588"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1674081369830436864",
+              "start": 0,
+              "username": "yshidhe3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097305245458317588",
+        "in_reply_to_user_id": "1674081369830436864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097294613031899548",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yshidhe3 并不会呢，有人讨厌，不是所有人都讨厌，对讨厌的人妥协不如和对自己好的人好一点呐～（ᗜ𖥦ᗜ🤗🤗🤗打扰致歉"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-28T15:44:58.000Z",
+        "description": "要升天了呢(´♡ω♡`)（病嬌/地雷~）\n抑鬱焦慮會/割 喔\n跟我聊天要先看自介噢 \n前世 @yshidhe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 46,
+                "username": "yshidhe"
+              }
+            ]
+          }
+        },
+        "id": "1674081369830436864",
+        "is_identity_verified": false,
+        "location": "在你心中",
+        "most_recent_tweet_id": "2097307623431557549",
+        "name": "ゆうく；已壊掉2.0",
+        "pinned_tweet_id": "2094754303491850311",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1674081369830436864/1787708588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065587970690998272/p_gIuBa4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 552,
+          "following_count": 39,
+          "like_count": 2523,
+          "listed_count": 0,
+          "media_count": 83,
+          "tweet_count": 1615
+        },
+        "url": "",
+        "username": "yshidhe3",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-08-24T10:16:48.000Z",
+        "description": "我很喜欢的\n我的小鱼你醒了，\n还认识早晨吗？\n昨夜你曾经说，\n愿夜幕永不开启，\n你的香腮边轻轻滑落的，\n是你的泪，\n还是我的泪？\n初吻吻别的那个季节，\n不是已经哭过了吗？\n我的指尖还记忆着，\n你慌乱的心跳，\n温润的体香里，\n那一绺长发飘飘。",
+        "id": "1562383316942483458",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097305245458317588",
+        "name": "初雪樱",
+        "pinned_tweet_id": "2096594657538883976",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1562383316942483458/1788624439",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097298642373914624/Lh6c45wZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 38,
+          "like_count": 186,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 214
+        },
+        "url": "",
+        "username": "chxuyng2",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

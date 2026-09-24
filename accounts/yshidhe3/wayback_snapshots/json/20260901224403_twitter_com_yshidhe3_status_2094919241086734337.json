@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1674081369830436864",
+    "conversation_id": "2094261477045907477",
+    "created_at": "2026-09-01T22:44:03.000Z",
+    "display_text_range": [
+      14,
+      32
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-01T23:44:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094919241086734337"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1410618658028589062",
+          "start": 0,
+          "username": "Alex70943053"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094919241086734337",
+    "in_reply_to_user_id": "1410618658028589062",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094798569966588165",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Alex70943053 對你來說是不需要 但我想做的工作需要"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1674081369830436864",
+        "conversation_id": "2094261477045907477",
+        "created_at": "2026-09-01T22:44:03.000Z",
+        "display_text_range": [
+          14,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T23:44:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094919241086734337"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1410618658028589062",
+              "start": 0,
+              "username": "Alex70943053"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094919241086734337",
+        "in_reply_to_user_id": "1410618658028589062",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094798569966588165",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Alex70943053 對你來說是不需要 但我想做的工作需要"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1410618658028589062",
+        "conversation_id": "2094261477045907477",
+        "created_at": "2026-09-01T14:44:33.000Z",
+        "display_text_range": [
+          10,
+          108
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T15:44:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094798569966588165"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1674081369830436864",
+              "start": 0,
+              "username": "yshidhe3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094798569966588165",
+        "in_reply_to_user_id": "1674081369830436864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094791273647583740",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yshidhe3 看個人選擇了，就像我學生時期瘋狂放棄娛樂，一直讀書，進資優班，進升學高中班級，最後考上國立大學，然後就沒有然後了，結果最終的工作其實國中比也就能出來做了，也從來沒去找過工作上班\n\n學歷用處 = 0"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-28T15:44:58.000Z",
+        "description": "要升天了呢(´♡ω♡`)（病嬌/地雷~）\n抑鬱焦慮會/割 喔\n跟我聊天要先看自介噢 \n前世 @yshidhe 不接 沒門",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 46,
+                "username": "yshidhe"
+              }
+            ]
+          }
+        },
+        "id": "1674081369830436864",
+        "is_identity_verified": false,
+        "location": "在你心中",
+        "most_recent_tweet_id": "2094919241086734337",
+        "name": "ゆうく；已壊掉2.0",
+        "pinned_tweet_id": "2094754303491850311",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1674081369830436864/1787708588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065587970690998272/p_gIuBa4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 509,
+          "following_count": 36,
+          "like_count": 2167,
+          "listed_count": 0,
+          "media_count": 82,
+          "tweet_count": 1359
+        },
+        "url": "",
+        "username": "yshidhe3",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-07-01T15:17:59.000Z",
+        "description": "",
+        "id": "1410618658028589062",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094799252623110504",
+        "name": "AKAM",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081873953522593792/6WNQUV39_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 325,
+          "like_count": 169,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 235
+        },
+        "url": "",
+        "username": "Alex70943053",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

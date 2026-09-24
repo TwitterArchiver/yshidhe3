@@ -1,0 +1,364 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2095132101930889216",
+        "3_2095132101867872256",
+        "3_2095132101905719296",
+        "3_2095132101951758336"
+      ]
+    },
+    "author_id": "1674081369830436864",
+    "conversation_id": "2095132139302129853",
+    "created_at": "2026-09-02T12:50:02.000Z",
+    "display_text_range": [
+      0,
+      92
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T13:49:55.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2095132111003120067",
+      "2095132139302129853"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/qqJuo4Wo1D",
+          "end": 116,
+          "expanded_url": "https://x.com/yshidhe3/status/2095132139302129853/photo/1",
+          "media_key": "3_2095132101930889216",
+          "start": 93,
+          "url": "https://t.co/qqJuo4Wo1D"
+        },
+        {
+          "display_url": "pic.x.com/qqJuo4Wo1D",
+          "end": 116,
+          "expanded_url": "https://x.com/yshidhe3/status/2095132139302129853/photo/1",
+          "media_key": "3_2095132101867872256",
+          "start": 93,
+          "url": "https://t.co/qqJuo4Wo1D"
+        },
+        {
+          "display_url": "pic.x.com/qqJuo4Wo1D",
+          "end": 116,
+          "expanded_url": "https://x.com/yshidhe3/status/2095132139302129853/photo/1",
+          "media_key": "3_2095132101905719296",
+          "start": 93,
+          "url": "https://t.co/qqJuo4Wo1D"
+        },
+        {
+          "display_url": "pic.x.com/qqJuo4Wo1D",
+          "end": 116,
+          "expanded_url": "https://x.com/yshidhe3/status/2095132139302129853/photo/1",
+          "media_key": "3_2095132101951758336",
+          "start": 93,
+          "url": "https://t.co/qqJuo4Wo1D"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095132139302129853",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2095132101930889216"
+      },
+      {
+        "media_key": "3_2095132101867872256"
+      },
+      {
+        "media_key": "3_2095132101905719296"
+      },
+      {
+        "media_key": "3_2095132101951758336"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "聊天記錄第四集(還有很多\n這是我前任跟他的最後聊天\n聊天記錄有點多 可能需要用你很多時間\n但我還是希望可以有人幫我給給意見\n最後真的是我錯嗎\n我有用AI把文字轉成書面語\n所以會有點錯位 https://t.co/qqJuo4Wo1D"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1776,
+        "media_key": "3_2095132101930889216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRNni9UbsAATUgt.jpg",
+        "width": 1120
+      },
+      {
+        "height": 1845,
+        "media_key": "3_2095132101867872256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRNni9FaIAA6Ro6.jpg",
+        "width": 995
+      },
+      {
+        "height": 1841,
+        "media_key": "3_2095132101905719296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRNni9OboAA25ht.jpg",
+        "width": 989
+      },
+      {
+        "height": 1845,
+        "media_key": "3_2095132101951758336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRNni9ZaIAA5AiL.jpg",
+        "width": 996
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095132101930889216",
+            "3_2095132101867872256",
+            "3_2095132101905719296",
+            "3_2095132101951758336"
+          ]
+        },
+        "author_id": "1674081369830436864",
+        "conversation_id": "2095132111003120067",
+        "created_at": "2026-09-02T12:49:55.000Z",
+        "display_text_range": [
+          0,
+          92
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T13:49:55.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095132111003120067",
+          "2095132139302129853"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HpOoYhecii",
+              "end": 116,
+              "expanded_url": "https://x.com/yshidhe3/status/2095132111003120067/photo/1",
+              "media_key": "3_2095132101930889216",
+              "start": 93,
+              "url": "https://t.co/HpOoYhecii"
+            },
+            {
+              "display_url": "pic.x.com/HpOoYhecii",
+              "end": 116,
+              "expanded_url": "https://x.com/yshidhe3/status/2095132111003120067/photo/1",
+              "media_key": "3_2095132101867872256",
+              "start": 93,
+              "url": "https://t.co/HpOoYhecii"
+            },
+            {
+              "display_url": "pic.x.com/HpOoYhecii",
+              "end": 116,
+              "expanded_url": "https://x.com/yshidhe3/status/2095132111003120067/photo/1",
+              "media_key": "3_2095132101905719296",
+              "start": 93,
+              "url": "https://t.co/HpOoYhecii"
+            },
+            {
+              "display_url": "pic.x.com/HpOoYhecii",
+              "end": 116,
+              "expanded_url": "https://x.com/yshidhe3/status/2095132111003120067/photo/1",
+              "media_key": "3_2095132101951758336",
+              "start": 93,
+              "url": "https://t.co/HpOoYhecii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095132111003120067",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095132101930889216"
+          },
+          {
+            "media_key": "3_2095132101867872256"
+          },
+          {
+            "media_key": "3_2095132101905719296"
+          },
+          {
+            "media_key": "3_2095132101951758336"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "聊天記錄第一集(還有很多\n這是我前任跟他的最後聊天\n聊天記錄有點多 可能需要用你很多時間\n但我還是希望可以有人幫我給給意見\n最後真的是我錯嗎\n我有用AI把文字轉成書面語\n所以會有點錯位 https://t.co/HpOoYhecii"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095132101930889216",
+            "3_2095132101867872256",
+            "3_2095132101905719296",
+            "3_2095132101951758336"
+          ]
+        },
+        "author_id": "1674081369830436864",
+        "conversation_id": "2095132139302129853",
+        "created_at": "2026-09-02T12:50:02.000Z",
+        "display_text_range": [
+          0,
+          92
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T13:49:55.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095132111003120067",
+          "2095132139302129853"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qqJuo4Wo1D",
+              "end": 116,
+              "expanded_url": "https://x.com/yshidhe3/status/2095132139302129853/photo/1",
+              "media_key": "3_2095132101930889216",
+              "start": 93,
+              "url": "https://t.co/qqJuo4Wo1D"
+            },
+            {
+              "display_url": "pic.x.com/qqJuo4Wo1D",
+              "end": 116,
+              "expanded_url": "https://x.com/yshidhe3/status/2095132139302129853/photo/1",
+              "media_key": "3_2095132101867872256",
+              "start": 93,
+              "url": "https://t.co/qqJuo4Wo1D"
+            },
+            {
+              "display_url": "pic.x.com/qqJuo4Wo1D",
+              "end": 116,
+              "expanded_url": "https://x.com/yshidhe3/status/2095132139302129853/photo/1",
+              "media_key": "3_2095132101905719296",
+              "start": 93,
+              "url": "https://t.co/qqJuo4Wo1D"
+            },
+            {
+              "display_url": "pic.x.com/qqJuo4Wo1D",
+              "end": 116,
+              "expanded_url": "https://x.com/yshidhe3/status/2095132139302129853/photo/1",
+              "media_key": "3_2095132101951758336",
+              "start": 93,
+              "url": "https://t.co/qqJuo4Wo1D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095132139302129853",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095132101930889216"
+          },
+          {
+            "media_key": "3_2095132101867872256"
+          },
+          {
+            "media_key": "3_2095132101905719296"
+          },
+          {
+            "media_key": "3_2095132101951758336"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "聊天記錄第四集(還有很多\n這是我前任跟他的最後聊天\n聊天記錄有點多 可能需要用你很多時間\n但我還是希望可以有人幫我給給意見\n最後真的是我錯嗎\n我有用AI把文字轉成書面語\n所以會有點錯位 https://t.co/qqJuo4Wo1D"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-28T15:44:58.000Z",
+        "description": "要升天了呢(´♡ω♡`)（病嬌/地雷~）\n抑鬱焦慮會/割 喔\n跟我聊天要先看自介噢 \n前世 @yshidhe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 46,
+                "username": "yshidhe"
+              }
+            ]
+          }
+        },
+        "id": "1674081369830436864",
+        "is_identity_verified": false,
+        "location": "在你心中",
+        "most_recent_tweet_id": "2095132139302129853",
+        "name": "ゆうく；已壊掉2.0",
+        "pinned_tweet_id": "2094754303491850311",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1674081369830436864/1787708588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065587970690998272/p_gIuBa4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 513,
+          "following_count": 36,
+          "like_count": 2232,
+          "listed_count": 0,
+          "media_count": 88,
+          "tweet_count": 1412
+        },
+        "url": "",
+        "username": "yshidhe3",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

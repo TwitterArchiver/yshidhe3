@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1674081369830436864",
+    "conversation_id": "2093620803019604117",
+    "created_at": "2026-09-01T04:50:16.000Z",
+    "display_text_range": [
+      9,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-01T05:50:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094649016667800038"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2069567807856193536",
+          "start": 0,
+          "username": "endbuts"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094649016667800038",
+    "in_reply_to_user_id": "2069567807856193536",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094583255924437394",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@endbuts ( ･᷄ὢ･᷅ )"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1674081369830436864",
+        "conversation_id": "2093620803019604117",
+        "created_at": "2026-09-01T04:50:16.000Z",
+        "display_text_range": [
+          9,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T05:50:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094649016667800038"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2069567807856193536",
+              "start": 0,
+              "username": "endbuts"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094649016667800038",
+        "in_reply_to_user_id": "2069567807856193536",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094583255924437394",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@endbuts ( ･᷄ὢ･᷅ )"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2069567807856193536",
+        "conversation_id": "2093620803019604117",
+        "created_at": "2026-09-01T00:28:58.000Z",
+        "display_text_range": [
+          10,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T01:28:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094583255924437394"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1674081369830436864",
+              "start": 0,
+              "username": "yshidhe3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094583255924437394",
+        "in_reply_to_user_id": "1674081369830436864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093620803019604117",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yshidhe3 小可怜"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-28T15:44:58.000Z",
+        "description": "要升天了呢(´♡ω♡`)（病嬌/地雷~）\n抑鬱焦慮會/割 喔\n跟我聊天要先看自介噢 \n前世 @yshidhe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 46,
+                "username": "yshidhe"
+              }
+            ]
+          }
+        },
+        "id": "1674081369830436864",
+        "is_identity_verified": false,
+        "location": "在你心中",
+        "most_recent_tweet_id": "2094649016667800038",
+        "name": "ゆうく；已壊掉2.0",
+        "pinned_tweet_id": "2093620803019604117",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1674081369830436864/1787708588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065587970690998272/p_gIuBa4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 499,
+          "following_count": 36,
+          "like_count": 2125,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 1324
+        },
+        "url": "",
+        "username": "yshidhe3",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-23T23:47:52.000Z",
+        "description": "构成我们的物质亦是构成梦的 我们短暂的生命亦伴随睡梦而终",
+        "id": "2069567807856193536",
+        "is_identity_verified": false,
+        "location": "黑暗最深处",
+        "most_recent_tweet_id": "2094583255924437394",
+        "name": "奈亚",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2069567807856193536/1783268675",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069568273474039808/lj5HU4yI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 21,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 15
+        },
+        "url": "",
+        "username": "endbuts",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

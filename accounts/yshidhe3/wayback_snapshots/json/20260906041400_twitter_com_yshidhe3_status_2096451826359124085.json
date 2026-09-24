@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1674081369830436864",
+    "conversation_id": "2096156522963521938",
+    "created_at": "2026-09-06T04:14:00.000Z",
+    "display_text_range": [
+      14,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T05:14:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096451826359124085"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2095354555479576576",
+          "start": 0,
+          "username": "ThakurShiv02"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096451826359124085",
+    "in_reply_to_user_id": "2095354555479576576",
+    "lang": "hi",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096156522963521938",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ThakurShiv02 bad  ai"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 20294,
+        "height": 1280,
+        "media_key": "13_2096156457595240448",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2096156457595240448/img/q0ZiXoUhr1YUeTpS.jpg",
+        "public_metrics": {
+          "view_count": 1730973
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2096156457595240448/vid/avc1/320x568/ForcDwFx1PFnA62l.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2096156457595240448/vid/avc1/480x852/b1Can47Y2t0lOIGk.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2096156457595240448/vid/avc1/720x1280/PMhjIUEEWdsD_YX8.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2096156457595240448/pl/ROqK-wppL5LidWK_.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1674081369830436864",
+        "conversation_id": "2096156522963521938",
+        "created_at": "2026-09-06T04:14:00.000Z",
+        "display_text_range": [
+          14,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T05:14:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096451826359124085"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2095354555479576576",
+              "start": 0,
+              "username": "ThakurShiv02"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096451826359124085",
+        "in_reply_to_user_id": "2095354555479576576",
+        "lang": "hi",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096156522963521938",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ThakurShiv02 bad  ai"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2096156457595240448"
+          ]
+        },
+        "author_id": "2095354555479576576",
+        "conversation_id": "2096156522963521938",
+        "created_at": "2026-09-05T08:40:34.000Z",
+        "display_text_range": [
+          0,
+          80
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T09:40:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096156522963521938"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ri3gquWwKq",
+              "end": 104,
+              "expanded_url": "https://x.com/ThakurShiv02/status/2096156522963521938/video/1",
+              "media_key": "13_2096156457595240448",
+              "start": 81,
+              "url": "https://t.co/Ri3gquWwKq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096156522963521938",
+        "lang": "hi",
+        "media_metadata": [
+          {
+            "media_key": "13_2096156457595240448"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 466,
+          "impression_count": 2957893,
+          "like_count": 1896,
+          "quote_count": 22,
+          "reply_count": 177,
+          "retweet_count": 272
+        },
+        "reply_settings": "everyone",
+        "text": "Cobra का reflection काफी खतरनाक होता है \nइसमें तो काटने से पहले ही जहर छोड़ दिया https://t.co/Ri3gquWwKq"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-28T15:44:58.000Z",
+        "description": "要升天了呢(´♡ω♡`)（病嬌/地雷~）\n抑鬱焦慮會/割 喔\n跟我聊天要先看自介噢 \n前世 @yshidhe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 46,
+                "username": "yshidhe"
+              }
+            ]
+          }
+        },
+        "id": "1674081369830436864",
+        "is_identity_verified": false,
+        "location": "在你心中",
+        "most_recent_tweet_id": "2096451826359124085",
+        "name": "ゆうく；已壊掉2.0",
+        "pinned_tweet_id": "2094754303491850311",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1674081369830436864/1787708588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065587970690998272/p_gIuBa4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 539,
+          "following_count": 39,
+          "like_count": 2418,
+          "listed_count": 0,
+          "media_count": 83,
+          "tweet_count": 1552
+        },
+        "url": "",
+        "username": "yshidhe3",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-03T03:37:14.000Z",
+        "description": "क्षत्रिय धर्म युगे युगे राजपूत रक्त पवित्रो पवित्रं !! \n #टीम_महापंचायत\n 💞#जय_श्री_महाकाल💞🚩\n               💞#जय_महाराणा_प्रताप💞🚩",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 71,
+                "start": 57,
+                "tag": "टीम_महापंचायत"
+              },
+              {
+                "end": 89,
+                "start": 74,
+                "tag": "जय_श्री_महाकाल"
+              },
+              {
+                "end": 126,
+                "start": 108,
+                "tag": "जय_महाराणा_प्रताप"
+              }
+            ]
+          }
+        },
+        "id": "2095354555479576576",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096450764415848822",
+        "name": "Thakur Sahab",
+        "pinned_tweet_id": "2096443881747542516",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2095354555479576576/1788600799",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095356330139860992/s538G-nS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 981,
+          "following_count": 811,
+          "like_count": 1183,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 1279
+        },
+        "url": "",
+        "username": "ThakurShiv02",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1674081369830436864",
+    "conversation_id": "2094349700468203679",
+    "created_at": "2026-09-01T08:21:53.000Z",
+    "display_text_range": [
+      17,
+      26
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-01T09:21:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094702271317918104"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1964769815606030337",
+          "start": 0,
+          "username": "GhostArtist1589"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094702271317918104",
+    "in_reply_to_user_id": "1964769815606030337",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094688770876731747",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GhostArtist1589 我會的( ´▽｀)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1674081369830436864",
+        "conversation_id": "2094349700468203679",
+        "created_at": "2026-09-01T08:21:53.000Z",
+        "display_text_range": [
+          17,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T09:21:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094702271317918104"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1964769815606030337",
+              "start": 0,
+              "username": "GhostArtist1589"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094702271317918104",
+        "in_reply_to_user_id": "1964769815606030337",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094688770876731747",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GhostArtist1589 我會的( ´▽｀)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964769815606030337",
+        "conversation_id": "2094349700468203679",
+        "created_at": "2026-09-01T07:28:15.000Z",
+        "display_text_range": [
+          10,
+          56
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T08:28:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094688770876731747"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1674081369830436864",
+              "start": 0,
+              "username": "yshidhe3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094688770876731747",
+        "in_reply_to_user_id": "1674081369830436864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094648432300589424",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yshidhe3 希望撐過這段時間後最終能好點～但如果過程中發現有機會，希望不要因為過度忍讓而放棄（溫柔摸頭）"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-28T15:44:58.000Z",
+        "description": "要升天了呢(´♡ω♡`)（病嬌/地雷~）\n抑鬱焦慮會/割 喔\n跟我聊天要先看自介噢 \n前世 @yshidhe 不接 沒門",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 46,
+                "username": "yshidhe"
+              }
+            ]
+          }
+        },
+        "id": "1674081369830436864",
+        "is_identity_verified": false,
+        "location": "在你心中",
+        "most_recent_tweet_id": "2094702271317918104",
+        "name": "ゆうく；已壊掉2.0",
+        "pinned_tweet_id": "2093620803019604117",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1674081369830436864/1787708588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065587970690998272/p_gIuBa4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 500,
+          "following_count": 36,
+          "like_count": 2136,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 1334
+        },
+        "url": "",
+        "username": "yshidhe3",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-09-07T19:17:12.000Z",
+        "description": "緬因沉醉於荒廢閣齋的書堆\n紙張渲染浸潤著時光的重量",
+        "id": "1964769815606030337",
+        "is_identity_verified": false,
+        "location": "台中市",
+        "most_recent_tweet_id": "2094691890377773281",
+        "name": "維吉爾",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964770105004544000/YRfIs5kz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 732,
+          "like_count": 1250,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 624
+        },
+        "url": "",
+        "username": "GhostArtist1589",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

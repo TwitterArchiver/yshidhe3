@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1674081369830436864",
+    "conversation_id": "2097695049031274655",
+    "created_at": "2026-09-09T14:34:07.000Z",
+    "display_text_range": [
+      0,
+      146
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-09T15:34:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097695049031274655"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1809231542486802432",
+          "start": 3,
+          "username": "kiukiu4444"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097695049031274655",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096594400470274334",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kiukiu4444: 自介✘﹏✘ (上一個俾人ban咗TT)\n叫我翹/QQ/sophia 12年🇭🇰生理女\n重鬱｜ptsd ｜od | 自傷 | 穿孔 | 壞習慣全沾\n我會自己紋身:3 159cm 42kg\n同類互fo 想同你們做朋友&gt;&lt;\n鍾意9up放負 瞓覺 Mel…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2096594394120101888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRiZfkOaoAAmRI8.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1674081369830436864",
+        "conversation_id": "2097695049031274655",
+        "created_at": "2026-09-09T14:34:07.000Z",
+        "display_text_range": [
+          0,
+          146
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T15:34:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097695049031274655"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1809231542486802432",
+              "start": 3,
+              "username": "kiukiu4444"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097695049031274655",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096594400470274334",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kiukiu4444: 自介✘﹏✘ (上一個俾人ban咗TT)\n叫我翹/QQ/sophia 12年🇭🇰生理女\n重鬱｜ptsd ｜od | 自傷 | 穿孔 | 壞習慣全沾\n我會自己紋身:3 159cm 42kg\n同類互fo 想同你們做朋友&gt;&lt;\n鍾意9up放負 瞓覺 Mel…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096594394120101888"
+          ]
+        },
+        "author_id": "1809231542486802432",
+        "conversation_id": "2096594400470274334",
+        "created_at": "2026-09-06T13:40:32.000Z",
+        "display_text_range": [
+          0,
+          150
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T14:40:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096594400470274334"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QGzUjnx4z6",
+              "end": 174,
+              "expanded_url": "https://x.com/kiukiu4444/status/2096594400470274334/photo/1",
+              "media_key": "3_2096594394120101888",
+              "start": 151,
+              "url": "https://t.co/QGzUjnx4z6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096594400470274334",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096594394120101888"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 3551,
+          "like_count": 60,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "自介✘﹏✘ (上一個俾人ban咗TT)\n叫我翹/QQ/sophia 12年🇭🇰生理女\n重鬱｜ptsd ｜od | 自傷 | 穿孔 | 壞習慣全沾\n我會自己紋身:3 159cm 42kg\n同類互fo 想同你們做朋友&gt;&lt;\n鍾意9up放負 瞓覺 Melody!!\n健全幸福B請善用封鎖功能^ω^ https://t.co/QGzUjnx4z6"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-28T15:44:58.000Z",
+        "description": "要升天了呢(´♡ω♡`)（病嬌/地雷~）\n抑鬱焦慮會/割 喔\n跟我聊天要先看自介噢 \n前世 @yshidhe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 46,
+                "username": "yshidhe"
+              }
+            ]
+          }
+        },
+        "id": "1674081369830436864",
+        "is_identity_verified": false,
+        "location": "在你心中",
+        "most_recent_tweet_id": "2097695049031274655",
+        "name": "ゆうく；已壊掉2.0",
+        "pinned_tweet_id": "2094754303491850311",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1674081369830436864/1787708588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065587970690998272/p_gIuBa4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 552,
+          "following_count": 42,
+          "like_count": 2574,
+          "listed_count": 0,
+          "media_count": 83,
+          "tweet_count": 1647
+        },
+        "url": "",
+        "username": "yshidhe3",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-07-05T14:23:18.000Z",
+        "description": "#shtwt #odtwt\n查成份回fol｜9up\n防炸@kiukiu44442\nim the god of dxm💊xx",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 6,
+                "start": 0,
+                "tag": "shtwt"
+              },
+              {
+                "end": 13,
+                "start": 7,
+                "tag": "odtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 40,
+                "start": 28,
+                "username": "kiukiu44442"
+              }
+            ]
+          }
+        },
+        "id": "1809231542486802432",
+        "is_identity_verified": false,
+        "location": "Hong Kong",
+        "most_recent_tweet_id": "2097667788819353843",
+        "name": "kiu",
+        "pinned_tweet_id": "2096594400470274334",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1809231542486802432/1775673060",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096591639175458816/9C5-AGBU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 162,
+          "following_count": 69,
+          "like_count": 465,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 80
+        },
+        "url": "",
+        "username": "kiukiu4444",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

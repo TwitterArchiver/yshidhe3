@@ -1,0 +1,437 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2086306329036226560",
+        "3_2086306329174700032",
+        "3_2086306329258610688",
+        "3_2086306329048788992"
+      ],
+      "media_source_tweet_id": [
+        "2086306350498496585",
+        "2086306350498496585",
+        "2086306350498496585",
+        "2086306350498496585"
+      ]
+    },
+    "author_id": "1674081369830436864",
+    "conversation_id": "2097693506768978094",
+    "created_at": "2026-09-09T14:27:59.000Z",
+    "display_text_range": [
+      0,
+      52
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-09T15:27:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097693506768978094"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1922689818942898176",
+          "start": 3,
+          "username": "qinyfn337187"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6ZCvthsuVd",
+          "end": 52,
+          "expanded_url": "https://x.com/qinyfn337187/status/2086306350498496585/photo/1",
+          "media_key": "3_2086306329036226560",
+          "start": 29,
+          "url": "https://t.co/6ZCvthsuVd"
+        },
+        {
+          "display_url": "pic.x.com/6ZCvthsuVd",
+          "end": 52,
+          "expanded_url": "https://x.com/qinyfn337187/status/2086306350498496585/photo/1",
+          "media_key": "3_2086306329174700032",
+          "start": 29,
+          "url": "https://t.co/6ZCvthsuVd"
+        },
+        {
+          "display_url": "pic.x.com/6ZCvthsuVd",
+          "end": 52,
+          "expanded_url": "https://x.com/qinyfn337187/status/2086306350498496585/photo/1",
+          "media_key": "3_2086306329258610688",
+          "start": 29,
+          "url": "https://t.co/6ZCvthsuVd"
+        },
+        {
+          "display_url": "pic.x.com/6ZCvthsuVd",
+          "end": 52,
+          "expanded_url": "https://x.com/qinyfn337187/status/2086306350498496585/photo/1",
+          "media_key": "3_2086306329048788992",
+          "start": 29,
+          "url": "https://t.co/6ZCvthsuVd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097693506768978094",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2086306329036226560"
+      },
+      {
+        "media_key": "3_2086306329174700032"
+      },
+      {
+        "media_key": "3_2086306329258610688"
+      },
+      {
+        "media_key": "3_2086306329048788992"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086306350498496585",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @qinyfn337187: 大号被封了求互转TT https://t.co/6ZCvthsuVd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 876,
+        "media_key": "3_2086306329036226560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPQMjXLagAAVVYa.jpg",
+        "width": 1179
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2086306329174700032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPQMjXsbcAAckT-.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2086306329258610688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPQMjYAb0AAzICf.jpg",
+        "width": 1638
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2086306329048788992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPQMjXOaMAAaQSk.jpg",
+        "width": 1366
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086306329036226560",
+            "3_2086306329174700032",
+            "3_2086306329258610688",
+            "3_2086306329048788992"
+          ],
+          "media_source_tweet_id": [
+            "2086306350498496585",
+            "2086306350498496585",
+            "2086306350498496585",
+            "2086306350498496585"
+          ]
+        },
+        "author_id": "1674081369830436864",
+        "conversation_id": "2097693506768978094",
+        "created_at": "2026-09-09T14:27:59.000Z",
+        "display_text_range": [
+          0,
+          52
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T15:27:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097693506768978094"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1922689818942898176",
+              "start": 3,
+              "username": "qinyfn337187"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6ZCvthsuVd",
+              "end": 52,
+              "expanded_url": "https://x.com/qinyfn337187/status/2086306350498496585/photo/1",
+              "media_key": "3_2086306329036226560",
+              "start": 29,
+              "url": "https://t.co/6ZCvthsuVd"
+            },
+            {
+              "display_url": "pic.x.com/6ZCvthsuVd",
+              "end": 52,
+              "expanded_url": "https://x.com/qinyfn337187/status/2086306350498496585/photo/1",
+              "media_key": "3_2086306329174700032",
+              "start": 29,
+              "url": "https://t.co/6ZCvthsuVd"
+            },
+            {
+              "display_url": "pic.x.com/6ZCvthsuVd",
+              "end": 52,
+              "expanded_url": "https://x.com/qinyfn337187/status/2086306350498496585/photo/1",
+              "media_key": "3_2086306329258610688",
+              "start": 29,
+              "url": "https://t.co/6ZCvthsuVd"
+            },
+            {
+              "display_url": "pic.x.com/6ZCvthsuVd",
+              "end": 52,
+              "expanded_url": "https://x.com/qinyfn337187/status/2086306350498496585/photo/1",
+              "media_key": "3_2086306329048788992",
+              "start": 29,
+              "url": "https://t.co/6ZCvthsuVd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097693506768978094",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2086306329036226560"
+          },
+          {
+            "media_key": "3_2086306329174700032"
+          },
+          {
+            "media_key": "3_2086306329258610688"
+          },
+          {
+            "media_key": "3_2086306329048788992"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086306350498496585",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @qinyfn337187: 大号被封了求互转TT https://t.co/6ZCvthsuVd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086306329036226560",
+            "3_2086306329174700032",
+            "3_2086306329258610688",
+            "3_2086306329048788992"
+          ]
+        },
+        "author_id": "1922689818942898176",
+        "conversation_id": "2086306350498496585",
+        "created_at": "2026-08-09T04:19:30.000Z",
+        "display_text_range": [
+          0,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T05:19:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086306350498496585"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6ZCvthsuVd",
+              "end": 34,
+              "expanded_url": "https://x.com/qinyfn337187/status/2086306350498496585/photo/1",
+              "media_key": "3_2086306329036226560",
+              "start": 11,
+              "url": "https://t.co/6ZCvthsuVd"
+            },
+            {
+              "display_url": "pic.x.com/6ZCvthsuVd",
+              "end": 34,
+              "expanded_url": "https://x.com/qinyfn337187/status/2086306350498496585/photo/1",
+              "media_key": "3_2086306329174700032",
+              "start": 11,
+              "url": "https://t.co/6ZCvthsuVd"
+            },
+            {
+              "display_url": "pic.x.com/6ZCvthsuVd",
+              "end": 34,
+              "expanded_url": "https://x.com/qinyfn337187/status/2086306350498496585/photo/1",
+              "media_key": "3_2086306329258610688",
+              "start": 11,
+              "url": "https://t.co/6ZCvthsuVd"
+            },
+            {
+              "display_url": "pic.x.com/6ZCvthsuVd",
+              "end": 34,
+              "expanded_url": "https://x.com/qinyfn337187/status/2086306350498496585/photo/1",
+              "media_key": "3_2086306329048788992",
+              "start": 11,
+              "url": "https://t.co/6ZCvthsuVd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086306350498496585",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2086306329036226560"
+          },
+          {
+            "media_key": "3_2086306329174700032"
+          },
+          {
+            "media_key": "3_2086306329258610688"
+          },
+          {
+            "media_key": "3_2086306329048788992"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3378,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "大号被封了求互转TT https://t.co/6ZCvthsuVd"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-28T15:44:58.000Z",
+        "description": "要升天了呢(´♡ω♡`)（病嬌/地雷~）\n抑鬱焦慮會/割 喔\n跟我聊天要先看自介噢 \n前世 @yshidhe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 46,
+                "username": "yshidhe"
+              }
+            ]
+          }
+        },
+        "id": "1674081369830436864",
+        "is_identity_verified": false,
+        "location": "在你心中",
+        "most_recent_tweet_id": "2097693506768978094",
+        "name": "ゆうく；已壊掉2.0",
+        "pinned_tweet_id": "2094754303491850311",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1674081369830436864/1787708588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065587970690998272/p_gIuBa4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 552,
+          "following_count": 40,
+          "like_count": 2573,
+          "listed_count": 0,
+          "media_count": 83,
+          "tweet_count": 1645
+        },
+        "url": "",
+        "username": "yshidhe3",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-05-14T16:26:10.000Z",
+        "description": "我是小Q\n大号@Fanqian77v\n🚪88纯绿\n查成分回of，寻找前世互关",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 7,
+                "username": "Fanqian77v"
+              }
+            ]
+          }
+        },
+        "id": "1922689818942898176",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095052768474173884",
+        "name": "QQ",
+        "pinned_tweet_id": "2086306350498496585",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1922689818942898176/1786029137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085383376387837952/zgi3gqlV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 27,
+          "like_count": 76,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 62
+        },
+        "url": "",
+        "username": "qinyfn337187",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

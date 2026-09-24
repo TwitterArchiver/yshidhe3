@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1674081369830436864",
+    "conversation_id": "2095131968417796155",
+    "created_at": "2026-09-02T13:42:06.000Z",
+    "display_text_range": [
+      15,
+      43
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T14:42:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095145242408448089"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1942271268931395584",
+          "start": 0,
+          "username": "jiuyinanshang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095145242408448089",
+    "in_reply_to_user_id": "1942271268931395584",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095144603733065728",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiuyinanshang 其實我跟他在這裏也只是前任關係 只是也做着情侶做的事情吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1674081369830436864",
+        "conversation_id": "2095131968417796155",
+        "created_at": "2026-09-02T13:42:06.000Z",
+        "display_text_range": [
+          15,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T14:42:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095145242408448089"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1942271268931395584",
+              "start": 0,
+              "username": "jiuyinanshang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095145242408448089",
+        "in_reply_to_user_id": "1942271268931395584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095144603733065728",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiuyinanshang 其實我跟他在這裏也只是前任關係 只是也做着情侶做的事情吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942271268931395584",
+        "conversation_id": "2095131968417796155",
+        "created_at": "2026-09-02T13:39:34.000Z",
+        "display_text_range": [
+          10,
+          74
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T14:39:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095144603733065728"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1674081369830436864",
+              "start": 0,
+              "username": "yshidhe3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095144603733065728",
+        "in_reply_to_user_id": "1674081369830436864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095131968417796155",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yshidhe3 毕竟本来就是男女朋友的关系，站在对方的立场来看，女朋友跟一个人出去拍照，虽然说没有肢体接触，但心理上肯定会接受不了，这是很正常的"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-28T15:44:58.000Z",
+        "description": "要升天了呢(´♡ω♡`)（病嬌/地雷~）\n抑鬱焦慮會/割 喔\n跟我聊天要先看自介噢 \n前世 @yshidhe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 46,
+                "username": "yshidhe"
+              }
+            ]
+          }
+        },
+        "id": "1674081369830436864",
+        "is_identity_verified": false,
+        "location": "在你心中",
+        "most_recent_tweet_id": "2095145242408448089",
+        "name": "ゆうく；已壊掉2.0",
+        "pinned_tweet_id": "2094754303491850311",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1674081369830436864/1787708588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065587970690998272/p_gIuBa4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 514,
+          "following_count": 36,
+          "like_count": 2244,
+          "listed_count": 0,
+          "media_count": 93,
+          "tweet_count": 1426
+        },
+        "url": "",
+        "username": "yshidhe3",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-07-07T17:15:48.000Z",
+        "description": "明日方舟，蔚蓝档案玩家",
+        "id": "1942271268931395584",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095144603733065728",
+        "name": "旧忆南殇",
+        "pinned_tweet_id": "2094539230508720261",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1942271268931395584/1780922410",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942276430760734721/G-ZtavgW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 71,
+          "like_count": 63,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 147
+        },
+        "url": "",
+        "username": "jiuyinanshang",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

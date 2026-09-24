@@ -1,0 +1,123 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1674081369830436864",
+    "conversation_id": "2094380509409288626",
+    "created_at": "2026-08-31T11:03:19.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T12:03:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2094380509409288626"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2094380509409288626",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "這天的現在已經好很多了\n很感謝有大家陪着\n最近我也認識了一個不足一星期的人(不是推上認識的\n他說他會愛我 \n會陪着我\n我也是看得出來啦\n但仍然是很難相信呢\n明明還未見過\n但他的確教了我很多東西也幫助了我很多\n即使我似乎有向他走去\n但我發現其實我根本就沒有能力再承受多一次別人的離開\n若真的這樣我真的會死去吧\n我還是推卻了\n還是算了吧\n我覺得就這樣挺好的\n雖然這樣算是辜負了他\n但他也說了不求回報欸"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "這天的現在已經好很多了\n很感謝有大家陪着\n最近我也認識了一個不足一星期的人(不是推上認識的\n他說他會愛我 \n會陪着我\n我也是看得出來啦\n但仍然是很難相信呢\n明明還未見過\n但他的確教了我很多東西也幫助了我很多\n即使我似乎有向他走去\n但我發現其實我根本就沒有能力再承受多一次別人的離開"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1674081369830436864",
+        "conversation_id": "2094380509409288626",
+        "created_at": "2026-08-31T11:03:19.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T12:03:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094380509409288626"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2094380509409288626",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "這天的現在已經好很多了\n很感謝有大家陪着\n最近我也認識了一個不足一星期的人(不是推上認識的\n他說他會愛我 \n會陪着我\n我也是看得出來啦\n但仍然是很難相信呢\n明明還未見過\n但他的確教了我很多東西也幫助了我很多\n即使我似乎有向他走去\n但我發現其實我根本就沒有能力再承受多一次別人的離開\n若真的這樣我真的會死去吧\n我還是推卻了\n還是算了吧\n我覺得就這樣挺好的\n雖然這樣算是辜負了他\n但他也說了不求回報欸"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "這天的現在已經好很多了\n很感謝有大家陪着\n最近我也認識了一個不足一星期的人(不是推上認識的\n他說他會愛我 \n會陪着我\n我也是看得出來啦\n但仍然是很難相信呢\n明明還未見過\n但他的確教了我很多東西也幫助了我很多\n即使我似乎有向他走去\n但我發現其實我根本就沒有能力再承受多一次別人的離開"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-28T15:44:58.000Z",
+        "description": "要升天了呢(´♡ω♡`)（病嬌/地雷~）\n抑鬱焦慮會/割 喔\n跟我聊天要先看自介噢 \n前世 @yshidhe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 46,
+                "username": "yshidhe"
+              }
+            ]
+          }
+        },
+        "id": "1674081369830436864",
+        "is_identity_verified": false,
+        "location": "在你心中",
+        "most_recent_tweet_id": "2094380509409288626",
+        "name": "ゆうく；已壊掉2.0",
+        "pinned_tweet_id": "2093620803019604117",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1674081369830436864/1787708588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065587970690998272/p_gIuBa4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 492,
+          "following_count": 36,
+          "like_count": 2087,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 1292
+        },
+        "url": "",
+        "username": "yshidhe3",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

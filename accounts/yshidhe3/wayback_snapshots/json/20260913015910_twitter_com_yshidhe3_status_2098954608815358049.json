@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1674081369830436864",
+    "conversation_id": "2098929795753197801",
+    "created_at": "2026-09-13T01:59:10.000Z",
+    "display_text_range": [
+      10,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-13T02:59:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098954608815358049"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2018946704083673088",
+          "start": 0,
+          "username": "ayanoyzz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098954608815358049",
+    "in_reply_to_user_id": "2018946704083673088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098929795753197801",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ayanoyzz 好快就退了藥效"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1978,
+        "media_key": "3_2098929787893116928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSDlhX_a8AALgjv.jpg",
+        "width": 1284
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2098929787905720320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSDlhYCbQAAdCPO.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1674081369830436864",
+        "conversation_id": "2098929795753197801",
+        "created_at": "2026-09-13T01:59:10.000Z",
+        "display_text_range": [
+          10,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T02:59:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098954608815358049"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2018946704083673088",
+              "start": 0,
+              "username": "ayanoyzz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098954608815358049",
+        "in_reply_to_user_id": "2018946704083673088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098929795753197801",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayanoyzz 好快就退了藥效"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098929787893116928",
+            "3_2098929787905720320"
+          ]
+        },
+        "author_id": "2018946704083673088",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2098929795753197801",
+        "created_at": "2026-09-13T00:20:34.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T01:20:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098929795753197801"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 3,
+              "tag": "od"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0a1QgVvBMJ",
+              "end": 30,
+              "expanded_url": "https://x.com/ayanoyzz/status/2098929795753197801/photo/1",
+              "media_key": "3_2098929787893116928",
+              "start": 7,
+              "url": "https://t.co/0a1QgVvBMJ"
+            },
+            {
+              "display_url": "pic.x.com/0a1QgVvBMJ",
+              "end": 30,
+              "expanded_url": "https://x.com/ayanoyzz/status/2098929795753197801/photo/1",
+              "media_key": "3_2098929787905720320",
+              "start": 7,
+              "url": "https://t.co/0a1QgVvBMJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098929795753197801",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2098929787893116928"
+          },
+          {
+            "media_key": "3_2098929787905720320"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "初次\n#od https://t.co/0a1QgVvBMJ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-28T15:44:58.000Z",
+        "description": "要升天了呢(´♡ω♡`)（病嬌/地雷~）\n抑鬱焦慮會/割 喔\n跟我聊天要先看自介噢 \n前世 @yshidhe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 46,
+                "username": "yshidhe"
+              }
+            ]
+          }
+        },
+        "id": "1674081369830436864",
+        "is_identity_verified": false,
+        "location": "在你心中",
+        "most_recent_tweet_id": "2098954608815358049",
+        "name": "ゆうく；已壊掉2.0",
+        "pinned_tweet_id": "2094754303491850311",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1674081369830436864/1787708588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065587970690998272/p_gIuBa4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 563,
+          "following_count": 42,
+          "like_count": 2696,
+          "listed_count": 1,
+          "media_count": 86,
+          "tweet_count": 1687
+        },
+        "url": "",
+        "username": "yshidhe3",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-02-04T07:16:29.000Z",
+        "description": "三次蝻过敏😔\n台湾人用简中致歉\n可以叫我布丁/团/白糰糰\n08/10/07 ｜双向｜🈹🈹｜od新手｜宅\n欢迎来到咪的小天地\n有🔞暴言/垃圾言論/自殘预警",
+        "id": "2018946704083673088",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098930641161388133",
+        "name": "布丁要搅",
+        "pinned_tweet_id": "2096474335859056944",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2018946704083673088/1785850694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094793158416871424/o2XKPqCE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 59,
+          "like_count": 1298,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 163
+        },
+        "url": "",
+        "username": "ayanoyzz",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

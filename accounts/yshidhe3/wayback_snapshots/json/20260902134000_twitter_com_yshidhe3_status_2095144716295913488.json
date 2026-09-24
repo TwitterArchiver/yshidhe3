@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1674081369830436864",
+    "conversation_id": "2095131968417796155",
+    "created_at": "2026-09-02T13:40:00.000Z",
+    "display_text_range": [
+      17,
+      50
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T14:40:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095144716295913488"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1491744554403303429",
+          "start": 0,
+          "username": "ShinoAyatsuki49"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095144716295913488",
+    "in_reply_to_user_id": "1491744554403303429",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095135644611973123",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ShinoAyatsuki49 反正我當時說了願意改 那麼既然他不願意就算了吧 反正現在這樣也挺好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1674081369830436864",
+        "conversation_id": "2095131968417796155",
+        "created_at": "2026-09-02T13:40:00.000Z",
+        "display_text_range": [
+          17,
+          50
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T14:40:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095144716295913488"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1491744554403303429",
+              "start": 0,
+              "username": "ShinoAyatsuki49"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095144716295913488",
+        "in_reply_to_user_id": "1491744554403303429",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095135644611973123",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ShinoAyatsuki49 反正我當時說了願意改 那麼既然他不願意就算了吧 反正現在這樣也挺好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1491744554403303429",
+        "conversation_id": "2095131968417796155",
+        "created_at": "2026-09-02T13:03:58.000Z",
+        "display_text_range": [
+          10,
+          78
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T14:03:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095135644611973123"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1674081369830436864",
+              "start": 0,
+              "username": "yshidhe3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095135644611973123",
+        "in_reply_to_user_id": "1674081369830436864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095131968417796155",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yshidhe3 簡單說是情人的佔有慾（吃醋）\n你有不能退讓的理由\n也是生活所壓迫\n看個人吧\n沒有誰對誰錯\n只有當下立場和想法而已\n事情都發生了就這樣咩～"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-28T15:44:58.000Z",
+        "description": "要升天了呢(´♡ω♡`)（病嬌/地雷~）\n抑鬱焦慮會/割 喔\n跟我聊天要先看自介噢 \n前世 @yshidhe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 46,
+                "username": "yshidhe"
+              }
+            ]
+          }
+        },
+        "id": "1674081369830436864",
+        "is_identity_verified": false,
+        "location": "在你心中",
+        "most_recent_tweet_id": "2095144716295913488",
+        "name": "ゆうく；已壊掉2.0",
+        "pinned_tweet_id": "2094754303491850311",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1674081369830436864/1787708588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065587970690998272/p_gIuBa4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 514,
+          "following_count": 36,
+          "like_count": 2242,
+          "listed_count": 0,
+          "media_count": 93,
+          "tweet_count": 1424
+        },
+        "url": "",
+        "username": "yshidhe3",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-02-10T12:03:36.000Z",
+        "description": "一個玩音遊精神狀態良好的大學牲（？）\n我要狂玩音遊啦（？\n錢包越來越扁，學校的土好像越來越香了欸（#",
+        "id": "1491744554403303429",
+        "is_identity_verified": false,
+        "location": "Changhua County, Taiwan",
+        "most_recent_tweet_id": "2095135644611973123",
+        "name": "神野綾月 Ayatsuki",
+        "pinned_tweet_id": "1741984736996962683",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1491744554403303429/1713324898",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927209268043739136/EIRV2vE3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 93,
+          "like_count": 733,
+          "listed_count": 1,
+          "media_count": 420,
+          "tweet_count": 1122
+        },
+        "url": "",
+        "username": "ShinoAyatsuki49",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

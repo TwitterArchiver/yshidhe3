@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1674081369830436864",
+    "conversation_id": "2095475620599984249",
+    "created_at": "2026-09-04T08:02:13.000Z",
+    "display_text_range": [
+      17,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-04T09:02:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095784484478362020"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2341710912",
+          "start": 0,
+          "username": "loveluluandmomo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095784484478362020",
+    "in_reply_to_user_id": "2341710912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095782819037671731",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@loveluluandmomo 原來如此"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1674081369830436864",
+        "conversation_id": "2095475620599984249",
+        "created_at": "2026-09-04T08:02:13.000Z",
+        "display_text_range": [
+          17,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T09:02:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095784484478362020"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2341710912",
+              "start": 0,
+              "username": "loveluluandmomo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095784484478362020",
+        "in_reply_to_user_id": "2341710912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095782819037671731",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@loveluluandmomo 原來如此"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2341710912",
+        "conversation_id": "2095475620599984249",
+        "created_at": "2026-09-04T07:55:36.000Z",
+        "display_text_range": [
+          10,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T08:55:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095782819037671731"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1674081369830436864",
+              "start": 0,
+              "username": "yshidhe3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095782819037671731",
+        "in_reply_to_user_id": "1674081369830436864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095475620599984249",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yshidhe3 不能否認，妳所說的會是其目的之一"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-28T15:44:58.000Z",
+        "description": "要升天了呢(´♡ω♡`)（病嬌/地雷~）\n抑鬱焦慮會/割 喔\n跟我聊天要先看自介噢 \n前世 @yshidhe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 46,
+                "username": "yshidhe"
+              }
+            ]
+          }
+        },
+        "id": "1674081369830436864",
+        "is_identity_verified": false,
+        "location": "在你心中",
+        "most_recent_tweet_id": "2095784484478362020",
+        "name": "ゆうく；已壊掉2.0",
+        "pinned_tweet_id": "2094754303491850311",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1674081369830436864/1787708588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065587970690998272/p_gIuBa4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 533,
+          "following_count": 38,
+          "like_count": 2333,
+          "listed_count": 0,
+          "media_count": 82,
+          "tweet_count": 1495
+        },
+        "url": "",
+        "username": "yshidhe3",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2014-02-13T09:47:18.000Z",
+        "description": "INFP。是個大叔。微S。不菸、小酌、不檳榔、不違禁品。無不良嗜好。\n\n好看的皮囊千篇一律，有趣的靈魂萬裡挑一。\n\n最好的春藥就是想像力，大腦才是人類最大的性器官。\n\n自評：\n此人好色，風流不下流。不專一，非單，異性戀，生人勿近。",
+        "id": "2341710912",
+        "is_identity_verified": false,
+        "location": "Taiwan",
+        "most_recent_tweet_id": "2095784306463687079",
+        "name": "幹話大叔",
+        "pinned_tweet_id": "2083469261729874419",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2341710912/1781537096",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095708681111588864/qpxMDkbZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 122,
+          "following_count": 1202,
+          "like_count": 9758,
+          "listed_count": 1,
+          "media_count": 18,
+          "tweet_count": 1315
+        },
+        "url": "",
+        "username": "loveluluandmomo",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

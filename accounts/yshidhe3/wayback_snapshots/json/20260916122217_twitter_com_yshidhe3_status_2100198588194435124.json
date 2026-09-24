@@ -1,0 +1,426 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2097370996835790848",
+        "3_2097370996831641600",
+        "3_2097370996840030208",
+        "3_2097370996831653888"
+      ],
+      "media_source_tweet_id": [
+        "2097371007887786059",
+        "2097371007887786059",
+        "2097371007887786059",
+        "2097371007887786059"
+      ]
+    },
+    "author_id": "1674081369830436864",
+    "conversation_id": "2100198588194435124",
+    "created_at": "2026-09-16T12:22:17.000Z",
+    "display_text_range": [
+      0,
+      75
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-16T13:22:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100198588194435124"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "3319472470",
+          "start": 3,
+          "username": "jgalt6677"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/QRpX9RAZna",
+          "end": 75,
+          "expanded_url": "https://x.com/jgalt6677/status/2097371007887786059/photo/1",
+          "media_key": "3_2097370996835790848",
+          "start": 52,
+          "url": "https://t.co/QRpX9RAZna"
+        },
+        {
+          "display_url": "pic.x.com/QRpX9RAZna",
+          "end": 75,
+          "expanded_url": "https://x.com/jgalt6677/status/2097371007887786059/photo/1",
+          "media_key": "3_2097370996831641600",
+          "start": 52,
+          "url": "https://t.co/QRpX9RAZna"
+        },
+        {
+          "display_url": "pic.x.com/QRpX9RAZna",
+          "end": 75,
+          "expanded_url": "https://x.com/jgalt6677/status/2097371007887786059/photo/1",
+          "media_key": "3_2097370996840030208",
+          "start": 52,
+          "url": "https://t.co/QRpX9RAZna"
+        },
+        {
+          "display_url": "pic.x.com/QRpX9RAZna",
+          "end": 75,
+          "expanded_url": "https://x.com/jgalt6677/status/2097371007887786059/photo/1",
+          "media_key": "3_2097370996831653888",
+          "start": 52,
+          "url": "https://t.co/QRpX9RAZna"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100198588194435124",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2097370996835790848"
+      },
+      {
+        "media_key": "3_2097370996831641600"
+      },
+      {
+        "media_key": "3_2097370996840030208"
+      },
+      {
+        "media_key": "3_2097370996831653888"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 24
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097371007887786059",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jgalt6677: 置顶🔝\n这里小痛，想了解我的可以发私信，都会回复，欢迎女宝互fo～^ ^ https://t.co/QRpX9RAZna"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2097370996835790848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRtbzyyasAACTZk.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1558,
+        "media_key": "3_2097370996831641600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRtbzyxbYAA7jVK.jpg",
+        "width": 1179
+      },
+      {
+        "height": 1555,
+        "media_key": "3_2097370996840030208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRtbzyzbYAAeGIe.jpg",
+        "width": 1179
+      },
+      {
+        "height": 1315,
+        "media_key": "3_2097370996831653888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRtbzyxbkAAtJvX.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097370996835790848",
+            "3_2097370996831641600",
+            "3_2097370996840030208",
+            "3_2097370996831653888"
+          ],
+          "media_source_tweet_id": [
+            "2097371007887786059",
+            "2097371007887786059",
+            "2097371007887786059",
+            "2097371007887786059"
+          ]
+        },
+        "author_id": "1674081369830436864",
+        "conversation_id": "2100198588194435124",
+        "created_at": "2026-09-16T12:22:17.000Z",
+        "display_text_range": [
+          0,
+          75
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T13:22:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100198588194435124"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "3319472470",
+              "start": 3,
+              "username": "jgalt6677"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QRpX9RAZna",
+              "end": 75,
+              "expanded_url": "https://x.com/jgalt6677/status/2097371007887786059/photo/1",
+              "media_key": "3_2097370996835790848",
+              "start": 52,
+              "url": "https://t.co/QRpX9RAZna"
+            },
+            {
+              "display_url": "pic.x.com/QRpX9RAZna",
+              "end": 75,
+              "expanded_url": "https://x.com/jgalt6677/status/2097371007887786059/photo/1",
+              "media_key": "3_2097370996831641600",
+              "start": 52,
+              "url": "https://t.co/QRpX9RAZna"
+            },
+            {
+              "display_url": "pic.x.com/QRpX9RAZna",
+              "end": 75,
+              "expanded_url": "https://x.com/jgalt6677/status/2097371007887786059/photo/1",
+              "media_key": "3_2097370996840030208",
+              "start": 52,
+              "url": "https://t.co/QRpX9RAZna"
+            },
+            {
+              "display_url": "pic.x.com/QRpX9RAZna",
+              "end": 75,
+              "expanded_url": "https://x.com/jgalt6677/status/2097371007887786059/photo/1",
+              "media_key": "3_2097370996831653888",
+              "start": 52,
+              "url": "https://t.co/QRpX9RAZna"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100198588194435124",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2097370996835790848"
+          },
+          {
+            "media_key": "3_2097370996831641600"
+          },
+          {
+            "media_key": "3_2097370996840030208"
+          },
+          {
+            "media_key": "3_2097370996831653888"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 24
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097371007887786059",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jgalt6677: 置顶🔝\n这里小痛，想了解我的可以发私信，都会回复，欢迎女宝互fo～^ ^ https://t.co/QRpX9RAZna"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097370996835790848",
+            "3_2097370996831641600",
+            "3_2097370996840030208",
+            "3_2097370996831653888"
+          ]
+        },
+        "author_id": "3319472470",
+        "conversation_id": "2097371007887786059",
+        "created_at": "2026-09-08T17:06:30.000Z",
+        "display_text_range": [
+          0,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T18:06:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097371007887786059"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QRpX9RAZna",
+              "end": 60,
+              "expanded_url": "https://x.com/jgalt6677/status/2097371007887786059/photo/1",
+              "media_key": "3_2097370996835790848",
+              "start": 37,
+              "url": "https://t.co/QRpX9RAZna"
+            },
+            {
+              "display_url": "pic.x.com/QRpX9RAZna",
+              "end": 60,
+              "expanded_url": "https://x.com/jgalt6677/status/2097371007887786059/photo/1",
+              "media_key": "3_2097370996831641600",
+              "start": 37,
+              "url": "https://t.co/QRpX9RAZna"
+            },
+            {
+              "display_url": "pic.x.com/QRpX9RAZna",
+              "end": 60,
+              "expanded_url": "https://x.com/jgalt6677/status/2097371007887786059/photo/1",
+              "media_key": "3_2097370996840030208",
+              "start": 37,
+              "url": "https://t.co/QRpX9RAZna"
+            },
+            {
+              "display_url": "pic.x.com/QRpX9RAZna",
+              "end": 60,
+              "expanded_url": "https://x.com/jgalt6677/status/2097371007887786059/photo/1",
+              "media_key": "3_2097370996831653888",
+              "start": 37,
+              "url": "https://t.co/QRpX9RAZna"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097371007887786059",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2097370996835790848"
+          },
+          {
+            "media_key": "3_2097370996831641600"
+          },
+          {
+            "media_key": "3_2097370996840030208"
+          },
+          {
+            "media_key": "3_2097370996831653888"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 4257,
+          "like_count": 35,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 24
+        },
+        "reply_settings": "everyone",
+        "text": "置顶🔝\n这里小痛，想了解我的可以发私信，都会回复，欢迎女宝互fo～^ ^ https://t.co/QRpX9RAZna"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-28T15:44:58.000Z",
+        "description": "要升天了呢(´♡ω♡`)（病嬌/地雷~）\n抑鬱焦慮會/割 喔\n跟我聊天要先看自介噢 現在什麼都不接\n前世 @yshidhe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 53,
+                "username": "yshidhe"
+              }
+            ]
+          }
+        },
+        "id": "1674081369830436864",
+        "is_identity_verified": false,
+        "location": "在你心中",
+        "most_recent_tweet_id": "2100198588194435124",
+        "name": "ゆうく；已壊掉2.0",
+        "pinned_tweet_id": "2094754303491850311",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1674081369830436864/1787708588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065587970690998272/p_gIuBa4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 582,
+          "following_count": 45,
+          "like_count": 2852,
+          "listed_count": 1,
+          "media_count": 88,
+          "tweet_count": 1784
+        },
+        "url": "",
+        "username": "yshidhe3",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2015-06-11T18:48:09.000Z",
+        "description": "ip上海 19 160 90 🚪188/288/520/1314 口令优先 可验证",
+        "id": "3319472470",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100167222673195333",
+        "name": "小痛",
+        "pinned_tweet_id": "2097371007887786059",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097364056386805761/l00LFu7n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 196,
+          "following_count": 14,
+          "like_count": 62,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 89
+        },
+        "url": "",
+        "username": "jgalt6677",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

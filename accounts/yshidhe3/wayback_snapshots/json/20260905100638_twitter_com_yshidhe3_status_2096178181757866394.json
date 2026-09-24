@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2096178129807241216"
+      ]
+    },
+    "author_id": "1674081369830436864",
+    "conversation_id": "2096178181757866394",
+    "created_at": "2026-09-05T10:06:38.000Z",
+    "display_text_range": [
+      0,
+      3
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T11:06:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2096178181757866394"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/8Cz4qtQFfJ",
+          "end": 27,
+          "expanded_url": "https://x.com/yshidhe3/status/2096178181757866394/photo/1",
+          "media_key": "3_2096178129807241216",
+          "start": 4,
+          "url": "https://t.co/8Cz4qtQFfJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096178181757866394",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2096178129807241216"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "有病吧 https://t.co/8Cz4qtQFfJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2391,
+        "media_key": "3_2096178129807241216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRce5y0acAA5L5j.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096178129807241216"
+          ]
+        },
+        "author_id": "1674081369830436864",
+        "conversation_id": "2096178181757866394",
+        "created_at": "2026-09-05T10:06:38.000Z",
+        "display_text_range": [
+          0,
+          3
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T11:06:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096178181757866394"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8Cz4qtQFfJ",
+              "end": 27,
+              "expanded_url": "https://x.com/yshidhe3/status/2096178181757866394/photo/1",
+              "media_key": "3_2096178129807241216",
+              "start": 4,
+              "url": "https://t.co/8Cz4qtQFfJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096178181757866394",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096178129807241216"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有病吧 https://t.co/8Cz4qtQFfJ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-28T15:44:58.000Z",
+        "description": "要升天了呢(´♡ω♡`)（病嬌/地雷~）\n抑鬱焦慮會/割 喔\n跟我聊天要先看自介噢 \n前世 @yshidhe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 46,
+                "username": "yshidhe"
+              }
+            ]
+          }
+        },
+        "id": "1674081369830436864",
+        "is_identity_verified": false,
+        "location": "在你心中",
+        "most_recent_tweet_id": "2096178181757866394",
+        "name": "ゆうく；已壊掉2.0",
+        "pinned_tweet_id": "2094754303491850311",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1674081369830436864/1787708588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065587970690998272/p_gIuBa4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 533,
+          "following_count": 39,
+          "like_count": 2376,
+          "listed_count": 0,
+          "media_count": 83,
+          "tweet_count": 1524
+        },
+        "url": "",
+        "username": "yshidhe3",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

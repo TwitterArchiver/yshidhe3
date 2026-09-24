@@ -1,0 +1,330 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2100367218060222464"
+      ],
+      "media_source_tweet_id": [
+        "2100367223932301610"
+      ]
+    },
+    "author_id": "1674081369830436864",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2100534185551425781",
+    "created_at": "2026-09-17T10:35:50.000Z",
+    "display_text_range": [
+      0,
+      48
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T11:35:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100534185551425781"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1934688760723329025",
+          "start": 3,
+          "username": "lenbldg"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/lmZDCIXKcS",
+          "end": 48,
+          "expanded_url": "https://x.com/lenbldg/status/2100367223932301610/photo/1",
+          "media_key": "3_2100367218060222464",
+          "start": 25,
+          "url": "https://t.co/lmZDCIXKcS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100534185551425781",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2100367218060222464"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100367223932301610",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lenbldg: 看成分回fo、互fo私 https://t.co/lmZDCIXKcS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2100367218060222464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSYA20pa4AApQx3.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100367218060222464"
+          ],
+          "media_source_tweet_id": [
+            "2100367223932301610"
+          ]
+        },
+        "author_id": "1674081369830436864",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2100534185551425781",
+        "created_at": "2026-09-17T10:35:50.000Z",
+        "display_text_range": [
+          0,
+          48
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T11:35:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100534185551425781"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1934688760723329025",
+              "start": 3,
+              "username": "lenbldg"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lmZDCIXKcS",
+              "end": 48,
+              "expanded_url": "https://x.com/lenbldg/status/2100367223932301610/photo/1",
+              "media_key": "3_2100367218060222464",
+              "start": 25,
+              "url": "https://t.co/lmZDCIXKcS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100534185551425781",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2100367218060222464"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100367223932301610",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lenbldg: 看成分回fo、互fo私 https://t.co/lmZDCIXKcS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100367218060222464"
+          ]
+        },
+        "author_id": "1934688760723329025",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2100367223932301610",
+        "created_at": "2026-09-16T23:32:23.000Z",
+        "display_text_range": [
+          0,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T00:32:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100367223932301610"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lmZDCIXKcS",
+              "end": 35,
+              "expanded_url": "https://x.com/lenbldg/status/2100367223932301610/photo/1",
+              "media_key": "3_2100367218060222464",
+              "start": 12,
+              "url": "https://t.co/lmZDCIXKcS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100367223932301610",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2100367218060222464"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "看成分回fo、互fo私 https://t.co/lmZDCIXKcS"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-28T15:44:58.000Z",
+        "description": "要升天了呢(´♡ω♡`)（病嬌/地雷~）\n抑鬱焦慮會/割 喔\n跟我聊天要先看自介噢 現在什麼都不接\n前世 @yshidhe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 53,
+                "username": "yshidhe"
+              }
+            ]
+          }
+        },
+        "id": "1674081369830436864",
+        "is_identity_verified": false,
+        "location": "在你心中",
+        "most_recent_tweet_id": "2100534185551425781",
+        "name": "ゆうく；已壊掉2.0",
+        "pinned_tweet_id": "2094754303491850311",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1674081369830436864/1787708588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065587970690998272/p_gIuBa4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 585,
+          "following_count": 45,
+          "like_count": 2868,
+          "listed_count": 1,
+          "media_count": 88,
+          "tweet_count": 1794
+        },
+        "url": "",
+        "username": "yshidhe3",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-06-16T19:05:41.000Z",
+        "description": "討厭☄指手畫腳的人\n‼️ღ詳介見置頂*੭\n🔪💊❤️\n友+(⁎˃ᆺ˂)\n\n帳→抱怨、視姦、發瘋、看老婆🩷\n\n好習慣→常點❤️\n壞習慣→不常留言\n希望大家也有好習慣哦❤️\n\n網上活躍*੭\n情緒保護☂\n\n(´ω｀)ゞ因為其實不太會聊天的\n尤其不會開話題(◞‸◟)",
+        "id": "1934688760723329025",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100505514266513497",
+        "name": "菲yan*੭",
+        "pinned_tweet_id": "2100367223932301610",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1934688760723329025/1789144097",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100002095265120256/giY7bFLx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 9,
+          "like_count": 4008,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 55
+        },
+        "url": "",
+        "username": "lenbldg",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

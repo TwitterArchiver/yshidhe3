@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2099141356497375232"
+      ]
+    },
+    "author_id": "1674081369830436864",
+    "conversation_id": "2099141363585741152",
+    "created_at": "2026-09-13T14:21:15.000Z",
+    "display_text_range": [
+      0,
+      76
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-13T15:21:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2099141363585741152"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZkliFFu8jw",
+          "end": 100,
+          "expanded_url": "https://x.com/yshidhe3/status/2099141363585741152/photo/1",
+          "media_key": "3_2099141356497375232",
+          "start": 77,
+          "url": "https://t.co/ZkliFFu8jw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099141363585741152",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2099141356497375232"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "才玩2天\n打boss卡1小時\n被機關鎖在房間打小怪 卡半小時\n這樣算已經有3小時都在卡關了呢( ´▽｀)\n可玩性超高的\n感覺我能玩超久 很爽(*≧ω≦) https://t.co/ZkliFFu8jw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 458,
+        "media_key": "3_2099141356497375232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSGl8SdbkAAmP7r.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099141356497375232"
+          ]
+        },
+        "author_id": "1674081369830436864",
+        "conversation_id": "2099141363585741152",
+        "created_at": "2026-09-13T14:21:15.000Z",
+        "display_text_range": [
+          0,
+          76
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T15:21:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099141363585741152"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZkliFFu8jw",
+              "end": 100,
+              "expanded_url": "https://x.com/yshidhe3/status/2099141363585741152/photo/1",
+              "media_key": "3_2099141356497375232",
+              "start": 77,
+              "url": "https://t.co/ZkliFFu8jw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099141363585741152",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2099141356497375232"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "才玩2天\n打boss卡1小時\n被機關鎖在房間打小怪 卡半小時\n這樣算已經有3小時都在卡關了呢( ´▽｀)\n可玩性超高的\n感覺我能玩超久 很爽(*≧ω≦) https://t.co/ZkliFFu8jw"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-28T15:44:58.000Z",
+        "description": "要升天了呢(´♡ω♡`)（病嬌/地雷~）\n抑鬱焦慮會/割 喔\n跟我聊天要先看自介噢 \n前世 @yshidhe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 46,
+                "username": "yshidhe"
+              }
+            ]
+          }
+        },
+        "id": "1674081369830436864",
+        "is_identity_verified": false,
+        "location": "在你心中",
+        "most_recent_tweet_id": "2099141363585741152",
+        "name": "ゆうく；已壊掉2.0",
+        "pinned_tweet_id": "2094754303491850311",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1674081369830436864/1787708588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065587970690998272/p_gIuBa4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 566,
+          "following_count": 42,
+          "like_count": 2715,
+          "listed_count": 1,
+          "media_count": 88,
+          "tweet_count": 1699
+        },
+        "url": "",
+        "username": "yshidhe3",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

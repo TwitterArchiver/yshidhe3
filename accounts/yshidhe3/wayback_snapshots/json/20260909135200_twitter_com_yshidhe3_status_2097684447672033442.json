@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1674081369830436864",
+    "conversation_id": "2097650488124858758",
+    "created_at": "2026-09-09T13:52:00.000Z",
+    "display_text_range": [
+      15,
+      37
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-09T14:52:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097684447672033442"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2044097883503243264",
+          "start": 0,
+          "username": "Astraea270371"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097684447672033442",
+    "in_reply_to_user_id": "2044097883503243264",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097664754240418135",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Astraea270371 不開心不也一樣傷身體嗎？至少我這樣是開心的吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1674081369830436864",
+        "conversation_id": "2097650488124858758",
+        "created_at": "2026-09-09T13:52:00.000Z",
+        "display_text_range": [
+          15,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T14:52:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097684447672033442"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2044097883503243264",
+              "start": 0,
+              "username": "Astraea270371"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097684447672033442",
+        "in_reply_to_user_id": "2044097883503243264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097664754240418135",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Astraea270371 不開心不也一樣傷身體嗎？至少我這樣是開心的吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044097883503243264",
+        "conversation_id": "2097650488124858758",
+        "created_at": "2026-09-09T12:33:44.000Z",
+        "display_text_range": [
+          10,
+          48
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T13:33:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097664754240418135"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1674081369830436864",
+              "start": 0,
+              "username": "yshidhe3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097664754240418135",
+        "in_reply_to_user_id": "1674081369830436864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097664482042675552",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yshidhe3 的确痛苦能给人带来快感呢，这正如有人喜欢SM一样，但是割的话还是太伤身体了啊"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-28T15:44:58.000Z",
+        "description": "要升天了呢(´♡ω♡`)（病嬌/地雷~）\n抑鬱焦慮會/割 喔\n跟我聊天要先看自介噢 \n前世 @yshidhe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 46,
+                "username": "yshidhe"
+              }
+            ]
+          }
+        },
+        "id": "1674081369830436864",
+        "is_identity_verified": false,
+        "location": "在你心中",
+        "most_recent_tweet_id": "2097684447672033442",
+        "name": "ゆうく；已壊掉2.0",
+        "pinned_tweet_id": "2094754303491850311",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1674081369830436864/1787708588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065587970690998272/p_gIuBa4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 552,
+          "following_count": 39,
+          "like_count": 2570,
+          "listed_count": 0,
+          "media_count": 83,
+          "tweet_count": 1641
+        },
+        "url": "",
+        "username": "yshidhe3",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-14T16:58:31.000Z",
+        "description": "",
+        "id": "2044097883503243264",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097682615079981133",
+        "name": "Astraea",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083768708095238144/3_h0NVED_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138,
+          "following_count": 2398,
+          "like_count": 303,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 696
+        },
+        "url": "",
+        "username": "Astraea270371",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

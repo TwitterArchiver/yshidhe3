@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2094704722255261696"
+      ]
+    },
+    "author_id": "1674081369830436864",
+    "conversation_id": "2094705471018152146",
+    "created_at": "2026-09-01T08:34:36.000Z",
+    "display_text_range": [
+      0,
+      27
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-01T09:31:40.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2094704732115960107",
+      "2094705471018152146"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/PGut5jjRMk",
+          "end": 51,
+          "expanded_url": "https://x.com/yshidhe3/status/2094705471018152146/photo/1",
+          "media_key": "3_2094704722255261696",
+          "start": 28,
+          "url": "https://t.co/PGut5jjRMk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094705471018152146",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2094704722255261696"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 4,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我怎麼弄成這樣了？？\n應該怎麼弄？\n求教(T ^ T) https://t.co/PGut5jjRMk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1980,
+        "media_key": "3_2094704722255261696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRHi2L9bsAAddqs.jpg",
+        "width": 1439
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094704722255261696"
+          ]
+        },
+        "author_id": "1674081369830436864",
+        "conversation_id": "2094704732115960107",
+        "created_at": "2026-09-01T08:31:40.000Z",
+        "display_text_range": [
+          0,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T09:31:40.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094704732115960107",
+          "2094705471018152146"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qfFvEkqlXd",
+              "end": 41,
+              "expanded_url": "https://x.com/yshidhe3/status/2094704732115960107/photo/1",
+              "media_key": "3_2094704722255261696",
+              "start": 18,
+              "url": "https://t.co/qfFvEkqlXd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094704732115960107",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2094704722255261696"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我怎麼弄成這樣了？？\n應該怎麼弄？ https://t.co/qfFvEkqlXd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094704722255261696"
+          ]
+        },
+        "author_id": "1674081369830436864",
+        "conversation_id": "2094705471018152146",
+        "created_at": "2026-09-01T08:34:36.000Z",
+        "display_text_range": [
+          0,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T09:31:40.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094704732115960107",
+          "2094705471018152146"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PGut5jjRMk",
+              "end": 51,
+              "expanded_url": "https://x.com/yshidhe3/status/2094705471018152146/photo/1",
+              "media_key": "3_2094704722255261696",
+              "start": 28,
+              "url": "https://t.co/PGut5jjRMk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094705471018152146",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2094704722255261696"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我怎麼弄成這樣了？？\n應該怎麼弄？\n求教(T ^ T) https://t.co/PGut5jjRMk"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-28T15:44:58.000Z",
+        "description": "要升天了呢(´♡ω♡`)（病嬌/地雷~）\n抑鬱焦慮會/割 喔\n跟我聊天要先看自介噢 \n前世 @yshidhe 不接 沒門",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 46,
+                "username": "yshidhe"
+              }
+            ]
+          }
+        },
+        "id": "1674081369830436864",
+        "is_identity_verified": false,
+        "location": "在你心中",
+        "most_recent_tweet_id": "2094705471018152146",
+        "name": "ゆうく；已壊掉2.0",
+        "pinned_tweet_id": "2093620803019604117",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1674081369830436864/1787708588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065587970690998272/p_gIuBa4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 500,
+          "following_count": 36,
+          "like_count": 2137,
+          "listed_count": 0,
+          "media_count": 81,
+          "tweet_count": 1337
+        },
+        "url": "",
+        "username": "yshidhe3",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

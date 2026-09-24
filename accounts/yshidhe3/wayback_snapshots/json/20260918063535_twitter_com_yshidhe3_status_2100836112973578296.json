@@ -1,0 +1,477 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2097879981934465024",
+        "3_2097879981942792192",
+        "3_2097879981972172800"
+      ],
+      "media_source_tweet_id": [
+        "2097879992432730510",
+        "2097879992432730510",
+        "2097879992432730510"
+      ]
+    },
+    "author_id": "1674081369830436864",
+    "conversation_id": "2100836112973578296",
+    "created_at": "2026-09-18T06:35:35.000Z",
+    "display_text_range": [
+      0,
+      106
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T07:35:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100836112973578296"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 62,
+          "start": 59,
+          "tag": "纯绿"
+        },
+        {
+          "end": 66,
+          "start": 63,
+          "tag": "半绿"
+        },
+        {
+          "end": 70,
+          "start": 67,
+          "tag": "门槛"
+        },
+        {
+          "end": 74,
+          "start": 71,
+          "tag": "线下"
+        },
+        {
+          "end": 78,
+          "start": 75,
+          "tag": "广州"
+        },
+        {
+          "end": 82,
+          "start": 79,
+          "tag": "金主"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2016527208198836225",
+          "start": 3,
+          "username": "sad010046424240"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zuGZwji8mK",
+          "end": 106,
+          "expanded_url": "https://x.com/sad010046424240/status/2097879992432730510/photo/1",
+          "media_key": "3_2097879981934465024",
+          "start": 83,
+          "url": "https://t.co/zuGZwji8mK"
+        },
+        {
+          "display_url": "pic.x.com/zuGZwji8mK",
+          "end": 106,
+          "expanded_url": "https://x.com/sad010046424240/status/2097879992432730510/photo/1",
+          "media_key": "3_2097879981942792192",
+          "start": 83,
+          "url": "https://t.co/zuGZwji8mK"
+        },
+        {
+          "display_url": "pic.x.com/zuGZwji8mK",
+          "end": 106,
+          "expanded_url": "https://x.com/sad010046424240/status/2097879992432730510/photo/1",
+          "media_key": "3_2097879981972172800",
+          "start": 83,
+          "url": "https://t.co/zuGZwji8mK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100836112973578296",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2097879981934465024"
+      },
+      {
+        "media_key": "3_2097879981942792192"
+      },
+      {
+        "media_key": "3_2097879981972172800"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 22
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097879992432730510",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sad010046424240: 08年坐标广州 喜欢我请给我钱^ ^\n有意向欢迎私信 只收zfb口令红包喔\n#纯绿 #半绿 #门槛 #线下 #广州 #金主 https://t.co/zuGZwji8mK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2097879981934465024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR0quoCbUAAI6Ua.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2097879981942792192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR0quoEaYAAWp79.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2097879981972172800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR0quoLasAALr1I.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097879981934465024",
+            "3_2097879981942792192",
+            "3_2097879981972172800"
+          ],
+          "media_source_tweet_id": [
+            "2097879992432730510",
+            "2097879992432730510",
+            "2097879992432730510"
+          ]
+        },
+        "author_id": "1674081369830436864",
+        "conversation_id": "2100836112973578296",
+        "created_at": "2026-09-18T06:35:35.000Z",
+        "display_text_range": [
+          0,
+          106
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T07:35:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100836112973578296"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 62,
+              "start": 59,
+              "tag": "纯绿"
+            },
+            {
+              "end": 66,
+              "start": 63,
+              "tag": "半绿"
+            },
+            {
+              "end": 70,
+              "start": 67,
+              "tag": "门槛"
+            },
+            {
+              "end": 74,
+              "start": 71,
+              "tag": "线下"
+            },
+            {
+              "end": 78,
+              "start": 75,
+              "tag": "广州"
+            },
+            {
+              "end": 82,
+              "start": 79,
+              "tag": "金主"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2016527208198836225",
+              "start": 3,
+              "username": "sad010046424240"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zuGZwji8mK",
+              "end": 106,
+              "expanded_url": "https://x.com/sad010046424240/status/2097879992432730510/photo/1",
+              "media_key": "3_2097879981934465024",
+              "start": 83,
+              "url": "https://t.co/zuGZwji8mK"
+            },
+            {
+              "display_url": "pic.x.com/zuGZwji8mK",
+              "end": 106,
+              "expanded_url": "https://x.com/sad010046424240/status/2097879992432730510/photo/1",
+              "media_key": "3_2097879981942792192",
+              "start": 83,
+              "url": "https://t.co/zuGZwji8mK"
+            },
+            {
+              "display_url": "pic.x.com/zuGZwji8mK",
+              "end": 106,
+              "expanded_url": "https://x.com/sad010046424240/status/2097879992432730510/photo/1",
+              "media_key": "3_2097879981972172800",
+              "start": 83,
+              "url": "https://t.co/zuGZwji8mK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100836112973578296",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2097879981934465024"
+          },
+          {
+            "media_key": "3_2097879981942792192"
+          },
+          {
+            "media_key": "3_2097879981972172800"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 22
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097879992432730510",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sad010046424240: 08年坐标广州 喜欢我请给我钱^ ^\n有意向欢迎私信 只收zfb口令红包喔\n#纯绿 #半绿 #门槛 #线下 #广州 #金主 https://t.co/zuGZwji8mK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097879981934465024",
+            "3_2097879981942792192",
+            "3_2097879981972172800"
+          ]
+        },
+        "author_id": "2016527208198836225",
+        "conversation_id": "2097879992432730510",
+        "created_at": "2026-09-10T02:49:01.000Z",
+        "display_text_range": [
+          0,
+          61
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T03:49:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097879992432730510"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 41,
+              "start": 38,
+              "tag": "纯绿"
+            },
+            {
+              "end": 45,
+              "start": 42,
+              "tag": "半绿"
+            },
+            {
+              "end": 49,
+              "start": 46,
+              "tag": "门槛"
+            },
+            {
+              "end": 53,
+              "start": 50,
+              "tag": "线下"
+            },
+            {
+              "end": 57,
+              "start": 54,
+              "tag": "广州"
+            },
+            {
+              "end": 61,
+              "start": 58,
+              "tag": "金主"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zuGZwji8mK",
+              "end": 85,
+              "expanded_url": "https://x.com/sad010046424240/status/2097879992432730510/photo/1",
+              "media_key": "3_2097879981934465024",
+              "start": 62,
+              "url": "https://t.co/zuGZwji8mK"
+            },
+            {
+              "display_url": "pic.x.com/zuGZwji8mK",
+              "end": 85,
+              "expanded_url": "https://x.com/sad010046424240/status/2097879992432730510/photo/1",
+              "media_key": "3_2097879981942792192",
+              "start": 62,
+              "url": "https://t.co/zuGZwji8mK"
+            },
+            {
+              "display_url": "pic.x.com/zuGZwji8mK",
+              "end": 85,
+              "expanded_url": "https://x.com/sad010046424240/status/2097879992432730510/photo/1",
+              "media_key": "3_2097879981972172800",
+              "start": 62,
+              "url": "https://t.co/zuGZwji8mK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097879992432730510",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2097879981934465024"
+          },
+          {
+            "media_key": "3_2097879981942792192"
+          },
+          {
+            "media_key": "3_2097879981972172800"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 3328,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 22
+        },
+        "reply_settings": "everyone",
+        "text": "08年坐标广州 喜欢我请给我钱^ ^\n有意向欢迎私信 只收zfb口令红包喔\n#纯绿 #半绿 #门槛 #线下 #广州 #金主 https://t.co/zuGZwji8mK"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-28T15:44:58.000Z",
+        "description": "要升天了呢(´♡ω♡`)（病嬌/地雷~）\n抑鬱焦慮會/割 喔\n跟我聊天要先看自介噢 現在什麼都不接\n前世 @yshidhe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 53,
+                "username": "yshidhe"
+              }
+            ]
+          }
+        },
+        "id": "1674081369830436864",
+        "is_identity_verified": false,
+        "location": "在你心中",
+        "most_recent_tweet_id": "2100836112973578296",
+        "name": "ゆうく；已壊掉2.0",
+        "pinned_tweet_id": "2094754303491850311",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1674081369830436864/1787708588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065587970690998272/p_gIuBa4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 590,
+          "following_count": 46,
+          "like_count": 2881,
+          "listed_count": 1,
+          "media_count": 88,
+          "tweet_count": 1802
+        },
+        "url": "",
+        "username": "yshidhe3",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-28T15:02:17.000Z",
+        "description": "我是千叶 只是一个缺钱的小女孩 欢迎同类互转互fo呀",
+        "id": "2016527208198836225",
+        "is_identity_verified": false,
+        "location": "🚪188",
+        "most_recent_tweet_id": "2100823013654688080",
+        "name": "就這樣活在幻想之中",
+        "pinned_tweet_id": "2097879992432730510",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2016527208198836225/1788623761",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096266054423236608/S9ks-0Ci_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 129,
+          "following_count": 37,
+          "like_count": 1253,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 152
+        },
+        "url": "",
+        "username": "sad010046424240",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
