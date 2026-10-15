@@ -1,7 +1,7 @@
 {
   "name": "ゆうく；已壊掉2.0",
   "username": "@yshidhe3",
-  "bio": "要升天了呢(´♡ω♡`)（病嬌/地雷~）\n抑鬱焦慮會/割 喔\n跟我聊天要先看自介噢 現在什麼都不接\n前世 @yshidhe",
+  "bio": "要升天了呢(´♡ω♡`)（病嬌/地雷~）\n跟我聊天要先看自介噢 現在什麼都不接\n偶爾掉落自拍照 歡迎零用我 \n前世 @yshidhe\n很重要的人 @XZLT1206",
   "location": "在你心中",
   "link": "",
   "avatar": "avatar/avatar.jpg",
@@ -10,9 +10,14 @@
   "bio_entities": {
     "mentions": [
       {
-        "end": 61,
-        "start": 53,
+        "end": 66,
+        "start": 58,
         "username": "yshidhe"
+      },
+      {
+        "end": 82,
+        "start": 73,
+        "username": "XZLT1206"
       }
     ]
   },
