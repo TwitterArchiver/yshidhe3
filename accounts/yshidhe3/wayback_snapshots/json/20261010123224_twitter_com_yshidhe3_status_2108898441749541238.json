@@ -1,0 +1,374 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2108896169908936704"
+      ]
+    },
+    "author_id": "1674081369830436864",
+    "conversation_id": "2108898441749541238",
+    "created_at": "2026-10-10T12:32:24.000Z",
+    "display_text_range": [
+      0,
+      34
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-10T13:21:18.000Z",
+      "edits_remaining": 2,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2108895648531829227",
+      "2108895781684170846",
+      "2108896183938867702",
+      "2108898441749541238"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 30,
+          "start": 27,
+          "tag": "香港"
+        },
+        {
+          "end": 34,
+          "start": 31,
+          "tag": "地雷"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jugLYFs5kP",
+          "end": 58,
+          "expanded_url": "https://x.com/yshidhe3/status/2108898441749541238/photo/1",
+          "media_key": "3_2108896169908936704",
+          "start": 35,
+          "url": "https://t.co/jugLYFs5kP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2108898441749541238",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2108896169908936704"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我公開我的座標！！！\n我在香港噢(*≧ω≦)\n轉啦！\n#香港 #地雷 https://t.co/jugLYFs5kP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4032,
+        "media_key": "3_2108896169908936704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HURN5KOaoAAniJt.jpg",
+        "width": 2903
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1674081369830436864",
+        "conversation_id": "2108895648531829227",
+        "created_at": "2026-10-10T12:21:18.000Z",
+        "display_text_range": [
+          0,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-10T13:21:18.000Z",
+          "edits_remaining": 2,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2108895648531829227",
+          "2108895781684170846",
+          "2108896183938867702",
+          "2108898441749541238"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2108895648531829227",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我公開我的座標！！！\n我在香港噢(*≧ω≦)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1674081369830436864",
+        "conversation_id": "2108895781684170846",
+        "created_at": "2026-10-10T12:21:50.000Z",
+        "display_text_range": [
+          0,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-10T13:21:18.000Z",
+          "edits_remaining": 2,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2108895648531829227",
+          "2108895781684170846",
+          "2108896183938867702",
+          "2108898441749541238"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 26,
+              "start": 23,
+              "tag": "香港"
+            },
+            {
+              "end": 30,
+              "start": 27,
+              "tag": "地雷"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108895781684170846",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我公開我的座標！！！\n我在香港噢(*≧ω≦)\n#香港 #地雷"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2108896169908936704"
+          ]
+        },
+        "author_id": "1674081369830436864",
+        "conversation_id": "2108896183938867702",
+        "created_at": "2026-10-10T12:23:26.000Z",
+        "display_text_range": [
+          0,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-10T13:21:18.000Z",
+          "edits_remaining": 2,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2108895648531829227",
+          "2108895781684170846",
+          "2108896183938867702",
+          "2108898441749541238"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 26,
+              "start": 23,
+              "tag": "香港"
+            },
+            {
+              "end": 30,
+              "start": 27,
+              "tag": "地雷"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QjdrxHvWv6",
+              "end": 54,
+              "expanded_url": "https://x.com/yshidhe3/status/2108896183938867702/photo/1",
+              "media_key": "3_2108896169908936704",
+              "start": 31,
+              "url": "https://t.co/QjdrxHvWv6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108896183938867702",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2108896169908936704"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我公開我的座標！！！\n我在香港噢(*≧ω≦)\n#香港 #地雷 https://t.co/QjdrxHvWv6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2108896169908936704"
+          ]
+        },
+        "author_id": "1674081369830436864",
+        "conversation_id": "2108898441749541238",
+        "created_at": "2026-10-10T12:32:24.000Z",
+        "display_text_range": [
+          0,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-10T13:21:18.000Z",
+          "edits_remaining": 2,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2108895648531829227",
+          "2108895781684170846",
+          "2108896183938867702",
+          "2108898441749541238"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 30,
+              "start": 27,
+              "tag": "香港"
+            },
+            {
+              "end": 34,
+              "start": 31,
+              "tag": "地雷"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jugLYFs5kP",
+              "end": 58,
+              "expanded_url": "https://x.com/yshidhe3/status/2108898441749541238/photo/1",
+              "media_key": "3_2108896169908936704",
+              "start": 35,
+              "url": "https://t.co/jugLYFs5kP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108898441749541238",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2108896169908936704"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我公開我的座標！！！\n我在香港噢(*≧ω≦)\n轉啦！\n#香港 #地雷 https://t.co/jugLYFs5kP"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-28T15:44:58.000Z",
+        "description": "要升天了呢(´♡ω♡`)（病嬌/地雷~）\n跟我聊天要先看自介噢 現在什麼都不接\n偶爾掉落自拍照 前世 @yshidhe\n很重要的人 @XZLT1206\n歡迎零用",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 51,
+                "username": "yshidhe"
+              },
+              {
+                "end": 75,
+                "start": 66,
+                "username": "XZLT1206"
+              }
+            ]
+          }
+        },
+        "id": "1674081369830436864",
+        "is_identity_verified": false,
+        "location": "在你心中",
+        "most_recent_tweet_id": "2108898441749541238",
+        "name": "ゆうく；已壊掉2.0",
+        "pinned_tweet_id": "2094754303491850311",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1674081369830436864/1787708588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065587970690998272/p_gIuBa4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 703,
+          "following_count": 54,
+          "like_count": 3184,
+          "listed_count": 1,
+          "media_count": 94,
+          "tweet_count": 2016
+        },
+        "url": "",
+        "username": "yshidhe3",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

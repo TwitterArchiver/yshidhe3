@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1674081369830436864",
+    "conversation_id": "2102763320902349243",
+    "created_at": "2026-09-23T22:29:04.000Z",
+    "display_text_range": [
+      12,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-23T23:29:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102888003035431199"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1773143737423847424",
+          "start": 0,
+          "username": "Fanqian77v"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102888003035431199",
+    "in_reply_to_user_id": "1773143737423847424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102791602100224506",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Fanqian77v 噢噢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1674081369830436864",
+        "conversation_id": "2102763320902349243",
+        "created_at": "2026-09-23T22:29:04.000Z",
+        "display_text_range": [
+          12,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T23:29:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102888003035431199"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1773143737423847424",
+              "start": 0,
+              "username": "Fanqian77v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102888003035431199",
+        "in_reply_to_user_id": "1773143737423847424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102791602100224506",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Fanqian77v 噢噢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1773143737423847424",
+        "conversation_id": "2102763320902349243",
+        "created_at": "2026-09-23T16:06:00.000Z",
+        "display_text_range": [
+          10,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T17:06:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102791602100224506"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1674081369830436864",
+              "start": 0,
+              "username": "yshidhe3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102791602100224506",
+        "in_reply_to_user_id": "1674081369830436864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102775523722375194",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yshidhe3 加了1t氯硝共济失调了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-28T15:44:58.000Z",
+        "description": "要升天了呢(´♡ω♡`)（病嬌/地雷~）\n抑鬱焦慮會/割 喔\n跟我聊天要先看自介噢 現在什麼都不接\n前世 @yshidhe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 53,
+                "username": "yshidhe"
+              }
+            ]
+          }
+        },
+        "id": "1674081369830436864",
+        "is_identity_verified": false,
+        "location": "在你心中",
+        "most_recent_tweet_id": "2102888003035431199",
+        "name": "ゆうく；已壊掉2.0",
+        "pinned_tweet_id": "2094754303491850311",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1674081369830436864/1787708588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065587970690998272/p_gIuBa4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 592,
+          "following_count": 47,
+          "like_count": 2964,
+          "listed_count": 1,
+          "media_count": 88,
+          "tweet_count": 1873
+        },
+        "url": "",
+        "username": "yshidhe3",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-03-28T00:23:14.000Z",
+        "description": "防炸@qinyfn337187\n我是小 Q，喜欢我就给我打钱吧\n🚪88纯绿➕pyq\n只o不g 互关dd，会查主页成分回关，没回到的可以私信我呀\n提问箱⬇️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "qinyfn337187"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/qvq77v",
+                "end": 23,
+                "expanded_url": "https://ngl.link/qvq77v",
+                "start": 0,
+                "url": "https://t.co/qEw2Yt5dij"
+              }
+            ]
+          }
+        },
+        "id": "1773143737423847424",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102797852485517447",
+        "name": "Q",
+        "pinned_tweet_id": "2094994469296996457",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1773143737423847424/1771193278",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023359610112151552/OkQwkcTo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 213,
+          "following_count": 119,
+          "like_count": 1418,
+          "listed_count": 0,
+          "media_count": 128,
+          "tweet_count": 857
+        },
+        "url": "https://t.co/qEw2Yt5dij",
+        "username": "Fanqian77v",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

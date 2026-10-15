@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1674081369830436864",
+    "conversation_id": "2106890690278101481",
+    "created_at": "2026-10-05T00:31:24.000Z",
+    "display_text_range": [
+      12,
+      25
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-05T01:31:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106905055467303174"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "903107190721875971",
+          "start": 0,
+          "username": "lantis1209"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106905055467303174",
+    "in_reply_to_user_id": "903107190721875971",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106896718491259308",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lantis1209 (&gt;^ω^&lt;)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1674081369830436864",
+        "conversation_id": "2106890690278101481",
+        "created_at": "2026-10-05T00:31:24.000Z",
+        "display_text_range": [
+          12,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T01:31:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106905055467303174"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "903107190721875971",
+              "start": 0,
+              "username": "lantis1209"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106905055467303174",
+        "in_reply_to_user_id": "903107190721875971",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106896718491259308",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lantis1209 (&gt;^ω^&lt;)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "903107190721875971",
+        "conversation_id": "2106890690278101481",
+        "created_at": "2026-10-04T23:58:16.000Z",
+        "display_text_range": [
+          10,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T00:58:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106896718491259308"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1674081369830436864",
+              "start": 0,
+              "username": "yshidhe3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106896718491259308",
+        "in_reply_to_user_id": "1674081369830436864",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106890690278101481",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yshidhe3 1000分"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-28T15:44:58.000Z",
+        "description": "要升天了呢(´♡ω♡`)（病嬌/地雷~）\n跟我聊天要先看自介噢 現在什麼都不接\n偶爾掉落自拍照 前世 @yshidhe\n很重要的人 @XZLT1206",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 51,
+                "username": "yshidhe"
+              },
+              {
+                "end": 75,
+                "start": 66,
+                "username": "XZLT1206"
+              }
+            ]
+          }
+        },
+        "id": "1674081369830436864",
+        "is_identity_verified": false,
+        "location": "在你心中",
+        "most_recent_tweet_id": "2106905055467303174",
+        "name": "ゆうく；已壊掉2.0",
+        "pinned_tweet_id": "2094754303491850311",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1674081369830436864/1787708588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065587970690998272/p_gIuBa4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 652,
+          "following_count": 52,
+          "like_count": 3071,
+          "listed_count": 1,
+          "media_count": 90,
+          "tweet_count": 1950
+        },
+        "url": "",
+        "username": "yshidhe3",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-08-31T04:08:27.000Z",
+        "description": "",
+        "id": "903107190721875971",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106896718491259308",
+        "name": "しょうゆう",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1483721465669484546/JIHcvKUn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 80,
+          "like_count": 3951,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 1419
+        },
+        "url": "",
+        "username": "lantis1209",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

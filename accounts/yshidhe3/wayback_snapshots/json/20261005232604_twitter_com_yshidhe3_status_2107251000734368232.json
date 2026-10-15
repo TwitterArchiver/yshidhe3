@@ -1,0 +1,309 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1674081369830436864",
+    "conversation_id": "2107046567538725045",
+    "created_at": "2026-10-05T23:26:04.000Z",
+    "display_text_range": [
+      14,
+      28
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-06T00:26:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107251000734368232"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1965246583379034117",
+          "start": 0,
+          "username": "hyunjennagua"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107251000734368232",
+    "in_reply_to_user_id": "1965246583379034117",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107046567538725045",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hyunjennagua 很好看欸！(///▽///)"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2107046554653868032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HT27rYdawAA0pYO.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2107046554662305792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HT27rYfbgAA-pPe.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1674081369830436864",
+        "conversation_id": "2107046567538725045",
+        "created_at": "2026-10-05T23:26:04.000Z",
+        "display_text_range": [
+          14,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T00:26:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107251000734368232"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1965246583379034117",
+              "start": 0,
+              "username": "hyunjennagua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107251000734368232",
+        "in_reply_to_user_id": "1965246583379034117",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107046567538725045",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hyunjennagua 很好看欸！(///▽///)"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2107046554653868032",
+            "3_2107046554662305792"
+          ]
+        },
+        "author_id": "1965246583379034117",
+        "conversation_id": "2107046567538725045",
+        "created_at": "2026-10-05T09:53:43.000Z",
+        "display_text_range": [
+          0,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T10:53:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107046567538725045"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MKq5paITHu",
+              "end": 38,
+              "expanded_url": "https://x.com/hyunjennagua/status/2107046567538725045/photo/1",
+              "media_key": "3_2107046554653868032",
+              "start": 15,
+              "url": "https://t.co/MKq5paITHu"
+            },
+            {
+              "display_url": "pic.x.com/MKq5paITHu",
+              "end": 38,
+              "expanded_url": "https://x.com/hyunjennagua/status/2107046567538725045/photo/1",
+              "media_key": "3_2107046554662305792",
+              "start": 15,
+              "url": "https://t.co/MKq5paITHu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107046567538725045",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2107046554653868032"
+          },
+          {
+            "media_key": "3_2107046554662305792"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 10775,
+          "like_count": 131,
+          "quote_count": 0,
+          "reply_count": 23,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "把x的标识改成粉色了好好看啊 https://t.co/MKq5paITHu"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-28T15:44:58.000Z",
+        "description": "要升天了呢(´♡ω♡`)（病嬌/地雷~）\n跟我聊天要先看自介噢 現在什麼都不接\n偶爾掉落自拍照 前世 @yshidhe\n很重要的人 @XZLT1206",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 51,
+                "username": "yshidhe"
+              },
+              {
+                "end": 75,
+                "start": 66,
+                "username": "XZLT1206"
+              }
+            ]
+          }
+        },
+        "id": "1674081369830436864",
+        "is_identity_verified": false,
+        "location": "在你心中",
+        "most_recent_tweet_id": "2107251000734368232",
+        "name": "ゆうく；已壊掉2.0",
+        "pinned_tweet_id": "2094754303491850311",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1674081369830436864/1787708588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065587970690998272/p_gIuBa4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 674,
+          "following_count": 54,
+          "like_count": 3125,
+          "listed_count": 1,
+          "media_count": 90,
+          "tweet_count": 1983
+        },
+        "url": "",
+        "username": "yshidhe3",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "description": "小号：@hyunjennnagua\n只会通过信任的人：@2022724xnxn\n好闺蜜：@colleen_ab6642 @mikeas846141091🥰🥰🤤\n🩸💊匿名👇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "hyunjennnagua"
+              },
+              {
+                "end": 39,
+                "start": 27,
+                "username": "2022724xnxn"
+              },
+              {
+                "end": 59,
+                "start": 44,
+                "username": "colleen_ab6642"
+              },
+              {
+                "end": 76,
+                "start": 60,
+                "username": "mikeas846141091"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie62981",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie62981",
+                "start": 0,
+                "url": "https://t.co/ia6I6dHChs"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "is_identity_verified": false,
+        "location": "0.1km",
+        "most_recent_tweet_id": "2107102376347959567",
+        "name": "南瓜",
+        "pinned_tweet_id": "2106337677910134895",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1965246583379034117/1776418168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052323306418626566/s5rMwD5k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2053,
+          "following_count": 1209,
+          "like_count": 11713,
+          "listed_count": 1,
+          "media_count": 478,
+          "tweet_count": 5236
+        },
+        "url": "https://t.co/ia6I6dHChs",
+        "username": "hyunjennagua",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

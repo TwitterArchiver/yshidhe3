@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1674081369830436864",
+    "conversation_id": "2107160485741338734",
+    "created_at": "2026-10-05T23:52:57.000Z",
+    "display_text_range": [
+      9,
+      28
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-06T00:52:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107257768860324037"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1763560113242296320",
+          "start": 0,
+          "username": "pp2233_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107257768860324037",
+    "in_reply_to_user_id": "1763560113242296320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107160485741338734",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pp2233_ 快點(&gt;^ω^&lt;)割深一點"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1674081369830436864",
+        "conversation_id": "2107160485741338734",
+        "created_at": "2026-10-05T23:52:57.000Z",
+        "display_text_range": [
+          9,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T00:52:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107257768860324037"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1763560113242296320",
+              "start": 0,
+              "username": "pp2233_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107257768860324037",
+        "in_reply_to_user_id": "1763560113242296320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107160485741338734",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pp2233_ 快點(&gt;^ω^&lt;)割深一點"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1763560113242296320",
+        "conversation_id": "2107160485741338734",
+        "created_at": "2026-10-05T17:26:23.000Z",
+        "display_text_range": [
+          0,
+          9
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T18:26:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107160485741338734"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2107160485741338734",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1312,
+          "like_count": 44,
+          "quote_count": 0,
+          "reply_count": 18,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我不割手就割你們了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-28T15:44:58.000Z",
+        "description": "要升天了呢(´♡ω♡`)（病嬌/地雷~）\n跟我聊天要先看自介噢 現在什麼都不接\n偶爾掉落自拍照 前世 @yshidhe\n很重要的人 @XZLT1206",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 51,
+                "username": "yshidhe"
+              },
+              {
+                "end": 75,
+                "start": 66,
+                "username": "XZLT1206"
+              }
+            ]
+          }
+        },
+        "id": "1674081369830436864",
+        "is_identity_verified": false,
+        "location": "在你心中",
+        "most_recent_tweet_id": "2107257768860324037",
+        "name": "ゆうく；已壊掉2.0",
+        "pinned_tweet_id": "2094754303491850311",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1674081369830436864/1787708588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065587970690998272/p_gIuBa4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 674,
+          "following_count": 54,
+          "like_count": 3129,
+          "listed_count": 1,
+          "media_count": 90,
+          "tweet_count": 1986
+        },
+        "url": "",
+        "username": "yshidhe3",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-03-01T13:41:38.000Z",
+        "description": "老己分身→@Posetq\n/\n台灣 | infp金牛 | 自傷 | 偶爾od | 生理女 | 動漫成癮患者\n無確診任何精神疾病因為家裡人不帶老子看醫生\n自認不是地雷妹因為老己臉長得不適合地雷系。\n在其他軟件看到我請不要認親呀^^\n喜歡女孩子們同類互fol歡迎♡♡",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 5,
+                "username": "Posetq"
+              }
+            ]
+          }
+        },
+        "id": "1763560113242296320",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2107160485741338734",
+        "name": "P",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1763560113242296320/1790362537",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103130435912077313/vtXCuXhZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 255,
+          "following_count": 46,
+          "like_count": 498,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 301
+        },
+        "url": "",
+        "username": "pp2233_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

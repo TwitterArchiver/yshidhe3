@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1674081369830436864",
+    "conversation_id": "2104950523761975368",
+    "created_at": "2026-10-01T03:34:13.000Z",
+    "display_text_range": [
+      17,
+      51
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-01T04:34:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105501512642465877"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1169174984389885952",
+          "start": 0,
+          "username": "Angel_SaveUsAll"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105501512642465877",
+    "in_reply_to_user_id": "1169174984389885952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105501166801231930",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Angel_SaveUsAll 感覺是中共(真的有夠多管閑事) 如果是msk的應該英圈也會有同樣情況"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1674081369830436864",
+        "conversation_id": "2104950523761975368",
+        "created_at": "2026-10-01T03:34:13.000Z",
+        "display_text_range": [
+          17,
+          51
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T04:34:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105501512642465877"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1169174984389885952",
+              "start": 0,
+              "username": "Angel_SaveUsAll"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105501512642465877",
+        "in_reply_to_user_id": "1169174984389885952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105501166801231930",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Angel_SaveUsAll 感覺是中共(真的有夠多管閑事) 如果是msk的應該英圈也會有同樣情況"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1169174984389885952",
+        "conversation_id": "2104950523761975368",
+        "created_at": "2026-10-01T03:32:51.000Z",
+        "display_text_range": [
+          10,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T04:32:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105501166801231930"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1674081369830436864",
+              "start": 0,
+              "username": "yshidhe3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105501166801231930",
+        "in_reply_to_user_id": "1674081369830436864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105501032264647004",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yshidhe3 不知道是中共机器人还是msk机器人"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-28T15:44:58.000Z",
+        "description": "要升天了呢(´♡ω♡`)（病嬌/地雷~）\n抑鬱焦慮會/割 喔\n跟我聊天要先看自介噢 現在什麼都不接\n前世 @yshidhe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 53,
+                "username": "yshidhe"
+              }
+            ]
+          }
+        },
+        "id": "1674081369830436864",
+        "is_identity_verified": false,
+        "location": "在你心中",
+        "most_recent_tweet_id": "2105501512642465877",
+        "name": "ゆうく；已壊掉2.0",
+        "pinned_tweet_id": "2094754303491850311",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1674081369830436864/1787708588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065587970690998272/p_gIuBa4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 620,
+          "following_count": 49,
+          "like_count": 3026,
+          "listed_count": 1,
+          "media_count": 88,
+          "tweet_count": 1917
+        },
+        "url": "",
+        "username": "yshidhe3",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-09-04T09:07:06.000Z",
+        "description": "救贖天使 新人画师，阴湿蕾蕾 只是会吃神秘小药片💊💊噶手手🩸🔪 情绪不稳定/双相/焦虑症 舞萌 经常碎碎念EN&CN OK 日本語苦手 欢迎同类找我聊天贴贴🍥老婆@linwei130",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 81,
+                "username": "linwei130"
+              }
+            ]
+          }
+        },
+        "id": "1169174984389885952",
+        "is_identity_verified": false,
+        "location": "New York, NY",
+        "most_recent_tweet_id": "2105501166801231930",
+        "name": "小救「无聊版」",
+        "pinned_tweet_id": "2043782475936120911",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1169174984389885952/1783508953",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058870609170616320/JW0PIo2B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1735,
+          "following_count": 657,
+          "like_count": 19261,
+          "listed_count": 4,
+          "media_count": 746,
+          "tweet_count": 6245
+        },
+        "url": "",
+        "username": "Angel_SaveUsAll",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,377 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2105933308777652224",
+        "3_2105933308370825216"
+      ],
+      "media_source_tweet_id": [
+        "2105933327282950276",
+        "2105933327282950276"
+      ]
+    },
+    "author_id": "1674081369830436864",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2105934336604438642",
+    "created_at": "2026-10-02T08:14:06.000Z",
+    "display_text_range": [
+      0,
+      82
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-02T09:14:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105934336604438642"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2084972545275559936",
+          "start": 3,
+          "username": "sea_0125_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zhR9CI6Pcc",
+          "end": 82,
+          "expanded_url": "https://x.com/sea_0125_/status/2105933327282950276/photo/1",
+          "media_key": "3_2105933308777652224",
+          "start": 59,
+          "url": "https://t.co/zhR9CI6Pcc"
+        },
+        {
+          "display_url": "pic.x.com/zhR9CI6Pcc",
+          "end": 82,
+          "expanded_url": "https://x.com/sea_0125_/status/2105933327282950276/photo/1",
+          "media_key": "3_2105933308370825216",
+          "start": 59,
+          "url": "https://t.co/zhR9CI6Pcc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105934336604438642",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2105933308777652224"
+      },
+      {
+        "media_key": "3_2105933308370825216"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105933327282950276",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sea_0125_: 这里是腐海 我复活了。\n父母都不管我，已经吃不起饭了\n欢迎找我约稿 谢谢哥哥姐姐们资助 https://t.co/zhR9CI6Pcc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1938,
+        "media_key": "3_2105933308777652224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTnHL8Za4AAU87_.jpg",
+        "width": 1156
+      },
+      {
+        "height": 1037,
+        "media_key": "3_2105933308370825216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTnHL64bMAAvdDo.jpg",
+        "width": 1037
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105933308777652224",
+            "3_2105933308370825216"
+          ],
+          "media_source_tweet_id": [
+            "2105933327282950276",
+            "2105933327282950276"
+          ]
+        },
+        "author_id": "1674081369830436864",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2105934336604438642",
+        "created_at": "2026-10-02T08:14:06.000Z",
+        "display_text_range": [
+          0,
+          82
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T09:14:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105934336604438642"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2084972545275559936",
+              "start": 3,
+              "username": "sea_0125_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zhR9CI6Pcc",
+              "end": 82,
+              "expanded_url": "https://x.com/sea_0125_/status/2105933327282950276/photo/1",
+              "media_key": "3_2105933308777652224",
+              "start": 59,
+              "url": "https://t.co/zhR9CI6Pcc"
+            },
+            {
+              "display_url": "pic.x.com/zhR9CI6Pcc",
+              "end": 82,
+              "expanded_url": "https://x.com/sea_0125_/status/2105933327282950276/photo/1",
+              "media_key": "3_2105933308370825216",
+              "start": 59,
+              "url": "https://t.co/zhR9CI6Pcc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105934336604438642",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2105933308777652224"
+          },
+          {
+            "media_key": "3_2105933308370825216"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105933327282950276",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sea_0125_: 这里是腐海 我复活了。\n父母都不管我，已经吃不起饭了\n欢迎找我约稿 谢谢哥哥姐姐们资助 https://t.co/zhR9CI6Pcc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105933308777652224",
+            "3_2105933308370825216"
+          ]
+        },
+        "author_id": "2084972545275559936",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2105933327282950276",
+        "created_at": "2026-10-02T08:10:06.000Z",
+        "display_text_range": [
+          0,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T09:10:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105933327282950276"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zhR9CI6Pcc",
+              "end": 67,
+              "expanded_url": "https://x.com/sea_0125_/status/2105933327282950276/photo/1",
+              "media_key": "3_2105933308777652224",
+              "start": 44,
+              "url": "https://t.co/zhR9CI6Pcc"
+            },
+            {
+              "display_url": "pic.x.com/zhR9CI6Pcc",
+              "end": 67,
+              "expanded_url": "https://x.com/sea_0125_/status/2105933327282950276/photo/1",
+              "media_key": "3_2105933308370825216",
+              "start": 44,
+              "url": "https://t.co/zhR9CI6Pcc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105933327282950276",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2105933308777652224"
+          },
+          {
+            "media_key": "3_2105933308370825216"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "这里是腐海 我复活了。\n父母都不管我，已经吃不起饭了\n欢迎找我约稿 谢谢哥哥姐姐们资助 https://t.co/zhR9CI6Pcc"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-28T15:44:58.000Z",
+        "description": "要升天了呢(´♡ω♡`)（病嬌/地雷~）\n抑鬱焦慮會/割 喔\n跟我聊天要先看自介噢 現在什麼都不接\n前世 @yshidhe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 53,
+                "username": "yshidhe"
+              }
+            ]
+          }
+        },
+        "id": "1674081369830436864",
+        "is_identity_verified": false,
+        "location": "在你心中",
+        "most_recent_tweet_id": "2105934336604438642",
+        "name": "ゆうく；已壊掉2.0",
+        "pinned_tweet_id": "2094754303491850311",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1674081369830436864/1787708588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065587970690998272/p_gIuBa4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 623,
+          "following_count": 50,
+          "like_count": 3031,
+          "listed_count": 1,
+          "media_count": 88,
+          "tweet_count": 1923
+        },
+        "url": "",
+        "username": "yshidhe3",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-05T11:59:52.000Z",
+        "description": "高中生/双相/酒精重度依赖轻度过敏/小众逼/熬夜小画师\nEMO/165/36/中度厌食患者/常年贫血患者/双/brat/可以叫我小海，有🚪纯绿\n妹子同类欢迎互fo~",
+        "id": "2084972545275559936",
+        "is_identity_verified": false,
+        "location": "升天",
+        "most_recent_tweet_id": "2105933327282950276",
+        "name": "断骨腐海",
+        "pinned_tweet_id": "2105933327282950276",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2084972545275559936/1790921779",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2105905732684337152/xGdkPUuc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 32,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 10
+        },
+        "url": "",
+        "username": "sea_0125_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

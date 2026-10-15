@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1674081369830436864",
+    "conversation_id": "2107760612738847036",
+    "created_at": "2026-10-07T09:31:36.000Z",
+    "display_text_range": [
+      17,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-07T10:31:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107765779475423327"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2051590529776066560",
+          "start": 0,
+          "username": "ResearcherKolis"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107765779475423327",
+    "in_reply_to_user_id": "2051590529776066560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107762520845087120",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ResearcherKolis 吃吧 我還有"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1674081369830436864",
+        "conversation_id": "2107760612738847036",
+        "created_at": "2026-10-07T09:31:36.000Z",
+        "display_text_range": [
+          17,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-07T10:31:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107765779475423327"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2051590529776066560",
+              "start": 0,
+              "username": "ResearcherKolis"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107765779475423327",
+        "in_reply_to_user_id": "2051590529776066560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107762520845087120",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ResearcherKolis 吃吧 我還有"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2051590529776066560",
+        "conversation_id": "2107760612738847036",
+        "created_at": "2026-10-07T09:18:39.000Z",
+        "display_text_range": [
+          10,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-07T10:18:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107762520845087120"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1674081369830436864",
+              "start": 0,
+              "username": "yshidhe3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107762520845087120",
+        "in_reply_to_user_id": "1674081369830436864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107760612738847036",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yshidhe3 （挑走一颗你手里的吃掉）"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-28T15:44:58.000Z",
+        "description": "要升天了呢(´♡ω♡`)（病嬌/地雷~）\n跟我聊天要先看自介噢 現在什麼都不接\n偶爾掉落自拍照 前世 @yshidhe\n很重要的人 @XZLT1206",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 51,
+                "username": "yshidhe"
+              },
+              {
+                "end": 75,
+                "start": 66,
+                "username": "XZLT1206"
+              }
+            ]
+          }
+        },
+        "id": "1674081369830436864",
+        "is_identity_verified": false,
+        "location": "在你心中",
+        "most_recent_tweet_id": "2107765779475423327",
+        "name": "ゆうく；已壊掉2.0",
+        "pinned_tweet_id": "2094754303491850311",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1674081369830436864/1787708588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065587970690998272/p_gIuBa4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 676,
+          "following_count": 55,
+          "like_count": 3150,
+          "listed_count": 1,
+          "media_count": 90,
+          "tweet_count": 2005
+        },
+        "url": "",
+        "username": "yshidhe3",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-05T09:11:41.000Z",
+        "description": "文愛生產機器，大学生在读。\n支持所有人",
+        "id": "2051590529776066560",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2107765499585090030",
+        "name": "科里斯_Kolis",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2051590529776066560/1778201782",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052553026150584320/j1y7tGNe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 254,
+          "like_count": 811,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 125
+        },
+        "url": "",
+        "username": "ResearcherKolis",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

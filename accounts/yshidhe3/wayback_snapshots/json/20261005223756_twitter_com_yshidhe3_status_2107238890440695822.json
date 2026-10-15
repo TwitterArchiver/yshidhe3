@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1674081369830436864",
+    "conversation_id": "2107238890440695822",
+    "created_at": "2026-10-05T22:37:56.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-05T23:37:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107238890440695822"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "3237911024",
+          "start": 3,
+          "username": "yuudai0111sato1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107238890440695822",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 52
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055107083738185759",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yuudai0111sato1: 我是小狗汪 这是我的第3次重生 我想找回前世门槛哥…...\n蹲主人 属性M 可调教\n所有门槛都有福利🥵骚萌反差\n门槛越高 福利越多 质量越高 可定制\n520 🚪送专属娇喘音频x1+定制照片1张1314 🚪送专属娇喘音频x2+定制照片3张…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1158,
+        "media_key": "3_2055107069188190208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIU0_bJbMAAutPR.jpg",
+        "width": 1179
+      },
+      {
+        "height": 904,
+        "media_key": "3_2055107068542251008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIU0_Yva8AAWnSr.jpg",
+        "width": 786
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1674081369830436864",
+        "conversation_id": "2107238890440695822",
+        "created_at": "2026-10-05T22:37:56.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T23:37:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107238890440695822"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "3237911024",
+              "start": 3,
+              "username": "yuudai0111sato1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107238890440695822",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 52
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055107083738185759",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yuudai0111sato1: 我是小狗汪 这是我的第3次重生 我想找回前世门槛哥…...\n蹲主人 属性M 可调教\n所有门槛都有福利🥵骚萌反差\n门槛越高 福利越多 质量越高 可定制\n520 🚪送专属娇喘音频x1+定制照片1张1314 🚪送专属娇喘音频x2+定制照片3张…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055107069188190208",
+            "3_2055107068542251008"
+          ]
+        },
+        "author_id": "3237911024",
+        "conversation_id": "2055107083738185759",
+        "created_at": "2026-05-15T02:04:45.000Z",
+        "display_text_range": [
+          0,
+          129
+        ],
+        "edit_controls": {
+          "editable_until": "2026-05-15T03:04:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055107083738185759"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bJKLe8qklY",
+              "end": 153,
+              "expanded_url": "https://x.com/yuudai0111sato1/status/2055107083738185759/photo/1",
+              "media_key": "3_2055107069188190208",
+              "start": 130,
+              "url": "https://t.co/bJKLe8qklY"
+            },
+            {
+              "display_url": "pic.x.com/bJKLe8qklY",
+              "end": 153,
+              "expanded_url": "https://x.com/yuudai0111sato1/status/2055107083738185759/photo/1",
+              "media_key": "3_2055107068542251008",
+              "start": 130,
+              "url": "https://t.co/bJKLe8qklY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055107083738185759",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2055107069188190208"
+          },
+          {
+            "media_key": "3_2055107068542251008"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 39938,
+          "like_count": 80,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 52
+        },
+        "reply_settings": "everyone",
+        "text": "我是小狗汪 这是我的第3次重生 我想找回前世门槛哥…...\n蹲主人 属性M 可调教\n所有门槛都有福利🥵骚萌反差\n门槛越高 福利越多 质量越高 可定制\n520 🚪送专属娇喘音频x1+定制照片1张1314 🚪送专属娇喘音频x2+定制照片3张定制视频一个！\n🐶🔞🐾 https://t.co/bJKLe8qklY"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-28T15:44:58.000Z",
+        "description": "要升天了呢(´♡ω♡`)（病嬌/地雷~）\n跟我聊天要先看自介噢 現在什麼都不接\n偶爾掉落自拍照 前世 @yshidhe\n很重要的人 @XZLT1206",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 51,
+                "username": "yshidhe"
+              },
+              {
+                "end": 75,
+                "start": 66,
+                "username": "XZLT1206"
+              }
+            ]
+          }
+        },
+        "id": "1674081369830436864",
+        "is_identity_verified": false,
+        "location": "在你心中",
+        "most_recent_tweet_id": "2107238890440695822",
+        "name": "ゆうく；已壊掉2.0",
+        "pinned_tweet_id": "2094754303491850311",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1674081369830436864/1787708588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065587970690998272/p_gIuBa4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 673,
+          "following_count": 54,
+          "like_count": 3119,
+          "listed_count": 1,
+          "media_count": 90,
+          "tweet_count": 1981
+        },
+        "url": "",
+        "username": "yshidhe3",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2015-06-06T13:24:22.000Z",
+        "description": "就这样萌萌又窝囊的活着",
+        "id": "3237911024",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2107169740104106165",
+        "name": "少说喜欢我（江浙沪",
+        "pinned_tweet_id": "2055107083738185759",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3237911024/1775370754",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040678919893135361/eSNwdKpg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 766,
+          "following_count": 12,
+          "like_count": 28,
+          "listed_count": 2,
+          "media_count": 23,
+          "tweet_count": 226
+        },
+        "url": "",
+        "username": "yuudai0111sato1",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

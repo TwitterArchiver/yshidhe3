@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1674081369830436864",
+    "conversation_id": "2109417184917352672",
+    "created_at": "2026-10-11T22:59:11.000Z",
+    "display_text_range": [
+      16,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-11T23:59:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2109418564629487619"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1551454468398411776",
+          "start": 0,
+          "username": "chosen_shotgun"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2109418564629487619",
+    "in_reply_to_user_id": "1551454468398411776",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2109417538773999635",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chosen_shotgun (*≧ω≦)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1674081369830436864",
+        "conversation_id": "2109417184917352672",
+        "created_at": "2026-10-11T22:59:11.000Z",
+        "display_text_range": [
+          16,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-11T23:59:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2109418564629487619"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1551454468398411776",
+              "start": 0,
+              "username": "chosen_shotgun"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2109418564629487619",
+        "in_reply_to_user_id": "1551454468398411776",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2109417538773999635",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chosen_shotgun (*≧ω≦)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1551454468398411776",
+        "conversation_id": "2109417184917352672",
+        "created_at": "2026-10-11T22:55:06.000Z",
+        "display_text_range": [
+          10,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-11T23:55:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2109417538773999635"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1674081369830436864",
+              "start": 0,
+              "username": "yshidhe3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2109417538773999635",
+        "in_reply_to_user_id": "1674081369830436864",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2109417184917352672",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yshidhe3 揉揉噢"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-28T15:44:58.000Z",
+        "description": "要升天了呢(´♡ω♡`)（病嬌/地雷~）\n跟我聊天要先看自介噢 現在什麼都不接\n偶爾掉落自拍照 歡迎零用我 \n前世 @yshidhe\n很重要的人 @XZLT1206",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 58,
+                "username": "yshidhe"
+              },
+              {
+                "end": 82,
+                "start": 73,
+                "username": "XZLT1206"
+              }
+            ]
+          }
+        },
+        "id": "1674081369830436864",
+        "is_identity_verified": false,
+        "location": "在你心中",
+        "most_recent_tweet_id": "2109418564629487619",
+        "name": "ゆうく；已壊掉2.0",
+        "pinned_tweet_id": "2094754303491850311",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1674081369830436864/1787708588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065587970690998272/p_gIuBa4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 898,
+          "following_count": 56,
+          "like_count": 3248,
+          "listed_count": 1,
+          "media_count": 96,
+          "tweet_count": 2054
+        },
+        "url": "",
+        "username": "yshidhe3",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-07-25T06:29:18.000Z",
+        "description": "############################ -------------------------------------—霰霰內心：@chosen_but_dark/ 已授權資訊： 霰霰啦 /一個自認為特別卻很平凡的人/不定時負面炸彈/INFP-T/ FPS+音遊再加上一點點的遊戲王/ 拜託跟我交朋友",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 72,
+                "username": "chosen_but_dark"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitch.tv/chosen_shotgun",
+                "end": 23,
+                "expanded_url": "https://twitch.tv/chosen_shotgun",
+                "start": 0,
+                "url": "https://t.co/YTQhxHtrfN"
+              }
+            ]
+          }
+        },
+        "id": "1551454468398411776",
+        "is_identity_verified": false,
+        "location": "hardcore的kick中爆發出的音壓裡",
+        "most_recent_tweet_id": "2109417538773999635",
+        "name": "霰霰啦|想被RNGsus眷顧系",
+        "pinned_tweet_id": "2035938080813994492",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1551454468398411776/1784570980",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853608192183574528/vWuIszPQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 272,
+          "following_count": 584,
+          "like_count": 22839,
+          "listed_count": 3,
+          "media_count": 1521,
+          "tweet_count": 13051
+        },
+        "url": "https://t.co/YTQhxHtrfN",
+        "username": "chosen_shotgun",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

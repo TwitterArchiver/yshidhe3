@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2093666960118779904"
+      ],
+      "media_source_tweet_id": [
+        "2093666969136558543"
+      ]
+    },
+    "author_id": "1674081369830436864",
+    "conversation_id": "2102172276515086400",
+    "created_at": "2026-09-21T23:05:01.000Z",
+    "display_text_range": [
+      0,
+      98
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-22T00:05:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102172276515086400"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2090850430133874688",
+          "start": 3,
+          "username": "liouo_88"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/c9JewLCCD2",
+          "end": 98,
+          "expanded_url": "https://x.com/liouo_88/status/2093666969136558543/photo/1",
+          "media_key": "3_2093666960118779904",
+          "start": 75,
+          "url": "https://t.co/c9JewLCCD2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102172276515086400",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2093666960118779904"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 28
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093666969136558543",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @liouo_88: 🥹小条条的号又挂了\n限时🚪28.8有人要入吗 实在是没钱了\n家里没有收入来源全靠我卖门槛支撑\n宝宝们互fo互转找我哦🫶🏻 https://t.co/c9JewLCCD2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2093666960118779904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ4zAevaEAAjNDy.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093666960118779904"
+          ],
+          "media_source_tweet_id": [
+            "2093666969136558543"
+          ]
+        },
+        "author_id": "1674081369830436864",
+        "conversation_id": "2102172276515086400",
+        "created_at": "2026-09-21T23:05:01.000Z",
+        "display_text_range": [
+          0,
+          98
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T00:05:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102172276515086400"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2090850430133874688",
+              "start": 3,
+              "username": "liouo_88"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/c9JewLCCD2",
+              "end": 98,
+              "expanded_url": "https://x.com/liouo_88/status/2093666969136558543/photo/1",
+              "media_key": "3_2093666960118779904",
+              "start": 75,
+              "url": "https://t.co/c9JewLCCD2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102172276515086400",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2093666960118779904"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 28
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093666969136558543",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @liouo_88: 🥹小条条的号又挂了\n限时🚪28.8有人要入吗 实在是没钱了\n家里没有收入来源全靠我卖门槛支撑\n宝宝们互fo互转找我哦🫶🏻 https://t.co/c9JewLCCD2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093666960118779904"
+          ]
+        },
+        "author_id": "2090850430133874688",
+        "conversation_id": "2093666969136558543",
+        "created_at": "2026-08-29T11:47:58.000Z",
+        "display_text_range": [
+          0,
+          60
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T12:47:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093666969136558543"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/c9JewLCCD2",
+              "end": 84,
+              "expanded_url": "https://x.com/liouo_88/status/2093666969136558543/photo/1",
+              "media_key": "3_2093666960118779904",
+              "start": 61,
+              "url": "https://t.co/c9JewLCCD2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093666969136558543",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2093666960118779904"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 5827,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 28
+        },
+        "reply_settings": "everyone",
+        "text": "🥹小条条的号又挂了\n限时🚪28.8有人要入吗 实在是没钱了\n家里没有收入来源全靠我卖门槛支撑\n宝宝们互fo互转找我哦🫶🏻 https://t.co/c9JewLCCD2"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-28T15:44:58.000Z",
+        "description": "要升天了呢(´♡ω♡`)（病嬌/地雷~）\n抑鬱焦慮會/割 喔\n跟我聊天要先看自介噢 現在什麼都不接\n前世 @yshidhe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 53,
+                "username": "yshidhe"
+              }
+            ]
+          }
+        },
+        "id": "1674081369830436864",
+        "is_identity_verified": false,
+        "location": "在你心中",
+        "most_recent_tweet_id": "2102172276515086400",
+        "name": "ゆうく；已壊掉2.0",
+        "pinned_tweet_id": "2094754303491850311",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1674081369830436864/1787708588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065587970690998272/p_gIuBa4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 596,
+          "following_count": 49,
+          "like_count": 2941,
+          "listed_count": 1,
+          "media_count": 88,
+          "tweet_count": 1856
+        },
+        "url": "",
+        "username": "yshidhe3",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-21T17:17:02.000Z",
+        "description": "不是骗子 做门槛四年了可以验证本人\n限时🚪28.8有很多福利可以视频 求你们支助我吧我真的没钱了我家里还没收入来源 入门我都会真心对待",
+        "id": "2090850430133874688",
+        "is_identity_verified": false,
+        "location": "坐标10r",
+        "most_recent_tweet_id": "2102074177914355755",
+        "name": "Me（限时🚪28.8",
+        "pinned_tweet_id": "2093666969136558543",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2090850430133874688/1789377378",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100247003926335488/hgXMRqmi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 54,
+          "like_count": 34,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 147
+        },
+        "url": "",
+        "username": "liouo_88",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

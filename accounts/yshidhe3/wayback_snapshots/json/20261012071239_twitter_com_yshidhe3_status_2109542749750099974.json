@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1674081369830436864",
+    "conversation_id": "2109417184917352672",
+    "created_at": "2026-10-12T07:12:39.000Z",
+    "display_text_range": [
+      10,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-12T08:12:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2109542749750099974"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1934688760723329025",
+          "start": 0,
+          "username": "bldgysst"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2109542749750099974",
+    "in_reply_to_user_id": "1934688760723329025",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2109541444838891534",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bldgysst 好欸"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1674081369830436864",
+        "conversation_id": "2109417184917352672",
+        "created_at": "2026-10-12T07:12:39.000Z",
+        "display_text_range": [
+          10,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-12T08:12:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2109542749750099974"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1934688760723329025",
+              "start": 0,
+              "username": "bldgysst"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2109542749750099974",
+        "in_reply_to_user_id": "1934688760723329025",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2109541444838891534",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bldgysst 好欸"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934688760723329025",
+        "conversation_id": "2109417184917352672",
+        "created_at": "2026-10-12T07:07:28.000Z",
+        "display_text_range": [
+          10,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-12T08:07:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2109541444838891534"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1674081369830436864",
+              "start": 0,
+              "username": "yshidhe3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2109541444838891534",
+        "in_reply_to_user_id": "1674081369830436864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2109417184917352672",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yshidhe3 剛加上就問出不出門的…\n寶寶要小心哇( ˘•ω•˘ )"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-28T15:44:58.000Z",
+        "description": "要升天了呢(´♡ω♡`)（病嬌/地雷~）\n跟我聊天要先看自介噢 現在什麼都不接\n偶爾掉落自拍照 歡迎零用我 \n前世 @yshidhe\n很重要的人 @XZLT1206",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 58,
+                "username": "yshidhe"
+              },
+              {
+                "end": 82,
+                "start": 73,
+                "username": "XZLT1206"
+              }
+            ]
+          }
+        },
+        "id": "1674081369830436864",
+        "is_identity_verified": false,
+        "location": "在你心中",
+        "most_recent_tweet_id": "2109542749750099974",
+        "name": "ゆうく；已壊掉2.0",
+        "pinned_tweet_id": "2094754303491850311",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1674081369830436864/1787708588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065587970690998272/p_gIuBa4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 911,
+          "following_count": 57,
+          "like_count": 3267,
+          "listed_count": 1,
+          "media_count": 96,
+          "tweet_count": 2070
+        },
+        "url": "",
+        "username": "yshidhe3",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-06-16T19:05:41.000Z",
+        "description": "討厭☄指手畫腳的人\n‼️ღ詳介見置頂*੭\n🔪💊❤️\n友+(⁎˃ᆺ˂)沒看到回fo的寶寶請私哦♡⁠\n\n帳→抱怨、視姦、發瘋、看老婆🩷\n\n好習慣→常點❤️\n希望大家也有好習慣哦❤️\n\n網上活躍*੭什麼都沒回肯定是被鎖了(๑´ㅁ`)\n情緒保護☂\n\n(´ω｀)ゞ因為其實不太會聊天的\n尤其不會開話題(◞‸◟)",
+        "id": "1934688760723329025",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2109541444838891534",
+        "name": "菲yan*੭",
+        "pinned_tweet_id": "2100367223932301610",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1934688760723329025/1789144097",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100002095265120256/giY7bFLx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 25,
+          "like_count": 4579,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 175
+        },
+        "url": "",
+        "username": "bldgysst",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

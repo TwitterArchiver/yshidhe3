@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1674081369830436864",
+    "conversation_id": "2101862588695068896",
+    "created_at": "2026-09-21T06:19:03.000Z",
+    "display_text_range": [
+      15,
+      28
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-21T07:19:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101919116626157880"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1875467074052747264",
+          "start": 0,
+          "username": "poison_feat_u"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101919116626157880",
+    "in_reply_to_user_id": "1875467074052747264",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101913235914150242",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@poison_feat_u hhhhh只有累死自己的份"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1674081369830436864",
+        "conversation_id": "2101862588695068896",
+        "created_at": "2026-09-21T06:19:03.000Z",
+        "display_text_range": [
+          15,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T07:19:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101919116626157880"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1875467074052747264",
+              "start": 0,
+              "username": "poison_feat_u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101919116626157880",
+        "in_reply_to_user_id": "1875467074052747264",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101913235914150242",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@poison_feat_u hhhhh只有累死自己的份"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1875467074052747264",
+        "conversation_id": "2101862588695068896",
+        "created_at": "2026-09-21T05:55:41.000Z",
+        "display_text_range": [
+          10,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T06:55:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101913235914150242"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1674081369830436864",
+              "start": 0,
+              "username": "yshidhe3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101913235914150242",
+        "in_reply_to_user_id": "1674081369830436864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101862588695068896",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yshidhe3 努力也算是一个天赋"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-28T15:44:58.000Z",
+        "description": "要升天了呢(´♡ω♡`)（病嬌/地雷~）\n抑鬱焦慮會/割 喔\n跟我聊天要先看自介噢 現在什麼都不接\n前世 @yshidhe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 53,
+                "username": "yshidhe"
+              }
+            ]
+          }
+        },
+        "id": "1674081369830436864",
+        "is_identity_verified": false,
+        "location": "在你心中",
+        "most_recent_tweet_id": "2101919116626157880",
+        "name": "ゆうく；已壊掉2.0",
+        "pinned_tweet_id": "2094754303491850311",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1674081369830436864/1787708588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065587970690998272/p_gIuBa4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 595,
+          "following_count": 49,
+          "like_count": 2927,
+          "listed_count": 1,
+          "media_count": 88,
+          "tweet_count": 1842
+        },
+        "url": "",
+        "username": "yshidhe3",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-01-04T09:00:52.000Z",
+        "description": "太荒谬了",
+        "id": "1875467074052747264",
+        "is_identity_verified": false,
+        "location": "你想成为什么样的人",
+        "most_recent_tweet_id": "2101913235914150242",
+        "name": "海帕克斯",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1875467074052747264/1785650221",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082607104989483008/4oB2sbs3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 98,
+          "like_count": 748,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 184
+        },
+        "url": "",
+        "username": "poison_feat_u",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

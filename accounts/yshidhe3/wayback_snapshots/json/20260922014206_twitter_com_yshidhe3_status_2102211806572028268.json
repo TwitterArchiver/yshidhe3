@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1674081369830436864",
+    "conversation_id": "2102186747388141931",
+    "created_at": "2026-09-22T01:42:06.000Z",
+    "display_text_range": [
+      10,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-22T02:42:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102211806572028268"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1758121976219250688",
+          "start": 0,
+          "username": "KwiRilly"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102211806572028268",
+    "in_reply_to_user_id": "1758121976219250688",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102201194756362570",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KwiRilly 可以噢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1674081369830436864",
+        "conversation_id": "2102186747388141931",
+        "created_at": "2026-09-22T01:42:06.000Z",
+        "display_text_range": [
+          10,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T02:42:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102211806572028268"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1758121976219250688",
+              "start": 0,
+              "username": "KwiRilly"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102211806572028268",
+        "in_reply_to_user_id": "1758121976219250688",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102201194756362570",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KwiRilly 可以噢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758121976219250688",
+        "conversation_id": "2102186747388141931",
+        "created_at": "2026-09-22T00:59:56.000Z",
+        "display_text_range": [
+          10,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T01:59:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102201194756362570"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1674081369830436864",
+              "start": 0,
+              "username": "yshidhe3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102201194756362570",
+        "in_reply_to_user_id": "1674081369830436864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102186747388141931",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yshidhe3 宝宝毫米！可以私信嘛"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-28T15:44:58.000Z",
+        "description": "要升天了呢(´♡ω♡`)（病嬌/地雷~）\n抑鬱焦慮會/割 喔\n跟我聊天要先看自介噢 現在什麼都不接\n前世 @yshidhe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 53,
+                "username": "yshidhe"
+              }
+            ]
+          }
+        },
+        "id": "1674081369830436864",
+        "is_identity_verified": false,
+        "location": "在你心中",
+        "most_recent_tweet_id": "2102211806572028268",
+        "name": "ゆうく；已壊掉2.0",
+        "pinned_tweet_id": "2094754303491850311",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1674081369830436864/1787708588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065587970690998272/p_gIuBa4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 597,
+          "following_count": 49,
+          "like_count": 2944,
+          "listed_count": 1,
+          "media_count": 88,
+          "tweet_count": 1859
+        },
+        "url": "",
+        "username": "yshidhe3",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-02-15T13:33:19.000Z",
+        "description": "芥素2.0... 老号@KawaiiRilly0\n🎀萌新小楠梁/infj/脾气很好/梦想是成为一只猫咪/互fo等欢迎私信/欢迎打赏！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "KawaiiRilly0"
+              }
+            ]
+          }
+        },
+        "id": "1758121976219250688",
+        "is_identity_verified": false,
+        "location": "China｜🚪20起",
+        "most_recent_tweet_id": "2102201194756362570",
+        "name": "KwiRilly",
+        "pinned_tweet_id": "1961117083959529858",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1758121976219250688/1734243117",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1758123078054555648/u6ar9ZAr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 710,
+          "following_count": 1523,
+          "like_count": 4169,
+          "listed_count": 1,
+          "media_count": 69,
+          "tweet_count": 433
+        },
+        "url": "",
+        "username": "KwiRilly",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

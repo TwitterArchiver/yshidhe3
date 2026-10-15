@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1674081369830436864",
+    "conversation_id": "2107682439812497851",
+    "created_at": "2026-10-07T06:08:49.000Z",
+    "display_text_range": [
+      8,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-07T07:08:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107714746682343656"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1797363497665519616",
+          "start": 0,
+          "username": "cgnyn3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107714746682343656",
+    "in_reply_to_user_id": "1797363497665519616",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107713410297467213",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cgnyn3 (*≧ω≦)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1674081369830436864",
+        "conversation_id": "2107682439812497851",
+        "created_at": "2026-10-07T06:08:49.000Z",
+        "display_text_range": [
+          8,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-07T07:08:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107714746682343656"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1797363497665519616",
+              "start": 0,
+              "username": "cgnyn3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107714746682343656",
+        "in_reply_to_user_id": "1797363497665519616",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107713410297467213",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cgnyn3 (*≧ω≦)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1797363497665519616",
+        "conversation_id": "2107682439812497851",
+        "created_at": "2026-10-07T06:03:31.000Z",
+        "display_text_range": [
+          10,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-07T07:03:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107713410297467213"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1674081369830436864",
+              "start": 0,
+              "username": "yshidhe3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107713410297467213",
+        "in_reply_to_user_id": "1674081369830436864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107682439812497851",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yshidhe3 我也愛喔"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-28T15:44:58.000Z",
+        "description": "要升天了呢(´♡ω♡`)（病嬌/地雷~）\n跟我聊天要先看自介噢 現在什麼都不接\n偶爾掉落自拍照 前世 @yshidhe\n很重要的人 @XZLT1206",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 51,
+                "username": "yshidhe"
+              },
+              {
+                "end": 75,
+                "start": 66,
+                "username": "XZLT1206"
+              }
+            ]
+          }
+        },
+        "id": "1674081369830436864",
+        "is_identity_verified": false,
+        "location": "在你心中",
+        "most_recent_tweet_id": "2107714746682343656",
+        "name": "ゆうく；已壊掉2.0",
+        "pinned_tweet_id": "2094754303491850311",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1674081369830436864/1787708588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065587970690998272/p_gIuBa4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 675,
+          "following_count": 55,
+          "like_count": 3145,
+          "listed_count": 1,
+          "media_count": 88,
+          "tweet_count": 2001
+        },
+        "url": "",
+        "username": "yshidhe3",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-06-02T20:23:59.000Z",
+        "description": "無所事事到處留言\n如有冒犯請多見諒",
+        "id": "1797363497665519616",
+        "is_identity_verified": false,
+        "location": "Taichung City, Taiwan",
+        "most_recent_tweet_id": "2107713410297467213",
+        "name": "醬醬",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1797363497665519616/1717369399",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876668262643351552/UNQ1LZuA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132,
+          "following_count": 174,
+          "like_count": 5054,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 2855
+        },
+        "url": "",
+        "username": "cgnyn3",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

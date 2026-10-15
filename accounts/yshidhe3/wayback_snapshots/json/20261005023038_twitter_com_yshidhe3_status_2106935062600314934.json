@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1674081369830436864",
+    "conversation_id": "2106890690278101481",
+    "created_at": "2026-10-05T02:30:38.000Z",
+    "display_text_range": [
+      13,
+      29
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-05T03:30:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106935062600314934"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2012986019965198336",
+          "start": 0,
+          "username": "senshow_247"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106935062600314934",
+    "in_reply_to_user_id": "2012986019965198336",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106934644340122111",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@senshow_247 ⁄(⁄ ⁄ ⁄ω⁄ ⁄ ⁄)⁄嘿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1674081369830436864",
+        "conversation_id": "2106890690278101481",
+        "created_at": "2026-10-05T02:30:38.000Z",
+        "display_text_range": [
+          13,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T03:30:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106935062600314934"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2012986019965198336",
+              "start": 0,
+              "username": "senshow_247"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106935062600314934",
+        "in_reply_to_user_id": "2012986019965198336",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106934644340122111",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@senshow_247 ⁄(⁄ ⁄ ⁄ω⁄ ⁄ ⁄)⁄嘿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012986019965198336",
+        "conversation_id": "2106890690278101481",
+        "created_at": "2026-10-05T02:28:58.000Z",
+        "display_text_range": [
+          10,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T03:28:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106934644340122111"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1674081369830436864",
+              "start": 0,
+              "username": "yshidhe3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106934644340122111",
+        "in_reply_to_user_id": "1674081369830436864",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106890690278101481",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yshidhe3 超好看！"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-28T15:44:58.000Z",
+        "description": "要升天了呢(´♡ω♡`)（病嬌/地雷~）\n跟我聊天要先看自介噢 現在什麼都不接\n偶爾掉落自拍照 前世 @yshidhe\n很重要的人 @XZLT1206",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 51,
+                "username": "yshidhe"
+              },
+              {
+                "end": 75,
+                "start": 66,
+                "username": "XZLT1206"
+              }
+            ]
+          }
+        },
+        "id": "1674081369830436864",
+        "is_identity_verified": false,
+        "location": "在你心中",
+        "most_recent_tweet_id": "2106935062600314934",
+        "name": "ゆうく；已壊掉2.0",
+        "pinned_tweet_id": "2094754303491850311",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1674081369830436864/1787708588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065587970690998272/p_gIuBa4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 653,
+          "following_count": 52,
+          "like_count": 3079,
+          "listed_count": 1,
+          "media_count": 90,
+          "tweet_count": 1956
+        },
+        "url": "",
+        "username": "yshidhe3",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-18T20:30:54.000Z",
+        "description": "",
+        "id": "2012986019965198336",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106934940449620165",
+        "name": "淩塵",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024478132137578504/hNK2_A6I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 203,
+          "like_count": 224,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 108
+        },
+        "url": "",
+        "username": "senshow_247",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

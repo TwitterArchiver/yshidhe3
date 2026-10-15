@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2107424522525986816"
+      ],
+      "media_source_tweet_id": [
+        "2107424526959354164"
+      ]
+    },
+    "author_id": "1674081369830436864",
+    "conversation_id": "2107446160315310125",
+    "created_at": "2026-10-06T12:21:33.000Z",
+    "display_text_range": [
+      0,
+      46
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-06T13:21:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107446160315310125"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1954383731839651840",
+          "start": 3,
+          "username": "at25kana_nyan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/CS7l8XvOaZ",
+          "end": 46,
+          "expanded_url": "https://x.com/at25kana_nyan/status/2107424526959354164/photo/1",
+          "media_key": "3_2107424522525986816",
+          "start": 23,
+          "url": "https://t.co/CS7l8XvOaZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107446160315310125",
+    "lang": "qme",
+    "media_metadata": [
+      {
+        "media_key": "3_2107424522525986816"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107424526959354164",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @at25kana_nyan: 💄❤︎ https://t.co/CS7l8XvOaZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1424,
+        "media_key": "3_2107424522525986816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HT8TcAgb0AAqaB4.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2107424522525986816"
+          ],
+          "media_source_tweet_id": [
+            "2107424526959354164"
+          ]
+        },
+        "author_id": "1674081369830436864",
+        "conversation_id": "2107446160315310125",
+        "created_at": "2026-10-06T12:21:33.000Z",
+        "display_text_range": [
+          0,
+          46
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T13:21:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107446160315310125"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1954383731839651840",
+              "start": 3,
+              "username": "at25kana_nyan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CS7l8XvOaZ",
+              "end": 46,
+              "expanded_url": "https://x.com/at25kana_nyan/status/2107424526959354164/photo/1",
+              "media_key": "3_2107424522525986816",
+              "start": 23,
+              "url": "https://t.co/CS7l8XvOaZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107446160315310125",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2107424522525986816"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107424526959354164",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @at25kana_nyan: 💄❤︎ https://t.co/CS7l8XvOaZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2107424522525986816"
+          ]
+        },
+        "author_id": "1954383731839651840",
+        "conversation_id": "2107424526959354164",
+        "created_at": "2026-10-06T10:55:35.000Z",
+        "display_text_range": [
+          0,
+          3
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T11:55:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107424526959354164"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CS7l8XvOaZ",
+              "end": 27,
+              "expanded_url": "https://x.com/at25kana_nyan/status/2107424526959354164/photo/1",
+              "media_key": "3_2107424522525986816",
+              "start": 4,
+              "url": "https://t.co/CS7l8XvOaZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107424526959354164",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2107424522525986816"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 154,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "💄❤︎ https://t.co/CS7l8XvOaZ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-28T15:44:58.000Z",
+        "description": "要升天了呢(´♡ω♡`)（病嬌/地雷~）\n跟我聊天要先看自介噢 現在什麼都不接\n偶爾掉落自拍照 前世 @yshidhe\n很重要的人 @XZLT1206",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 51,
+                "username": "yshidhe"
+              },
+              {
+                "end": 75,
+                "start": 66,
+                "username": "XZLT1206"
+              }
+            ]
+          }
+        },
+        "id": "1674081369830436864",
+        "is_identity_verified": false,
+        "location": "在你心中",
+        "most_recent_tweet_id": "2107446160315310125",
+        "name": "ゆうく；已壊掉2.0",
+        "pinned_tweet_id": "2094754303491850311",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1674081369830436864/1787708588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065587970690998272/p_gIuBa4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 674,
+          "following_count": 55,
+          "like_count": 3148,
+          "listed_count": 1,
+          "media_count": 90,
+          "tweet_count": 1994
+        },
+        "url": "",
+        "username": "yshidhe3",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-08-10T03:26:17.000Z",
+        "description": "♡ 𝑁𝑜 𝐾𝑎𝑛𝑎𝑑𝑒 𝑛𝑜 𝑙𝑖𝑓𝑒 ♡",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/154cm_UTxTU",
+                "end": 23,
+                "expanded_url": "https://lit.link/154cm_UTxTU",
+                "start": 0,
+                "url": "https://t.co/dQAokL2CWv"
+              }
+            ]
+          }
+        },
+        "id": "1954383731839651840",
+        "is_identity_verified": false,
+        "location": "届けたいみんなのために",
+        "most_recent_tweet_id": "2107424526959354164",
+        "name": "こあ",
+        "pinned_tweet_id": "2074444600505467287",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1954383731839651840/1768796221",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995484158253215744/NeyMQ0qv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 70,
+          "like_count": 397,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 48
+        },
+        "url": "https://t.co/dQAokL2CWv",
+        "username": "at25kana_nyan",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

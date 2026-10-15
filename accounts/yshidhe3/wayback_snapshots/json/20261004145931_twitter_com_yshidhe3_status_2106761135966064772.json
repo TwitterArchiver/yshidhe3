@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1674081369830436864",
+    "conversation_id": "2106700926757319060",
+    "created_at": "2026-10-04T14:59:31.000Z",
+    "display_text_range": [
+      28,
+      34
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-04T15:59:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106761135966064772"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1971639608547926016",
+          "start": 0,
+          "username": "qwqwannafucku"
+        },
+        {
+          "end": 27,
+          "id": "883720757158699008",
+          "start": 15,
+          "username": "kenphk852hk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106761135966064772",
+    "in_reply_to_user_id": "1971639608547926016",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106759827129348339",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qwqwannafucku @kenphk852hk (*≧ω≦)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1674081369830436864",
+        "conversation_id": "2106700926757319060",
+        "created_at": "2026-10-04T14:59:31.000Z",
+        "display_text_range": [
+          28,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T15:59:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106761135966064772"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1971639608547926016",
+              "start": 0,
+              "username": "qwqwannafucku"
+            },
+            {
+              "end": 27,
+              "id": "883720757158699008",
+              "start": 15,
+              "username": "kenphk852hk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106761135966064772",
+        "in_reply_to_user_id": "1971639608547926016",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106759827129348339",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qwqwannafucku @kenphk852hk (*≧ω≦)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971639608547926016",
+        "conversation_id": "2106700926757319060",
+        "created_at": "2026-10-04T14:54:19.000Z",
+        "display_text_range": [
+          23,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T15:54:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106759827129348339"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1674081369830436864",
+              "start": 0,
+              "username": "yshidhe3"
+            },
+            {
+              "end": 22,
+              "id": "883720757158699008",
+              "start": 10,
+              "username": "kenphk852hk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106759827129348339",
+        "in_reply_to_user_id": "1674081369830436864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106702300014428177",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yshidhe3 @kenphk852hk 好可爱"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-28T15:44:58.000Z",
+        "description": "要升天了呢(´♡ω♡`)（病嬌/地雷~）\n抑鬱焦慮會/割 喔\n跟我聊天要先看自介噢 現在什麼都不接\n偶爾掉落自拍照 前世 @yshidhe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 61,
+                "username": "yshidhe"
+              }
+            ]
+          }
+        },
+        "id": "1674081369830436864",
+        "is_identity_verified": false,
+        "location": "在你心中",
+        "most_recent_tweet_id": "2106761135966064772",
+        "name": "ゆうく；已壊掉2.0",
+        "pinned_tweet_id": "2094754303491850311",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1674081369830436864/1787708588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065587970690998272/p_gIuBa4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 637,
+          "following_count": 51,
+          "like_count": 3059,
+          "listed_count": 1,
+          "media_count": 88,
+          "tweet_count": 1942
+        },
+        "url": "",
+        "username": "yshidhe3",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-09-26T18:15:17.000Z",
+        "description": "￴",
+        "id": "1971639608547926016",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106760346992275873",
+        "name": "无上殊荣",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1971639608547926016/1790611962",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2105489687087591424/4ukAtdi7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 35,
+          "like_count": 6703,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 212
+        },
+        "url": "",
+        "username": "qwqwannafucku",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-07-08T16:13:42.000Z",
+        "description": "香港人です。",
+        "id": "883720757158699008",
+        "is_identity_verified": false,
+        "location": "Hong Kong",
+        "most_recent_tweet_id": "2106756870342140052",
+        "name": "ケン！",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/883720757158699008/1499612417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/884063988056596480/BbIkRuKd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 99,
+          "like_count": 2316,
+          "listed_count": 1,
+          "media_count": 176,
+          "tweet_count": 366
+        },
+        "url": "",
+        "username": "kenphk852hk",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

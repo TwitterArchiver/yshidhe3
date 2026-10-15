@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1674081369830436864",
+    "conversation_id": "2104950523761975368",
+    "created_at": "2026-09-29T22:18:19.000Z",
+    "display_text_range": [
+      11,
+      25
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-29T23:18:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105059626949698037"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2099546722213216256",
+          "start": 0,
+          "username": "lyonlulkx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105059626949698037",
+    "in_reply_to_user_id": "2099546722213216256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104982828392071259",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lyonlulkx 只要推到給中圈就有可能被舉報"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1674081369830436864",
+        "conversation_id": "2104950523761975368",
+        "created_at": "2026-09-29T22:18:19.000Z",
+        "display_text_range": [
+          11,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T23:18:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105059626949698037"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2099546722213216256",
+              "start": 0,
+              "username": "lyonlulkx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105059626949698037",
+        "in_reply_to_user_id": "2099546722213216256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104982828392071259",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lyonlulkx 只要推到給中圈就有可能被舉報"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2099546722213216256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1447598669843156992",
+              "name": "Translation"
+            }
+          }
+        ],
+        "conversation_id": "2104950523761975368",
+        "created_at": "2026-09-29T17:13:09.000Z",
+        "display_text_range": [
+          10,
+          52
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T18:13:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104982828392071259"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1674081369830436864",
+              "start": 0,
+              "username": "yshidhe3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104982828392071259",
+        "in_reply_to_user_id": "1674081369830436864",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104950523761975368",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yshidhe3 Use AI to translate your post into English"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-28T15:44:58.000Z",
+        "description": "要升天了呢(´♡ω♡`)（病嬌/地雷~）\n抑鬱焦慮會/割 喔\n跟我聊天要先看自介噢 現在什麼都不接\n前世 @yshidhe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 53,
+                "username": "yshidhe"
+              }
+            ]
+          }
+        },
+        "id": "1674081369830436864",
+        "is_identity_verified": false,
+        "location": "在你心中",
+        "most_recent_tweet_id": "2105059626949698037",
+        "name": "ゆうく；已壊掉2.0",
+        "pinned_tweet_id": "2094754303491850311",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1674081369830436864/1787708588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065587970690998272/p_gIuBa4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 614,
+          "following_count": 48,
+          "like_count": 3016,
+          "listed_count": 1,
+          "media_count": 88,
+          "tweet_count": 1911
+        },
+        "url": "",
+        "username": "yshidhe3",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-14T17:13:53.000Z",
+        "description": "",
+        "id": "2099546722213216256",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105016188111822953",
+        "name": "lyon lu",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2099547405796700160/2jakSWkx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 12,
+          "like_count": 354,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 28
+        },
+        "url": "",
+        "username": "lyonlulkx",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

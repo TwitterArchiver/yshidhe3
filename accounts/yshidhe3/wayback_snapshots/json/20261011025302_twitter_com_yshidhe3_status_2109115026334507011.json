@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2109115020621787136"
+      ]
+    },
+    "author_id": "1674081369830436864",
+    "conversation_id": "2109115026334507011",
+    "created_at": "2026-10-11T02:53:02.000Z",
+    "display_text_range": [
+      0,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-11T03:53:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2109115026334507011"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/OApBRRy6i9",
+          "end": 37,
+          "expanded_url": "https://x.com/yshidhe3/status/2109115026334507011/photo/1",
+          "media_key": "3_2109115020621787136",
+          "start": 14,
+          "url": "https://t.co/OApBRRy6i9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2109115026334507011",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2109115020621787136"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "討厭安靜的通知( ´▽｀) https://t.co/OApBRRy6i9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 152,
+        "media_key": "3_2109115020621787136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUUU78qaMAAgmIJ.jpg",
+        "width": 206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2109115020621787136"
+          ]
+        },
+        "author_id": "1674081369830436864",
+        "conversation_id": "2109115026334507011",
+        "created_at": "2026-10-11T02:53:02.000Z",
+        "display_text_range": [
+          0,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-11T03:53:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2109115026334507011"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OApBRRy6i9",
+              "end": 37,
+              "expanded_url": "https://x.com/yshidhe3/status/2109115026334507011/photo/1",
+              "media_key": "3_2109115020621787136",
+              "start": 14,
+              "url": "https://t.co/OApBRRy6i9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2109115026334507011",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2109115020621787136"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "討厭安靜的通知( ´▽｀) https://t.co/OApBRRy6i9"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-28T15:44:58.000Z",
+        "description": "要升天了呢(´♡ω♡`)（病嬌/地雷~）\n跟我聊天要先看自介噢 現在什麼都不接\n偶爾掉落自拍照 歡迎零用我 \n前世 @yshidhe\n很重要的人 @XZLT1206",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 58,
+                "username": "yshidhe"
+              },
+              {
+                "end": 82,
+                "start": 73,
+                "username": "XZLT1206"
+              }
+            ]
+          }
+        },
+        "id": "1674081369830436864",
+        "is_identity_verified": false,
+        "location": "在你心中",
+        "most_recent_tweet_id": "2109115026334507011",
+        "name": "ゆうく；已壊掉2.0",
+        "pinned_tweet_id": "2094754303491850311",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1674081369830436864/1787708588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065587970690998272/p_gIuBa4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 810,
+          "following_count": 56,
+          "like_count": 3211,
+          "listed_count": 1,
+          "media_count": 95,
+          "tweet_count": 2032
+        },
+        "url": "",
+        "username": "yshidhe3",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
